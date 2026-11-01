@@ -6232,5 +6232,117 @@ window.ITENS = [
     },
     "atualizado": "2026-10-31",
     "obs": ""
+  },
+  {
+    "nome": "Chave do porão do q…",
+    "grupo": "Chave",
+    "categoria": "Chaves do Vale",
+    "precos": {
+      "novo": 747054,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 30
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Chave do Depósito d…",
+    "grupo": "Chave",
+    "categoria": "Chaves do Vale",
+    "precos": {
+      "novo": 1056818,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 30
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Chave do restaurant…",
+    "grupo": "Chave",
+    "categoria": "Chaves do Vale",
+    "precos": {
+      "novo": 325622,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 45
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Chave da sala de arq…",
+    "grupo": "Chave",
+    "categoria": "Chaves do Vale",
+    "precos": {
+      "novo": 838480,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 45
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Chave do dormitório …",
+    "grupo": "Chave",
+    "categoria": "Chaves do Vale",
+    "precos": {
+      "novo": 377160,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 45
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Chave do vestiário d…",
+    "grupo": "Chave",
+    "categoria": "Chaves do Vale",
+    "precos": {
+      "novo": 971125,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 45
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Chave do Quarto Prin…",
+    "grupo": "Chave",
+    "categoria": "Chaves do Vale",
+    "precos": {
+      "novo": 2184228,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 30
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
