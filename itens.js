@@ -521,7 +521,13 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 4,
-      "Durab.": 45
+      "Durab.": 45,
+      "Peso": "2,40 kg",
+      "Material": "Composto",
+      "Bloqueio sonoro": "Nenhum",
+      "Vel. movimento": "-3%",
+      "Área": "Cabeça; Ouvidos",
+      "Acessórios": "Máscara, Equipamento"
     },
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato",
@@ -532,7 +538,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Capacete de Helicóp…",
+    "nome": "Capacete de Helicóptero 56K",
     "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
@@ -542,7 +548,15 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 4,
-      "Durab.": 50
+      "Durab.": 50,
+      "Peso": "2,20 kg",
+      "Material": "Aramida",
+      "Bloqueio sonoro": "Nenhum",
+      "Ergonomia": -5,
+      "Vel. movimento": "-6%",
+      "Área": "Cabeça; Ouvidos; Rosto",
+      "Captador de som": "Fraco",
+      "Redução de ruído": "Fraco"
     },
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato",
@@ -563,7 +577,14 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 5,
-      "Durab.": 65
+      "Durab.": 65,
+      "Peso": "3,90 kg",
+      "Material": "Aço Endurecido",
+      "Bloqueio sonoro": "Grave",
+      "Ergonomia": -10,
+      "Vel. movimento": "-4%",
+      "Área": "Cabeça; Ouvidos",
+      "Acessórios": "Máscara"
     },
     "atualizado": "2026-10-31",
     "obs": "",
@@ -574,7 +595,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Capacete Militar SH6…",
+    "nome": "Capacete Militar SH60",
     "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
@@ -584,7 +605,14 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 5,
-      "Durab.": 50
+      "Durab.": 50,
+      "Peso": "3,20 kg",
+      "Material": "Composto",
+      "Bloqueio sonoro": "Ligeiro",
+      "Ergonomia": -9,
+      "Vel. movimento": "-3%",
+      "Área": "Cabeça; Ouvidos",
+      "Acessórios": "Máscara"
     },
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato",
@@ -595,7 +623,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Capacete Militar SH5…",
+    "nome": "Capacete Militar SH50",
     "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
@@ -605,7 +633,14 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 5,
-      "Durab.": 60
+      "Durab.": 60,
+      "Peso": "3,20 kg",
+      "Material": "Aço Endurecido",
+      "Bloqueio sonoro": "Ligeiro",
+      "Ergonomia": -7,
+      "Vel. movimento": "-4%",
+      "Área": "Cabeça; Ouvidos",
+      "Acessórios": "Máscara"
     },
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato",
@@ -616,7 +651,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Capacete Tático de A…",
+    "nome": "Capacete Tático de Assalto FA",
     "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
@@ -626,7 +661,13 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 5,
-      "Durab.": 50
+      "Durab.": 50,
+      "Peso": "2,10 kg",
+      "Material": "Composto",
+      "Bloqueio sonoro": "Nenhum",
+      "Ergonomia": -2,
+      "Vel. movimento": "-1%",
+      "Área": "Cabeça"
     },
     "atualizado": "2026-10-31",
     "obs": "",
@@ -637,7 +678,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Capacete Tático Pes…",
+    "nome": "Capacete Tático Pesado 03",
     "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
@@ -647,7 +688,13 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 5,
-      "Durab.": 45
+      "Durab.": 45,
+      "Peso": "2,10 kg",
+      "Material": "Composto",
+      "Bloqueio sonoro": "Nenhum",
+      "Vel. movimento": "-1%",
+      "Área": "Cabeça",
+      "Acessórios": "Máscara, Equipamento"
     },
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato",
@@ -658,7 +705,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Capacete Tático Pes…",
+    "nome": "Capacete Tático Pesado RSP",
     "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
@@ -668,7 +715,14 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 5,
-      "Durab.": 55
+      "Durab.": 55,
+      "Peso": "2,50 kg",
+      "Material": "Composto",
+      "Bloqueio sonoro": "Ligeiro",
+      "Ergonomia": -2,
+      "Vel. movimento": "-4%",
+      "Área": "Cabeça; Ouvidos",
+      "Acessórios": "Máscara, Equipamento"
     },
     "atualizado": "2026-10-31",
     "obs": "",
@@ -679,7 +733,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Capacete Explosão P…",
+    "nome": "Capacete Explosão Pesada AN95",
     "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
@@ -689,7 +743,16 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 5,
-      "Durab.": 55
+      "Durab.": 55,
+      "Peso": "3,10 kg",
+      "Material": "Titânio",
+      "Bloqueio sonoro": "Nenhum",
+      "Ergonomia": -5,
+      "Vel. movimento": "-5%",
+      "Área": "Cabeça; Ouvidos",
+      "Captador de som": "Médio",
+      "Redução de ruído": "Forte",
+      "Acessórios": "Máscara"
     },
     "atualizado": "2026-10-31",
     "obs": "",
@@ -710,7 +773,14 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 6,
-      "Durab.": 75
+      "Durab.": 75,
+      "Peso": "4,10 kg",
+      "Material": "Aço Endurecido",
+      "Bloqueio sonoro": "Grave",
+      "Ergonomia": -9,
+      "Vel. movimento": "-4%",
+      "Área": "Cabeça; Ouvidos",
+      "Acessórios": "Máscara"
     },
     "atualizado": "2026-10-31",
     "obs": "",
@@ -721,7 +791,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Capacete das Forças …",
+    "nome": "Capacete das Forças Especiais RST",
     "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
@@ -731,7 +801,14 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 6,
-      "Durab.": 75
+      "Durab.": 75,
+      "Peso": "2,60 kg",
+      "Material": "Alumínio",
+      "Bloqueio sonoro": "Normal",
+      "Ergonomia": -10,
+      "Vel. movimento": "-6%",
+      "Área": "Cabeça; Ouvidos",
+      "Acessórios": "Máscara"
     },
     "atualizado": "2026-10-31",
     "obs": "",
@@ -742,7 +819,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Capacete Ofensivo H…",
+    "nome": "Capacete Ofensivo HG84",
     "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
@@ -752,7 +829,13 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 6,
-      "Durab.": 70
+      "Durab.": 70,
+      "Peso": "2,70 kg",
+      "Material": "Composto",
+      "Bloqueio sonoro": "Normal",
+      "Ergonomia": -3,
+      "Vel. movimento": "-4%",
+      "Área": "Cabeça; Ouvidos"
     },
     "atualizado": "2026-10-31",
     "obs": "",
@@ -763,7 +846,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Capacete Tático Pes…",
+    "nome": "Capacete Tático Pesado IND50",
     "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
@@ -773,7 +856,14 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 6,
-      "Durab.": 60
+      "Durab.": 60,
+      "Peso": "2,30 kg",
+      "Material": "Composto",
+      "Bloqueio sonoro": "Nenhum",
+      "Ergonomia": -1,
+      "Vel. movimento": "-1%",
+      "Área": "Cabeça",
+      "Acessórios": "Máscara, Equipamento"
     },
     "atualizado": "2026-10-31",
     "obs": "",
@@ -784,7 +874,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Capacete Explosão D…",
+    "nome": "Capacete Explosão DOD9",
     "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
@@ -794,7 +884,13 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 6,
-      "Durab.": 75
+      "Durab.": 75,
+      "Peso": "3,50 kg",
+      "Material": "Composto",
+      "Bloqueio sonoro": "Grave",
+      "Ergonomia": -10,
+      "Vel. movimento": "-8%",
+      "Área": "Cabeça; Ouvidos; Rosto"
     },
     "atualizado": "2026-10-31",
     "obs": "",
@@ -805,7 +901,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Capacete Tático Pes…",
+    "nome": "Capacete Tático Pesado AS200",
     "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
@@ -815,7 +911,13 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 6,
-      "Durab.": 65
+      "Durab.": 65,
+      "Peso": "1,60 kg",
+      "Material": "Polietileno",
+      "Bloqueio sonoro": "Nenhum",
+      "Vel. movimento": "-7%",
+      "Área": "Cabeça; Ouvidos",
+      "Acessórios": "Máscara"
     },
     "atualizado": "2026-10-31",
     "obs": "",
