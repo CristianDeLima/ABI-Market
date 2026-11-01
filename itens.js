@@ -9712,5 +9712,265 @@ window.ITENS = [
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
     "obs": ""
+  },
+  {
+    "nome": "Recipiente de Filtro",
+    "grupo": "Variedade",
+    "categoria": "Itens Militares Diversos",
+    "precos": {
+      "novo": 9545,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Bússola Militar",
+    "grupo": "Variedade",
+    "categoria": "Itens Militares Diversos",
+    "precos": {
+      "novo": 9660,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cantil Militar",
+    "grupo": "Variedade",
+    "categoria": "Itens Militares Diversos",
+    "precos": {
+      "novo": 11781,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Corda de Segurança",
+    "grupo": "Variedade",
+    "categoria": "Itens Militares Diversos",
+    "precos": {
+      "novo": 16428,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Apito do contramest…",
+    "grupo": "Variedade",
+    "categoria": "Itens Militares Diversos",
+    "precos": {
+      "novo": 5550,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Peças de Armas",
+    "grupo": "Variedade",
+    "categoria": "Itens Militares Diversos",
+    "precos": {
+      "novo": 22560,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Receptor",
+    "grupo": "Variedade",
+    "categoria": "Itens Militares Diversos",
+    "precos": {
+      "novo": 21090,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Inibidor de Sinal",
+    "grupo": "Variedade",
+    "categoria": "Itens Militares Diversos",
+    "precos": {
+      "novo": 12672,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Binóculos de Longo A…",
+    "grupo": "Variedade",
+    "categoria": "Itens Militares Diversos",
+    "precos": {
+      "novo": 12246,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Rádio portátil",
+    "grupo": "Variedade",
+    "categoria": "Itens Militares Diversos",
+    "precos": {
+      "novo": 24648,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Paracord",
+    "grupo": "Variedade",
+    "categoria": "Itens Militares Diversos",
+    "precos": {
+      "novo": 36520,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Bala de Canhão",
+    "grupo": "Variedade",
+    "categoria": "Itens Militares Diversos",
+    "precos": {
+      "novo": 22914,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Rádio",
+    "grupo": "Variedade",
+    "categoria": "Itens Militares Diversos",
+    "precos": {
+      "novo": 23104,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Kit de Ferramentas …",
+    "grupo": "Variedade",
+    "categoria": "Itens Militares Diversos",
+    "precos": {
+      "novo": 30600,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Binóculos periscópic…",
+    "grupo": "Variedade",
+    "categoria": "Itens Militares Diversos",
+    "precos": {
+      "novo": 23294,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Dispositivo de Comu…",
+    "grupo": "Variedade",
+    "categoria": "Itens Militares Diversos",
+    "precos": {
+      "novo": 68058,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Detector de Nós Não-…",
+    "grupo": "Variedade",
+    "categoria": "Itens Militares Diversos",
+    "precos": {
+      "novo": 69198,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Rádio Militar",
+    "grupo": "Variedade",
+    "categoria": "Itens Militares Diversos",
+    "precos": {
+      "novo": 83960,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Nivelador",
+    "grupo": "Variedade",
+    "categoria": "Itens Militares Diversos",
+    "precos": {
+      "novo": 223800,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Módulo do ponteiro l…",
+    "grupo": "Variedade",
+    "categoria": "Itens Militares Diversos",
+    "precos": {
+      "novo": 245120,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
