@@ -9348,5 +9348,187 @@ window.ITENS = [
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
     "obs": ""
+  },
+  {
+    "nome": "Notas Adesivas",
+    "grupo": "Variedade",
+    "categoria": "Produtos de Papel",
+    "precos": {
+      "novo": 1980,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Livro Antigo",
+    "grupo": "Variedade",
+    "categoria": "Produtos de Papel",
+    "precos": {
+      "novo": 1919,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Caderno",
+    "grupo": "Variedade",
+    "categoria": "Produtos de Papel",
+    "precos": {
+      "novo": 2610,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Calendário de Mesa",
+    "grupo": "Variedade",
+    "categoria": "Produtos de Papel",
+    "precos": {
+      "novo": 3090,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Capa Dura",
+    "grupo": "Variedade",
+    "categoria": "Produtos de Papel",
+    "precos": {
+      "novo": 11155,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Diário de um operári…",
+    "grupo": "Variedade",
+    "categoria": "Produtos de Papel",
+    "precos": {
+      "novo": 12160,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Documento",
+    "grupo": "Variedade",
+    "categoria": "Produtos de Papel",
+    "precos": {
+      "novo": 12880,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Quadrinho do Space …",
+    "grupo": "Variedade",
+    "categoria": "Produtos de Papel",
+    "precos": {
+      "novo": 12008,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Pacote de Papel de A…",
+    "grupo": "Variedade",
+    "categoria": "Produtos de Papel",
+    "precos": {
+      "novo": 16497,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Marca-página de Flor…",
+    "grupo": "Variedade",
+    "categoria": "Produtos de Papel",
+    "precos": {
+      "novo": 40920,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Documento Secreto",
+    "grupo": "Variedade",
+    "categoria": "Produtos de Papel",
+    "precos": {
+      "novo": 72939,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Diário de Voss",
+    "grupo": "Variedade",
+    "categoria": "Produtos de Papel",
+    "precos": {
+      "novo": 87318,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Fragmentos de Diagr…",
+    "grupo": "Variedade",
+    "categoria": "Produtos de Papel",
+    "precos": {
+      "novo": 232408,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Esboço da Evolução d…",
+    "grupo": "Variedade",
+    "categoria": "Produtos de Papel",
+    "precos": {
+      "novo": 243320,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
