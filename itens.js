@@ -19,7 +19,7 @@ window.GRUPOS = ["Equipamento", "Peça de Arma", "Ferrolhos", "Munição", "Item
 
 // Pendências: categorias ou dados que ainda faltam enviar.
 window.PENDENCIAS = [
-  { item: "Peça de Arma", nota: "Mira, Carregador, Cabo Frontal, Cabo Traseiro e Coronha já cadastrados (Cabo Frontal estava indisponível no mercado). Faltam as outras subcategorias." },
+  { item: "Peça de Arma", nota: "Mira, Carregador, Cabo Frontal, Cabo Traseiro, Coronha e Bocal já cadastrados (Cabo Frontal estava indisponível no mercado). Faltam as outras subcategorias." },
   { item: "Máscaras de Gás", nota: "Confirmar se existem preços Como nova e Usada." }
 ];
 
@@ -17005,6 +17005,1774 @@ window.ITENS = [
     "categoria": "Coronha",
     "precos": {
       "novo": 162071,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Quebra-chamas M9 M…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 305,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Quebra-chamas Híbri…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 729,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Compensador de Boc…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 852,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Supressor de chama …",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 1056,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Adaptador de Bocal …",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 1152,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Freio de Boca",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 608,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Adaptador de Bocal …",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 1292,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Quebra-chamas Padr…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 1785,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Adaptador de Bocal …",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 2046,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Freio de boca leve 9…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 2002,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Adaptador de Bocal …",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 1058,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Quebra-chamas Tátic…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 1944,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Quebra-chamas Multi…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 1170,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Adaptador de Bocal …",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 2240,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Adaptador Mosin 7,6…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 1504,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Adaptador Mosin 7,6…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 3136,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Quebra-chamas de B…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 1280,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Freio de boca 9mm",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 4983,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Quebra-chamas Espe…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 2706,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Quebra-chamas QC61",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 1813,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Quebra-chamas de B…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 1628,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Adaptador de Bocal …",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 6116,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Quebra-chamas Padr…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 1824,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Quebra-chamas T79",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 4730,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Compensador de Boc…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 5460,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Quebra-chamas Longo",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 8092,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Silenciador universa…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 6210,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Silenciador Especial…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 8211,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Bocal Integrado da U…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 8023,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Capa de Cano Vector",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 6278,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Adaptador de Bocal …",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 6399,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Compensador de Boc…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 6952,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Compensador de Boc…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 8640,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Estrangulador da US…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 9912,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Quebra-chamas Estr…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 7830,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Freio de Boca da PP1…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 7047,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Quebra-chamas de B…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 8613,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Silenciador Especial…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 7920,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Freio de boca univer…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 3588,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Adaptador de Escope…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 4416,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Freio de Boca da Sér…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 13192,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Quebra-chamas Multi…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 10197,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Silenciador T85",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 9048,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Quebra-chamas Clás…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 3990,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Compensador de Boc…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 6206,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Quebra-chamas Vect…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 10137,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Silenciador QC61",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 8475,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Silenciador Convenci…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 9945,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Quebra-chamas Univ…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 4956,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Quebra-chamas Long…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 10496,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Quebra-chamas de B…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 4902,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Silenciador AMB-17",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 12900,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Quebra-chamas RPK …",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 4902,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Quebra-chamas Está…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 13000,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Silenciador da P50A",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 16380,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Adaptador de Quebra…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 8190,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Freio de boca dedica…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 14430,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Quebra-chamas Está…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 10530,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Freio de boca dedica…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 13200,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Adaptador de Bocal …",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 9916,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Silenciador M1911",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 11919,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Silenciador dedicado…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 15207,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Corrediça de Bocal E…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 16756,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Silenciador Série AK…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 8614,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Quebra-chamas Multi…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 12118,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Silenciador 556 do M…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 22230,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Quebra-chamas de Pr…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 28372,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Silenciador 7,62x39",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 25519,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Quebra-chamas Padr…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 6536,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Silenciador MPF45",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 7052,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Freio de boca indust…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 15750,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Silenciador Convenci…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 16287,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Quebra-chamas Está…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 18624,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Freio de Boca AN-94",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 10864,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Quebra-chamas do T…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 22620,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Quebra-chamas de Pr…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 20475,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Quebra-chamas Clás…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 17355,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Supressor de chama …",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 19404,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Quebra-chamas Espir…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 20882,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Quebra-chamas Multi…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 15169,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Silenciador de Rifle…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 36582,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda de Corrediça …",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 19497,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Quebra-chamas Multi…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 7828,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Quebra-chamas Garr…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 17181,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Silenciador Leve 9x1…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 8346,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Silenciador de Liga …",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 16206,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Silenciador MK14/M14",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 16800,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Silenciador Série AK…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 21565,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Quebra-chamas do A…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 22368,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Sil. U191",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 31440,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Silenciador universa…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 22413,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Silenciador SureFire…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 25546,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Quebra-chamas T19X",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 137781,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Silenciador de Escop…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 20007,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Silenciador Hexagon…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 21420,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Silenciador Hexagon…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 27285,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda de Freio de B…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 34170,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Silenciador 9x19",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 10280,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Quebra-chamas MCX",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 9804,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Silenciador MP5SD",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 14448,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Freio de boca leve d…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 20202,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Quebra-chamas de B…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 31460,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Silenciador Multi-ca…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 19875,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Silenciador Vector45",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 21432,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Freio de Boca AK12",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 33796,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Adaptador de Quebra…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 27930,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Adaptador de bocal d…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 10906,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Silenciador do T88",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 40608,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Adaptador de Bocal …",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 37120,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Quebra-chamas de B…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 11058,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Quebra-chamas de Pr…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 32883,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Quebra-chamas do Z…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 33174,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Silenciador dedicado…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 11096,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Compensador de Boc…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 49640,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Quebra-chamas de B…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 22484,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Compensador Exclusi…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 49640,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Silenciador leve 7,6…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 34164,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Silenciador Integrad…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 31096,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Silenciador dedicado…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 30885,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Silenciador de AK-12",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 42237,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Silenciador MCX",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 23168,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Silenciador Especial…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 18432,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Silenciador Convenci…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 38016,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Silenciador T951",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 30646,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Silenciador Integrad…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 18012,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Supressor de chama …",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 53136,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Silenciador Hexagon…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 19494,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Silenciador Integrad…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 20330,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Silenciador Especial…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 67344,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Silenciador de Rifle…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 26082,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Silenciador 5,56x45",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 21698,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Freio de Boca do AK-…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 61692,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Silenciador de Preci…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 23294,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Freio de Boca Modern…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 25346,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Silenciador .338",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 104247,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Compensador de Boc…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bocal",
+    "precos": {
+      "novo": 103125,
       "comoNovo": null,
       "usado": null
     },
