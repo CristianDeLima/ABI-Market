@@ -6008,5 +6008,85 @@ window.ITENS = [
     },
     "atualizado": "2026-10-31",
     "obs": ""
+  },
+  {
+    "nome": "Chave Estábulo Arm…",
+    "grupo": "Chave",
+    "categoria": "Chaves da Fazenda",
+    "precos": {
+      "novo": 277286,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 75
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Chave 201 Hotel",
+    "grupo": "Chave",
+    "categoria": "Chaves da Fazenda",
+    "precos": {
+      "novo": 798100,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 45
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Chave do Escritório …",
+    "grupo": "Chave",
+    "categoria": "Chaves da Fazenda",
+    "precos": {
+      "novo": 1036035,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 45
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Chave do Quarto Prin…",
+    "grupo": "Chave",
+    "categoria": "Chaves da Fazenda",
+    "precos": {
+      "novo": 526368,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 45
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Chave do Hotel Quart…",
+    "grupo": "Chave",
+    "categoria": "Chaves da Fazenda",
+    "precos": {
+      "novo": 5346846,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 30
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
