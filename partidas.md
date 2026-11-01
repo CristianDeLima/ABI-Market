@@ -8,5 +8,6 @@
 | 4 | 01/11/2026 | — | 1.275.575 | 0 (morreu) | **−1.275.575** | Seguro e Caixa de Titânio não contados |
 | 5 | 01/11/2026 | — | ? | 1.811.038 (extraiu) | aguardando entrada | |
 | 6 | 01/11/2026 | — | 167.280 | 2.634.688 (extraiu) | **+2.467.408** | |
+| 7 | 01/11/2026 | — | 675.360 | em andamento | — | |
 
 **Saldo acumulado: +177.787** (ainda falta descontar a entrada da partida 5)
