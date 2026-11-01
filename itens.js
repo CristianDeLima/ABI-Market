@@ -6917,5 +6917,317 @@ window.ITENS = [
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
     "obs": ""
+  },
+  {
+    "nome": "Porcas",
+    "grupo": "Variedade",
+    "categoria": "Materiais de Construção",
+    "precos": {
+      "novo": 1330,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Parafusos",
+    "grupo": "Variedade",
+    "categoria": "Materiais de Construção",
+    "precos": {
+      "novo": 1386,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Fita",
+    "grupo": "Variedade",
+    "categoria": "Materiais de Construção",
+    "precos": {
+      "novo": 1485,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Fio de Energia",
+    "grupo": "Variedade",
+    "categoria": "Materiais de Construção",
+    "precos": {
+      "novo": 1515,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Fita IMP",
+    "grupo": "Variedade",
+    "categoria": "Materiais de Construção",
+    "precos": {
+      "novo": 2568,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Uma Caixa de Pregos",
+    "grupo": "Variedade",
+    "categoria": "Materiais de Construção",
+    "precos": {
+      "novo": 2550,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Acrílico",
+    "grupo": "Variedade",
+    "categoria": "Materiais de Construção",
+    "precos": {
+      "novo": 2575,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Plugue em Forma de T",
+    "grupo": "Variedade",
+    "categoria": "Materiais de Construção",
+    "precos": {
+      "novo": 2800,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Tubo",
+    "grupo": "Variedade",
+    "categoria": "Materiais de Construção",
+    "precos": {
+      "novo": 5371,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Tubo de Silicone",
+    "grupo": "Variedade",
+    "categoria": "Materiais de Construção",
+    "precos": {
+      "novo": 6642,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano de Latão",
+    "grupo": "Variedade",
+    "categoria": "Materiais de Construção",
+    "precos": {
+      "novo": 6270,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo",
+    "grupo": "Variedade",
+    "categoria": "Materiais de Construção",
+    "precos": {
+      "novo": 8509,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Lasca de Carvalho",
+    "grupo": "Variedade",
+    "categoria": "Materiais de Construção",
+    "precos": {
+      "novo": 21812,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Almofada de Borracha",
+    "grupo": "Variedade",
+    "categoria": "Materiais de Construção",
+    "precos": {
+      "novo": 23716,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Painel Acústico",
+    "grupo": "Variedade",
+    "categoria": "Materiais de Construção",
+    "precos": {
+      "novo": 25542,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Espuma de Vedação",
+    "grupo": "Variedade",
+    "categoria": "Materiais de Construção",
+    "precos": {
+      "novo": 23040,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Gel à Prova de Balas",
+    "grupo": "Variedade",
+    "categoria": "Materiais de Construção",
+    "precos": {
+      "novo": 41860,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Tubo de Aço",
+    "grupo": "Variedade",
+    "categoria": "Materiais de Construção",
+    "precos": {
+      "novo": 32076,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Saco de Cimento",
+    "grupo": "Variedade",
+    "categoria": "Materiais de Construção",
+    "precos": {
+      "novo": 40016,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Borracha Dura Resist…",
+    "grupo": "Variedade",
+    "categoria": "Materiais de Construção",
+    "precos": {
+      "novo": 92976,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Placa Liga de Titâni…",
+    "grupo": "Variedade",
+    "categoria": "Materiais de Construção",
+    "precos": {
+      "novo": 104099,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Algodão de isolamen…",
+    "grupo": "Variedade",
+    "categoria": "Materiais de Construção",
+    "precos": {
+      "novo": 110037,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Fio de paládio",
+    "grupo": "Variedade",
+    "categoria": "Materiais de Construção",
+    "precos": {
+      "novo": 227360,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Placa de Aço Arquea…",
+    "grupo": "Variedade",
+    "categoria": "Materiais de Construção",
+    "precos": {
+      "novo": 231686,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
