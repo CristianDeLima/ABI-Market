@@ -1459,7 +1459,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Colete Balístico For…",
+    "nome": "Colete Balístico Fortaleza SEK",
     "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
@@ -1469,7 +1469,11 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 4,
-      "Durab.": 50
+      "Durab.": 50,
+      "Peso": "5,60 kg",
+      "Material": "Alumínio",
+      "Vel. movimento": "-3%",
+      "Área": "Tórax"
     },
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato",
@@ -1480,7 +1484,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Colete Balístico 6B2…",
+    "nome": "Colete Balístico 6B23",
     "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
@@ -1490,7 +1494,12 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 4,
-      "Durab.": 70
+      "Durab.": 70,
+      "Peso": "11,20 kg",
+      "Material": "Aço Endurecido",
+      "Ergonomia": -6,
+      "Vel. movimento": "-9%",
+      "Área": "Tórax; Abdômen Superior; Abdômen Inferior"
     },
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato",
@@ -1501,7 +1510,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Colete Balístico 6B1…",
+    "nome": "Colete Balístico 6B13",
     "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
@@ -1511,7 +1520,12 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 4,
-      "Durab.": 65
+      "Durab.": 65,
+      "Peso": "7,00 kg",
+      "Material": "Composto",
+      "Ergonomia": -5,
+      "Vel. movimento": "-5%",
+      "Área": "Tórax; Abdômen Superior"
     },
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato",
@@ -1522,7 +1536,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Colete Balístico IND…",
+    "nome": "Colete Balístico IND401",
     "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
@@ -1532,7 +1546,12 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 4,
-      "Durab.": 55
+      "Durab.": 55,
+      "Peso": "6,80 kg",
+      "Material": "Alumínio",
+      "Ergonomia": -2,
+      "Vel. movimento": "-4%",
+      "Área": "Tórax; Abdômen Superior"
     },
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato",
@@ -1543,7 +1562,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Colete Balístico Spa…",
+    "nome": "Colete Balístico Spartan B",
     "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
@@ -1553,7 +1572,12 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 4,
-      "Durab.": 50
+      "Durab.": 50,
+      "Peso": "5,40 kg",
+      "Material": "Aramida",
+      "Ergonomia": -2,
+      "Vel. movimento": "-4%",
+      "Área": "Tórax; Abdômen Superior"
     },
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato",
@@ -1564,7 +1588,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Colete Balístico Com…",
+    "nome": "Colete Balístico Composto 926",
     "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
@@ -1574,7 +1598,12 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 5,
-      "Durab.": 70
+      "Durab.": 70,
+      "Peso": "6,20 kg",
+      "Material": "Composto",
+      "Ergonomia": -3,
+      "Vel. movimento": "-4%",
+      "Área": "Tórax"
     },
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato",
@@ -1585,7 +1614,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Colete Balístico Tát…",
+    "nome": "Colete Balístico Tático H-LC",
     "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
@@ -1595,7 +1624,12 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 5,
-      "Durab.": 70
+      "Durab.": 70,
+      "Peso": "5,90 kg",
+      "Material": "Composto",
+      "Ergonomia": -1,
+      "Vel. movimento": "-5%",
+      "Área": "Tórax"
     },
     "atualizado": "2026-10-31",
     "obs": "",
@@ -1606,7 +1640,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Colete Balístico Pes…",
+    "nome": "Colete Balístico Pesado Defender M4",
     "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
@@ -1616,7 +1650,12 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 5,
-      "Durab.": 80
+      "Durab.": 80,
+      "Peso": "11,80 kg",
+      "Material": "Aço Endurecido",
+      "Ergonomia": -5,
+      "Vel. movimento": "-11%",
+      "Área": "Tórax; Abdômen Superior; Abdômen Inferior"
     },
     "atualizado": "2026-10-31",
     "obs": "",
@@ -1627,7 +1666,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Colete Balístico Pes…",
+    "nome": "Colete Balístico Pesado Defender M4 (Visual de Oficial)",
     "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
@@ -1637,7 +1676,12 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 5,
-      "Durab.": 80
+      "Durab.": 80,
+      "Peso": "11,80 kg",
+      "Material": "Aço Endurecido",
+      "Ergonomia": -5,
+      "Vel. movimento": "-10%",
+      "Área": "Tórax; Abdômen Superior; Abdômen Inferior"
     },
     "atualizado": "2026-10-31",
     "obs": "",
@@ -1648,7 +1692,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Colete Balístico Ofe…",
+    "nome": "Colete Balístico Ofensivo Samurai IMTV",
     "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
@@ -1658,7 +1702,12 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 5,
-      "Durab.": 80
+      "Durab.": 80,
+      "Peso": "10,00 kg",
+      "Material": "Alumínio",
+      "Ergonomia": -7,
+      "Vel. movimento": "-10%",
+      "Área": "Tórax; Ombro; Abdômen Superior"
     },
     "atualizado": "2026-10-31",
     "obs": "",
@@ -1669,7 +1718,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Colete Balístico Pad…",
+    "nome": "Colete Balístico Padrão Samurai IMTV",
     "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
@@ -1679,7 +1728,12 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 5,
-      "Durab.": 70
+      "Durab.": 70,
+      "Peso": "9,60 kg",
+      "Material": "Alumínio",
+      "Ergonomia": -3,
+      "Vel. movimento": "-9%",
+      "Área": "Tórax; Abdômen Superior; Abdômen Inferior"
     },
     "atualizado": "2026-10-31",
     "obs": "",
@@ -1690,7 +1744,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Colete Balístico Pro…",
+    "nome": "Colete Balístico Proteção Total Samurai IMTV",
     "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
@@ -1700,7 +1754,12 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 5,
-      "Durab.": 90
+      "Durab.": 90,
+      "Peso": "11,00 kg",
+      "Material": "Alumínio",
+      "Ergonomia": -8,
+      "Vel. movimento": "-14%",
+      "Área": "Tórax; Ombro; Abdômen Superior; Abdômen Inferior"
     },
     "atualizado": "2026-10-31",
     "obs": "",
@@ -1711,7 +1770,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Colete Balístico Pes…",
+    "nome": "Colete Balístico Pesado BT6",
     "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
@@ -1721,7 +1780,12 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 5,
-      "Durab.": 90
+      "Durab.": 90,
+      "Peso": "8,60 kg",
+      "Material": "Titânio",
+      "Ergonomia": -4,
+      "Vel. movimento": "-6%",
+      "Área": "Tórax; Abdômen Superior"
     },
     "atualizado": "2026-10-31",
     "obs": "",
@@ -1732,7 +1796,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Colete Balístico Tát…",
+    "nome": "Colete Balístico Tático BT101",
     "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
@@ -1742,7 +1806,11 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 6,
-      "Durab.": 100
+      "Durab.": 100,
+      "Peso": "5,50 kg",
+      "Material": "Cerâmica",
+      "Vel. movimento": "-4%",
+      "Área": "Tórax"
     },
     "atualizado": "2026-10-31",
     "obs": "",
@@ -1753,7 +1821,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Colete Balístico Pes…",
+    "nome": "Colete Balístico Pesado 6B45",
     "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
@@ -1763,7 +1831,12 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 6,
-      "Durab.": 120
+      "Durab.": 120,
+      "Peso": "14,00 kg",
+      "Material": "Aço Endurecido",
+      "Ergonomia": -10,
+      "Vel. movimento": "-18%",
+      "Área": "Tórax; Ombro; Abdômen Superior; Abdômen Inferior"
     },
     "atualizado": "2026-10-31",
     "obs": "",
@@ -1774,7 +1847,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Colete Balístico Pes…",
+    "nome": "Colete Balístico Pesado do Xerife",
     "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
@@ -1784,7 +1857,12 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 6,
-      "Durab.": 115
+      "Durab.": 115,
+      "Peso": "7,80 kg",
+      "Material": "Cerâmica",
+      "Ergonomia": -7,
+      "Vel. movimento": "-12%",
+      "Área": "Tórax; Ombro; Abdômen Superior"
     },
     "atualizado": "2026-10-31",
     "obs": "",
@@ -1795,7 +1873,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Colete Balístico Com…",
+    "nome": "Colete Balístico Composto KN",
     "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
@@ -1805,7 +1883,12 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 6,
-      "Durab.": 110
+      "Durab.": 110,
+      "Peso": "6,90 kg",
+      "Material": "Cerâmica",
+      "Ergonomia": -3,
+      "Vel. movimento": "-7%",
+      "Área": "Tórax; Abdômen Superior"
     },
     "atualizado": "2026-10-31",
     "obs": "",
