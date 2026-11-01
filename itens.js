@@ -3744,5 +3744,37 @@ window.ITENS = [
     },
     "atualizado": "2026-10-31",
     "obs": ""
+  },
+  {
+    "nome": "Munição UPZ Calibre …",
+    "grupo": "Munição",
+    "categoria": "Calibre .338",
+    "precos": {
+      "novo": 3458,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 4
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Munição FMJ Calibre …",
+    "grupo": "Munição",
+    "categoria": "Calibre .338",
+    "precos": {
+      "novo": 5472,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 5
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
