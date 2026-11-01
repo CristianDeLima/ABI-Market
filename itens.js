@@ -4112,5 +4112,83 @@ window.ITENS = [
     },
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Injeção Intramuscula…",
+    "grupo": "Item Médico",
+    "categoria": "Medicamentos",
+    "precos": {
+      "novo": 8760,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Injeção de Resistênc…",
+    "grupo": "Item Médico",
+    "categoria": "Medicamentos",
+    "precos": {
+      "novo": 12705,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Injeção Regenerativa",
+    "grupo": "Item Médico",
+    "categoria": "Medicamentos",
+    "precos": {
+      "novo": 27800,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Reforço Intramuscul…",
+    "grupo": "Item Médico",
+    "categoria": "Medicamentos",
+    "precos": {
+      "novo": 26040,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Reforço de Resistên…",
+    "grupo": "Item Médico",
+    "categoria": "Medicamentos",
+    "precos": {
+      "novo": 62160,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Reforço de Regenera…",
+    "grupo": "Item Médico",
+    "categoria": "Medicamentos",
+    "precos": {
+      "novo": 89280,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
   }
 ];
