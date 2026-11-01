@@ -10,5 +10,6 @@
 | 6 | 01/11/2026 | — | 167.280 | 2.634.688 (extraiu) | **+2.467.408** | |
 | 7 | 01/11/2026 | — | 675.360 | 4.268.160 (extraiu) | **+3.592.800** | |
 | 8 | 01/11/2026 | — | 1.145.043 | em andamento | — | |
+| 9 | 01/11/2026 | — | 301.462 | em andamento | — | |
 
 **Saldo acumulado: +3.770.587** (ainda falta descontar a entrada da partida 5)
