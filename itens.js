@@ -7697,5 +7697,395 @@ window.ITENS = [
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
     "obs": ""
+  },
+  {
+    "nome": "Abridor de Garrafa",
+    "grupo": "Variedade",
+    "categoria": "Ferramenta",
+    "precos": {
+      "novo": 1560,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Abridor de Latas",
+    "grupo": "Variedade",
+    "categoria": "Ferramenta",
+    "precos": {
+      "novo": 1504,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Fita Métrica",
+    "grupo": "Variedade",
+    "categoria": "Ferramenta",
+    "precos": {
+      "novo": 2886,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Chave de Fenda",
+    "grupo": "Variedade",
+    "categoria": "Ferramenta",
+    "precos": {
+      "novo": 2990,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Chave Inglesa",
+    "grupo": "Variedade",
+    "categoria": "Ferramenta",
+    "precos": {
+      "novo": 2295,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Furador",
+    "grupo": "Variedade",
+    "categoria": "Ferramenta",
+    "precos": {
+      "novo": 2835,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Alicate",
+    "grupo": "Variedade",
+    "categoria": "Ferramenta",
+    "precos": {
+      "novo": 4884,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Tesoura de Corte",
+    "grupo": "Variedade",
+    "categoria": "Ferramenta",
+    "precos": {
+      "novo": 5085,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Ímã",
+    "grupo": "Variedade",
+    "categoria": "Ferramenta",
+    "precos": {
+      "novo": 5244,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Lanterna",
+    "grupo": "Variedade",
+    "categoria": "Ferramenta",
+    "precos": {
+      "novo": 5432,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Ferramentas MF",
+    "grupo": "Variedade",
+    "categoria": "Ferramenta",
+    "precos": {
+      "novo": 7104,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Fita Estática",
+    "grupo": "Variedade",
+    "categoria": "Ferramenta",
+    "precos": {
+      "novo": 9028,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Vela de Ignição",
+    "grupo": "Variedade",
+    "categoria": "Ferramenta",
+    "precos": {
+      "novo": 6000,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Chave de Cano",
+    "grupo": "Variedade",
+    "categoria": "Ferramenta",
+    "precos": {
+      "novo": 11880,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Pistola de cola quen…",
+    "grupo": "Variedade",
+    "categoria": "Ferramenta",
+    "precos": {
+      "novo": 7735,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Martelo de Segurança",
+    "grupo": "Variedade",
+    "categoria": "Ferramenta",
+    "precos": {
+      "novo": 15870,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Caixa de Ferramentas",
+    "grupo": "Variedade",
+    "categoria": "Ferramenta",
+    "precos": {
+      "novo": 15640,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Lanterna de Alta Pot…",
+    "grupo": "Variedade",
+    "categoria": "Ferramenta",
+    "precos": {
+      "novo": 18920,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Dispositivo de Desci…",
+    "grupo": "Variedade",
+    "categoria": "Ferramenta",
+    "precos": {
+      "novo": 10450,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Kit de limpeza de ca…",
+    "grupo": "Variedade",
+    "categoria": "Ferramenta",
+    "precos": {
+      "novo": 12587,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Almotolia",
+    "grupo": "Variedade",
+    "categoria": "Ferramenta",
+    "precos": {
+      "novo": 11742,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Macaco Portátil",
+    "grupo": "Variedade",
+    "categoria": "Ferramenta",
+    "precos": {
+      "novo": 21888,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Furadeira Elétrica",
+    "grupo": "Variedade",
+    "categoria": "Ferramenta",
+    "precos": {
+      "novo": 71755,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Kit de Ferramentas",
+    "grupo": "Variedade",
+    "categoria": "Ferramenta",
+    "precos": {
+      "novo": 62080,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Secador",
+    "grupo": "Variedade",
+    "categoria": "Ferramenta",
+    "precos": {
+      "novo": 36765,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cortador de Vergalhã…",
+    "grupo": "Variedade",
+    "categoria": "Ferramenta",
+    "precos": {
+      "novo": 51824,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Chave Hidráulica",
+    "grupo": "Variedade",
+    "categoria": "Ferramenta",
+    "precos": {
+      "novo": 69560,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Maçarico",
+    "grupo": "Variedade",
+    "categoria": "Ferramenta",
+    "precos": {
+      "novo": 72480,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Expansor hidráulico",
+    "grupo": "Variedade",
+    "categoria": "Ferramenta",
+    "precos": {
+      "novo": 246354,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Indutor de Alta Freq…",
+    "grupo": "Variedade",
+    "categoria": "Ferramenta",
+    "precos": {
+      "novo": 691950,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
