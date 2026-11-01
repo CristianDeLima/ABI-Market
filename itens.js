@@ -5528,5 +5528,53 @@ window.ITENS = [
     },
     "atualizado": "2026-10-31",
     "obs": ""
+  },
+  {
+    "nome": "Rifle de Ferrolho Mo…",
+    "grupo": "Ferrolhos",
+    "categoria": "Rifle de Ação de Ferrolho",
+    "precos": {
+      "novo": 28688,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "7,62×54"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Rifle de Ferrolho M2…",
+    "grupo": "Ferrolhos",
+    "categoria": "Rifle de Ação de Ferrolho",
+    "precos": {
+      "novo": 315827,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "7,62×51"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Rifle de Ferrolho SJ…",
+    "grupo": "Ferrolhos",
+    "categoria": "Rifle de Ação de Ferrolho",
+    "precos": {
+      "novo": 418660,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": ".338"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
