@@ -2417,5 +2417,138 @@ window.ITENS = [
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Máscara de Gás SH-3",
+    "categoria": "Máscara de Gás",
+    "precos": {
+      "novo": 21420,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Durab.": 30
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 30,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Meia-máscara RAL20",
+    "categoria": "Máscara de Gás",
+    "precos": {
+      "novo": 22784,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Durab.": 35
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 35,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Máscara de Gás Com…",
+    "categoria": "Máscara de Gás",
+    "precos": {
+      "novo": 37168,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Durab.": 45
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 45,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Máscara de Gás Univ…",
+    "categoria": "Máscara de Gás",
+    "precos": {
+      "novo": 38250,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Durab.": 35
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 35,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Máscara de Gás SH-4",
+    "categoria": "Máscara de Gás",
+    "precos": {
+      "novo": 36281,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Durab.": 45
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 45,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Máscara de Gás Ócul…",
+    "categoria": "Máscara de Gás",
+    "precos": {
+      "novo": 42525,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Durab.": 55
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 55,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Máscara de Gás Avan…",
+    "categoria": "Máscara de Gás",
+    "precos": {
+      "novo": 56700,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Durab.": 60
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 60,
+      "comoNovo": null,
+      "usado": null
+    }
   }
 ];
