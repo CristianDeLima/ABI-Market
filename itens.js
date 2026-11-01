@@ -1827,7 +1827,7 @@ window.ITENS = [
     "categoria": "Colete Blindado",
     "precos": {
       "novo": 25200,
-      "comoNovo": null,
+      "comoNovo": 21917,
       "usado": null
     },
     "atributos": {
@@ -1838,7 +1838,7 @@ window.ITENS = [
     "obs": "Pode ser trocado com Contato",
     "durabilidade": {
       "novo": 20,
-      "comoNovo": null,
+      "comoNovo": 17,
       "usado": null
     }
   },
@@ -1847,7 +1847,7 @@ window.ITENS = [
     "categoria": "Colete Blindado",
     "precos": {
       "novo": 89012,
-      "comoNovo": null,
+      "comoNovo": 43890,
       "usado": null
     },
     "atributos": {
@@ -1858,7 +1858,7 @@ window.ITENS = [
     "obs": "Pode ser trocado com Contato",
     "durabilidade": {
       "novo": 35,
-      "comoNovo": null,
+      "comoNovo": 30,
       "usado": null
     }
   },
@@ -1867,7 +1867,7 @@ window.ITENS = [
     "categoria": "Colete Blindado",
     "precos": {
       "novo": 89490,
-      "comoNovo": null,
+      "comoNovo": 35298,
       "usado": null
     },
     "atributos": {
@@ -1878,7 +1878,7 @@ window.ITENS = [
     "obs": "Pode ser trocado com Contato",
     "durabilidade": {
       "novo": 30,
-      "comoNovo": null,
+      "comoNovo": 26,
       "usado": null
     }
   },
@@ -1887,7 +1887,7 @@ window.ITENS = [
     "categoria": "Colete Blindado",
     "precos": {
       "novo": 95680,
-      "comoNovo": null,
+      "comoNovo": 46068,
       "usado": null
     },
     "atributos": {
@@ -1898,7 +1898,7 @@ window.ITENS = [
     "obs": "Pode ser trocado com Contato",
     "durabilidade": {
       "novo": 25,
-      "comoNovo": null,
+      "comoNovo": 21,
       "usado": null
     }
   },
@@ -1907,7 +1907,7 @@ window.ITENS = [
     "categoria": "Colete Blindado",
     "precos": {
       "novo": 134640,
-      "comoNovo": null,
+      "comoNovo": 128525,
       "usado": null
     },
     "atributos": {
@@ -1918,7 +1918,7 @@ window.ITENS = [
     "obs": "Pode ser trocado com Contato",
     "durabilidade": {
       "novo": 50,
-      "comoNovo": null,
+      "comoNovo": 42,
       "usado": null
     }
   },
@@ -1927,7 +1927,7 @@ window.ITENS = [
     "categoria": "Colete Blindado",
     "precos": {
       "novo": 123984,
-      "comoNovo": null,
+      "comoNovo": 123606,
       "usado": null
     },
     "atributos": {
@@ -1938,7 +1938,7 @@ window.ITENS = [
     "obs": "Pode ser trocado com Contato",
     "durabilidade": {
       "novo": 40,
-      "comoNovo": null,
+      "comoNovo": 34,
       "usado": null
     }
   },
@@ -1947,7 +1947,7 @@ window.ITENS = [
     "categoria": "Colete Blindado",
     "precos": {
       "novo": 188897,
-      "comoNovo": null,
+      "comoNovo": 150381,
       "usado": null
     },
     "atributos": {
@@ -1958,7 +1958,7 @@ window.ITENS = [
     "obs": "Pode ser trocado com Contato",
     "durabilidade": {
       "novo": 45,
-      "comoNovo": null,
+      "comoNovo": 38,
       "usado": null
     }
   },
@@ -1967,7 +1967,7 @@ window.ITENS = [
     "categoria": "Colete Blindado",
     "precos": {
       "novo": 316192,
-      "comoNovo": null,
+      "comoNovo": 296565,
       "usado": null
     },
     "atributos": {
@@ -1978,7 +1978,7 @@ window.ITENS = [
     "obs": "Pode ser trocado com Contato",
     "durabilidade": {
       "novo": 60,
-      "comoNovo": null,
+      "comoNovo": 51,
       "usado": null
     }
   },
@@ -1987,7 +1987,7 @@ window.ITENS = [
     "categoria": "Colete Blindado",
     "precos": {
       "novo": 347336,
-      "comoNovo": null,
+      "comoNovo": 296476,
       "usado": null
     },
     "atributos": {
@@ -1998,7 +1998,7 @@ window.ITENS = [
     "obs": "Pode ser trocado com Contato",
     "durabilidade": {
       "novo": 55,
-      "comoNovo": null,
+      "comoNovo": 47,
       "usado": null
     }
   },
@@ -2007,7 +2007,7 @@ window.ITENS = [
     "categoria": "Colete Blindado",
     "precos": {
       "novo": 326025,
-      "comoNovo": null,
+      "comoNovo": 377760,
       "usado": null
     },
     "atributos": {
@@ -2018,7 +2018,7 @@ window.ITENS = [
     "obs": "Pode ser trocado com Contato",
     "durabilidade": {
       "novo": 65,
-      "comoNovo": null,
+      "comoNovo": 55,
       "usado": null
     }
   },
@@ -2027,7 +2027,7 @@ window.ITENS = [
     "categoria": "Colete Blindado",
     "precos": {
       "novo": 394632,
-      "comoNovo": null,
+      "comoNovo": 351006,
       "usado": null
     },
     "atributos": {
@@ -2038,7 +2038,7 @@ window.ITENS = [
     "obs": "Pode ser trocado com Contato",
     "durabilidade": {
       "novo": 100,
-      "comoNovo": null,
+      "comoNovo": 85,
       "usado": null
     }
   },
@@ -2047,7 +2047,7 @@ window.ITENS = [
     "categoria": "Colete Blindado",
     "precos": {
       "novo": 994665,
-      "comoNovo": null,
+      "comoNovo": 840311,
       "usado": null
     },
     "atributos": {
@@ -2058,7 +2058,7 @@ window.ITENS = [
     "obs": "",
     "durabilidade": {
       "novo": 100,
-      "comoNovo": null,
+      "comoNovo": 85,
       "usado": null
     }
   },
@@ -2067,7 +2067,7 @@ window.ITENS = [
     "categoria": "Colete Blindado",
     "precos": {
       "novo": 1005888,
-      "comoNovo": null,
+      "comoNovo": 1272570,
       "usado": null
     },
     "atributos": {
@@ -2078,7 +2078,7 @@ window.ITENS = [
     "obs": "",
     "durabilidade": {
       "novo": 95,
-      "comoNovo": null,
+      "comoNovo": 81,
       "usado": null
     }
   },
@@ -2087,7 +2087,7 @@ window.ITENS = [
     "categoria": "Colete Blindado",
     "precos": {
       "novo": 1146600,
-      "comoNovo": null,
+      "comoNovo": 1260375,
       "usado": null
     },
     "atributos": {
@@ -2098,7 +2098,7 @@ window.ITENS = [
     "obs": "",
     "durabilidade": {
       "novo": 90,
-      "comoNovo": null,
+      "comoNovo": 76,
       "usado": null
     }
   },
@@ -2107,7 +2107,7 @@ window.ITENS = [
     "categoria": "Colete Blindado",
     "precos": {
       "novo": 1203417,
-      "comoNovo": null,
+      "comoNovo": 914871,
       "usado": null
     },
     "atributos": {
@@ -2118,7 +2118,7 @@ window.ITENS = [
     "obs": "",
     "durabilidade": {
       "novo": 100,
-      "comoNovo": null,
+      "comoNovo": 85,
       "usado": null
     }
   },
@@ -2127,7 +2127,7 @@ window.ITENS = [
     "categoria": "Colete Blindado",
     "precos": {
       "novo": 1200644,
-      "comoNovo": null,
+      "comoNovo": 816790,
       "usado": null
     },
     "atributos": {
@@ -2138,7 +2138,7 @@ window.ITENS = [
     "obs": "",
     "durabilidade": {
       "novo": 90,
-      "comoNovo": null,
+      "comoNovo": 76,
       "usado": null
     }
   }
