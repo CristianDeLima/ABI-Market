@@ -19,7 +19,7 @@ window.GRUPOS = ["Equipamento", "Peça de Arma", "Ferrolhos", "Munição", "Item
 
 // Pendências: categorias ou dados que ainda faltam enviar.
 window.PENDENCIAS = [
-  { item: "Peça de Arma", nota: "Mira, Carregador, Cabo Frontal, Cabo Traseiro, Coronha, Bocal, Ponta Laser, Cano, Guarda-mão, Receptor/Capa de Poeira, Trilho, Bloco de Gás e Alavanca de Ferrolho já cadastrados (Cabo Frontal estava indisponível no mercado). Faltam as outras subcategorias." },
+  { item: "Peça de Arma", nota: "Mira, Carregador, Cabo Frontal, Cabo Traseiro, Coronha, Bocal, Ponta Laser, Cano, Guarda-mão, Receptor/Capa de Poeira, Trilho, Bloco de Gás, Alavanca de Ferrolho e Lanterna já cadastrados (Cabo Frontal estava indisponível no mercado). Faltam as outras subcategorias." },
   { item: "Máscaras de Gás", nota: "Confirmar se existem preços Como nova e Usada." }
 ];
 
@@ -24239,5 +24239,18 @@ window.ITENS = [
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Lanterna Tática X30…",
+    "grupo": "Peça de Arma",
+    "categoria": "Lanterna",
+    "precos": {
+      "novo": 21812,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
