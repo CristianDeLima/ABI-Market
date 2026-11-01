@@ -70,6 +70,13 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .stat { font: 500 10.5px/1.2 var(--f-mono); letter-spacing: .12em; text-transform: uppercase; color: var(--muted); }
 .stat b { display: block; font: 700 18px/1.1 var(--f-display); letter-spacing: .02em; color: var(--fg); font-variant-numeric: tabular-nums; }
 .stat b.am { color: var(--amber); }
+.saldo { display: grid; align-items: center; padding: 8px 16px; border: 1px solid var(--line-hi); background: var(--bg-2); font: 500 10.5px/1.2 var(--f-mono); letter-spacing: .12em; text-transform: uppercase; color: var(--muted); }
+.saldo b { font: 700 28px/1 var(--f-display); letter-spacing: .02em; font-variant-numeric: tabular-nums; }
+.saldo.pos { border-color: rgba(110,200,110,.55); background: rgba(110,200,110,.08); }
+.saldo.pos b { color: #74d27a; }
+.saldo.neg { border-color: rgba(216,106,90,.6); background: rgba(216,106,90,.09); }
+.saldo.neg b { color: #e2685a; }
+.saldo-s { letter-spacing: .04em; text-transform: none; color: var(--dim); }
 
 /* ---------- estrutura ---------- */
 .shell {
@@ -222,6 +229,7 @@ footer { font: 12px/1.6 var(--f-mono); color: var(--dim); border-top: 1px solid 
       </div>
     </div>
     <div class="stats">
+      <div class="saldo" id="saldo" hidden title="Lucro ou perda das partidas"><b id="saldo-v">0</b></div>
       <div class="stat"><b id="st-itens">0</b>itens</div>
       <div class="stat"><b id="st-troca" class="am">0</b>troca c/ contato</div>
       <div class="stat"><b id="st-data">—</b>última foto</div>
@@ -286,6 +294,7 @@ footer { font: 12px/1.6 var(--f-mono); color: var(--dim); border-top: 1px solid 
 </div>
 
 <script src="itens.js"></script>
+<script src="partidas.js"></script>
 <script>
 (function () {
   var ITENS = Array.isArray(window.ITENS) ? window.ITENS : [];
@@ -307,6 +316,21 @@ footer { font: 12px/1.6 var(--f-mono); color: var(--dim); border-top: 1px solid 
   var grupos = (Array.isArray(window.GRUPOS) ? window.GRUPOS.slice() : []);
   ITENS.forEach(function (i) { if (grupos.indexOf(grupoDe(i)) === -1) grupos.push(grupoDe(i)); });
   function conta(g) { return ITENS.filter(function (i) { return grupoDe(i) === g; }).length; }
+
+  // saldo das partidas
+  (function () {
+    var P = Array.isArray(window.PARTIDAS) ? window.PARTIDAS : [];
+    if (!P.length) return;
+    var tot = 0;
+    P.forEach(function (p) {
+      if (p.saida == null) return;
+      tot += p.saida - (p.entrada || 0);
+    });
+    var el = $("saldo");
+    el.hidden = false;
+    el.className = "saldo " + (tot >= 0 ? "pos" : "neg");
+    $("saldo-v").textContent = (tot > 0 ? "+" : tot < 0 ? "−" : "") + fmt.format(Math.abs(tot));
+  })();
 
   // topo
   $("st-itens").textContent = fmt.format(ITENS.length);
