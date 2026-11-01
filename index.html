@@ -146,6 +146,8 @@ select {
   box-shadow: inset 0 -3px 0 var(--rc, var(--r-0));
 }
 .card:hover { border-color: var(--line-hi); }
+.c-img { height: 120px; display: grid; place-items: center; padding: 10px 10px 0; background: radial-gradient(closest-side, rgba(255,255,255,.05), transparent); }
+.c-img img { max-width: 100%; max-height: 110px; object-fit: contain; filter: drop-shadow(0 6px 10px rgba(0,0,0,.5)); }
 .c-top { padding: 9px 11px 0; display: grid; gap: 6px; }
 .c-name { font: 600 15px/1.2 var(--f-display); letter-spacing: .01em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .c-meta { display: flex; flex-wrap: wrap; gap: 4px; align-items: center; }
@@ -374,6 +376,7 @@ footer { font: 12px/1.6 var(--f-mono); color: var(--dim); border-top: 1px solid 
       }).join("") + "</div>";
     }
     return '<article class="card"' + (rc ? ' style="--rc:' + rc + '"' : "") + ">" +
+      (i.img ? '<div class="c-img"><img src="' + esc(i.img) + '" alt="" loading="lazy"></div>' : "") +
       '<div class="c-top"><div class="c-name" title="' + esc(i.nome) + '">' + esc(i.nome) + '</div><div class="c-meta">' + tags.join("") + "</div></div>" +
       '<div class="c-body">' + obs + qual + "</div>" +
       (i.indisponivel ? '<div class="c-price off">Indisponível no mercado</div>' :

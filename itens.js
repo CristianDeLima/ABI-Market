@@ -172,7 +172,8 @@ window.ITENS = [
       "novo": 40,
       "comoNovo": 34,
       "usado": 28
-    }
+    },
+    "img": "img/capacete-tatico-kss.webp"
   },
   {
     "nome": "Capacete Tático KSS2",
@@ -199,7 +200,8 @@ window.ITENS = [
       "novo": 45,
       "comoNovo": 38,
       "usado": 32
-    }
+    },
+    "img": "img/capacete-tatico-kss2.webp"
   },
   {
     "nome": "Capacete de Helicóptero 56K",
@@ -228,7 +230,8 @@ window.ITENS = [
       "novo": 50,
       "comoNovo": 42,
       "usado": 35
-    }
+    },
+    "img": "img/capacete-de-helicoptero-56k.webp"
   },
   {
     "nome": "Capacete SH Matzka 2",
@@ -256,7 +259,8 @@ window.ITENS = [
       "novo": 65,
       "comoNovo": 55,
       "usado": 46
-    }
+    },
+    "img": "img/capacete-sh-matzka-2.webp"
   },
   {
     "nome": "Capacete Militar SH60",
@@ -284,7 +288,8 @@ window.ITENS = [
       "novo": 50,
       "comoNovo": 42,
       "usado": 35
-    }
+    },
+    "img": "img/capacete-militar-sh60.webp"
   },
   {
     "nome": "Capacete Militar SH50",
@@ -312,7 +317,8 @@ window.ITENS = [
       "novo": 60,
       "comoNovo": 51,
       "usado": 42
-    }
+    },
+    "img": "img/capacete-militar-sh50.webp"
   },
   {
     "nome": "Capacete Tático de Assalto FA",
@@ -339,7 +345,8 @@ window.ITENS = [
       "novo": 50,
       "comoNovo": 42,
       "usado": 35
-    }
+    },
+    "img": "img/capacete-tatico-de-assalto-fa.webp"
   },
   {
     "nome": "Capacete Tático Pesado 03",
@@ -366,7 +373,8 @@ window.ITENS = [
       "novo": 45,
       "comoNovo": 38,
       "usado": 32
-    }
+    },
+    "img": "img/capacete-tatico-pesado-03.webp"
   },
   {
     "nome": "Capacete Tático Pesado RSP",
@@ -394,7 +402,8 @@ window.ITENS = [
       "novo": 55,
       "comoNovo": 47,
       "usado": 38
-    }
+    },
+    "img": "img/capacete-tatico-pesado-rsp.webp"
   },
   {
     "nome": "Capacete Explosão Pesada AN95",
@@ -424,7 +433,8 @@ window.ITENS = [
       "novo": 55,
       "comoNovo": 47,
       "usado": 38
-    }
+    },
+    "img": "img/capacete-explosao-pesada-an95.webp"
   },
   {
     "nome": "Capacete 6BNT",
@@ -452,7 +462,8 @@ window.ITENS = [
       "novo": 75,
       "comoNovo": 64,
       "usado": 52
-    }
+    },
+    "img": "img/capacete-6bnt.webp"
   },
   {
     "nome": "Capacete das Forças Especiais RST",
@@ -480,7 +491,8 @@ window.ITENS = [
       "novo": 75,
       "comoNovo": 64,
       "usado": 52
-    }
+    },
+    "img": "img/capacete-das-forcas-especiais-rst.webp"
   },
   {
     "nome": "Capacete Ofensivo HG84",
@@ -507,7 +519,8 @@ window.ITENS = [
       "novo": 70,
       "comoNovo": 60,
       "usado": 49
-    }
+    },
+    "img": "img/capacete-ofensivo-hg84.webp"
   },
   {
     "nome": "Capacete Tático Pesado IND50",
@@ -535,7 +548,8 @@ window.ITENS = [
       "novo": 60,
       "comoNovo": 51,
       "usado": 42
-    }
+    },
+    "img": "img/capacete-tatico-pesado-ind50.webp"
   },
   {
     "nome": "Capacete Explosão DOD9",
@@ -562,7 +576,8 @@ window.ITENS = [
       "novo": 75,
       "comoNovo": 64,
       "usado": 52
-    }
+    },
+    "img": "img/capacete-explosao-dod9.webp"
   },
   {
     "nome": "Capacete Tático Pesado AS200",
@@ -589,7 +604,8 @@ window.ITENS = [
       "novo": 65,
       "comoNovo": 55,
       "usado": 46
-    }
+    },
+    "img": "img/capacete-tatico-pesado-as200.webp"
   },
   {
     "nome": "Protetor Facial SH60",
@@ -613,7 +629,8 @@ window.ITENS = [
       "novo": 35,
       "comoNovo": 30,
       "usado": 24
-    }
+    },
+    "img": "img/protetor-facial-sh60.webp"
   },
   {
     "nome": "Máscara à Prova de Balas Militar DK8",
@@ -637,7 +654,8 @@ window.ITENS = [
       "novo": 45,
       "comoNovo": 38,
       "usado": 32
-    }
+    },
+    "img": "img/mascara-a-prova-de-balas-militar-dk8.webp"
   },
   {
     "nome": "Protetor Facial à Prova de Balas Avançado DK7",
@@ -661,7 +679,8 @@ window.ITENS = [
       "novo": 50,
       "comoNovo": 42,
       "usado": 35
-    }
+    },
+    "img": "img/protetor-facial-a-prova-de-balas-avancado-dk7.webp"
   },
   {
     "nome": "Protetor Facial à Prova de Balas Militar AN95",
@@ -685,7 +704,8 @@ window.ITENS = [
       "novo": 50,
       "comoNovo": 42,
       "usado": 35
-    }
+    },
+    "img": "img/protetor-facial-a-prova-de-balas-militar-an95.webp"
   },
   {
     "nome": "Protetor Facial Matzka SH",
@@ -709,7 +729,8 @@ window.ITENS = [
       "novo": 50,
       "comoNovo": 42,
       "usado": 35
-    }
+    },
+    "img": "img/protetor-facial-matzka-sh.webp"
   },
   {
     "nome": "Protetor Facial Militar A SH65",
@@ -733,7 +754,8 @@ window.ITENS = [
       "novo": 55,
       "comoNovo": 47,
       "usado": 38
-    }
+    },
+    "img": "img/protetor-facial-militar-a-sh65.webp"
   },
   {
     "nome": "Protetor Facial Explosão 6BNT",
@@ -757,7 +779,8 @@ window.ITENS = [
       "novo": 70,
       "comoNovo": 60,
       "usado": 49
-    }
+    },
+    "img": "img/protetor-facial-explosao-6bnt.webp"
   },
   {
     "nome": "Protetor Facial Militar B SH65",
@@ -781,7 +804,8 @@ window.ITENS = [
       "novo": 65,
       "comoNovo": 55,
       "usado": 46
-    }
+    },
+    "img": "img/protetor-facial-militar-b-sh65.webp"
   },
   {
     "nome": "Protetor Facial das Forças Especiais RST",
@@ -805,7 +829,8 @@ window.ITENS = [
       "novo": 70,
       "comoNovo": 60,
       "usado": 49
-    }
+    },
+    "img": "img/protetor-facial-das-forcas-especiais-rst.webp"
   },
   {
     "nome": "Colete Balístico Fortaleza SEK",
@@ -830,7 +855,8 @@ window.ITENS = [
       "novo": 50,
       "comoNovo": 42,
       "usado": 35
-    }
+    },
+    "img": "img/colete-balistico-fortaleza-sek.webp"
   },
   {
     "nome": "Colete Balístico 6B23",
@@ -856,7 +882,8 @@ window.ITENS = [
       "novo": 70,
       "comoNovo": 60,
       "usado": 49
-    }
+    },
+    "img": "img/colete-balistico-6b23.webp"
   },
   {
     "nome": "Colete Balístico 6B13",
@@ -882,7 +909,8 @@ window.ITENS = [
       "novo": 65,
       "comoNovo": 55,
       "usado": 46
-    }
+    },
+    "img": "img/colete-balistico-6b13.webp"
   },
   {
     "nome": "Colete Balístico IND401",
@@ -908,7 +936,8 @@ window.ITENS = [
       "novo": 55,
       "comoNovo": 47,
       "usado": 38
-    }
+    },
+    "img": "img/colete-balistico-ind401.webp"
   },
   {
     "nome": "Colete Balístico Spartan B",
@@ -934,7 +963,8 @@ window.ITENS = [
       "novo": 50,
       "comoNovo": 42,
       "usado": 35
-    }
+    },
+    "img": "img/colete-balistico-spartan-b.webp"
   },
   {
     "nome": "Colete Balístico Composto 926",
@@ -960,7 +990,8 @@ window.ITENS = [
       "novo": 70,
       "comoNovo": 60,
       "usado": 49
-    }
+    },
+    "img": "img/colete-balistico-composto-926.webp"
   },
   {
     "nome": "Colete Balístico Tático H-LC",
@@ -986,7 +1017,8 @@ window.ITENS = [
       "novo": 70,
       "comoNovo": 60,
       "usado": 49
-    }
+    },
+    "img": "img/colete-balistico-tatico-h-lc.webp"
   },
   {
     "nome": "Colete Balístico Pesado Defender M4",
@@ -1012,7 +1044,8 @@ window.ITENS = [
       "novo": 80,
       "comoNovo": 68,
       "usado": 56
-    }
+    },
+    "img": "img/colete-balistico-pesado-defender-m4.webp"
   },
   {
     "nome": "Colete Balístico Pesado Defender M4 (Visual de Oficial)",
@@ -1038,7 +1071,8 @@ window.ITENS = [
       "novo": 80,
       "comoNovo": 68,
       "usado": 56
-    }
+    },
+    "img": "img/colete-balistico-pesado-defender-m4-visual-de-oficial.webp"
   },
   {
     "nome": "Colete Balístico Ofensivo Samurai IMTV",
@@ -1064,7 +1098,8 @@ window.ITENS = [
       "novo": 80,
       "comoNovo": 68,
       "usado": 56
-    }
+    },
+    "img": "img/colete-balistico-ofensivo-samurai-imtv.webp"
   },
   {
     "nome": "Colete Balístico Padrão Samurai IMTV",
@@ -1090,7 +1125,8 @@ window.ITENS = [
       "novo": 70,
       "comoNovo": 60,
       "usado": 49
-    }
+    },
+    "img": "img/colete-balistico-padrao-samurai-imtv.webp"
   },
   {
     "nome": "Colete Balístico Proteção Total Samurai IMTV",
@@ -1116,7 +1152,8 @@ window.ITENS = [
       "novo": 90,
       "comoNovo": 76,
       "usado": 63
-    }
+    },
+    "img": "img/colete-balistico-protecao-total-samurai-imtv.webp"
   },
   {
     "nome": "Colete Balístico Pesado BT6",
@@ -1142,7 +1179,8 @@ window.ITENS = [
       "novo": 90,
       "comoNovo": 76,
       "usado": 63
-    }
+    },
+    "img": "img/colete-balistico-pesado-bt6.webp"
   },
   {
     "nome": "Colete Balístico Tático BT101",
@@ -1167,7 +1205,8 @@ window.ITENS = [
       "novo": 100,
       "comoNovo": 85,
       "usado": 70
-    }
+    },
+    "img": "img/colete-balistico-tatico-bt101.webp"
   },
   {
     "nome": "Colete Balístico Pesado 6B45",
@@ -1193,7 +1232,8 @@ window.ITENS = [
       "novo": 120,
       "comoNovo": 102,
       "usado": 84
-    }
+    },
+    "img": "img/colete-balistico-pesado-6b45.webp"
   },
   {
     "nome": "Colete Balístico Pesado do Xerife",
@@ -1219,7 +1259,8 @@ window.ITENS = [
       "novo": 115,
       "comoNovo": 98,
       "usado": 80
-    }
+    },
+    "img": "img/colete-balistico-pesado-do-xerife.webp"
   },
   {
     "nome": "Colete Balístico Composto KN",
@@ -1245,7 +1286,8 @@ window.ITENS = [
       "novo": 110,
       "comoNovo": 94,
       "usado": 77
-    }
+    },
+    "img": "img/colete-balistico-composto-kn.webp"
   },
   {
     "nome": "Colete Peitoral de Infantaria BH",
@@ -1262,7 +1304,8 @@ window.ITENS = [
     "atributos": {
       "Peso": "1,00 kg",
       "Espaço": 10
-    }
+    },
+    "img": "img/colete-peitoral-de-infantaria-bh.webp"
   },
   {
     "nome": "Colete de Transport…",
@@ -1383,7 +1426,8 @@ window.ITENS = [
     "atributos": {
       "Peso": "1,90 kg",
       "Espaço": 20
-    }
+    },
+    "img": "img/colete-peitoral-tatico-stormtrooper-tipo-3.webp"
   },
   {
     "nome": "Colete Peitoral Univ…",
@@ -1413,7 +1457,8 @@ window.ITENS = [
     "atributos": {
       "Peso": "1,50 kg",
       "Espaço": 14
-    }
+    },
+    "img": "img/colete-cacador-926.webp"
   },
   {
     "nome": "Colete Peitoral Multifuncional FA",
@@ -1430,7 +1475,8 @@ window.ITENS = [
     "atributos": {
       "Peso": "1,60 kg",
       "Espaço": 18
-    }
+    },
+    "img": "img/colete-peitoral-multifuncional-fa.webp"
   },
   {
     "nome": "Colete Peitoral Táti…",
@@ -1535,7 +1581,8 @@ window.ITENS = [
       "novo": 50,
       "comoNovo": 42,
       "usado": 35
-    }
+    },
+    "img": "img/colete-peitoral-blindado-sentry-305.webp"
   },
   {
     "nome": "Colete Blindado TM1",
@@ -1562,7 +1609,8 @@ window.ITENS = [
       "novo": 40,
       "comoNovo": 34,
       "usado": 28
-    }
+    },
+    "img": "img/colete-blindado-tm1.webp"
   },
   {
     "nome": "Colete Blindado TM2",
@@ -1589,7 +1637,8 @@ window.ITENS = [
       "novo": 45,
       "comoNovo": 38,
       "usado": 32
-    }
+    },
+    "img": "img/colete-blindado-tm2.webp"
   },
   {
     "nome": "Colete Blindado H-Tac A8",
@@ -1616,7 +1665,8 @@ window.ITENS = [
       "novo": 60,
       "comoNovo": 51,
       "usado": 42
-    }
+    },
+    "img": "img/colete-blindado-h-tac-a8.webp"
   },
   {
     "nome": "Colete Tático Blindado Guerreiro Pesado",
@@ -1643,7 +1693,8 @@ window.ITENS = [
       "novo": 55,
       "comoNovo": 47,
       "usado": 38
-    }
+    },
+    "img": "img/colete-tatico-blindado-guerreiro-pesado.webp"
   },
   {
     "nome": "Colete Blindado H-Tac A9",
@@ -1670,7 +1721,8 @@ window.ITENS = [
       "novo": 65,
       "comoNovo": 55,
       "usado": 46
-    }
+    },
+    "img": "img/colete-blindado-h-tac-a9.webp"
   },
   {
     "nome": "Colete Blindado Pesado Defender M4",
@@ -1697,7 +1749,8 @@ window.ITENS = [
       "novo": 100,
       "comoNovo": 85,
       "usado": 70
-    }
+    },
+    "img": "img/colete-blindado-pesado-defender-m4.webp"
   },
   {
     "nome": "Colete Blindado Pesado Spartan C",
@@ -1724,7 +1777,8 @@ window.ITENS = [
       "novo": 100,
       "comoNovo": 85,
       "usado": 70
-    }
+    },
+    "img": "img/colete-blindado-pesado-spartan-c.webp"
   },
   {
     "nome": "Colete blindado tático AL",
@@ -1751,7 +1805,8 @@ window.ITENS = [
       "novo": 95,
       "comoNovo": 81,
       "usado": 66
-    }
+    },
+    "img": "img/colete-blindado-tatico-al.webp"
   },
   {
     "nome": "Colete Blindado Pesado AVS",
@@ -1778,7 +1833,8 @@ window.ITENS = [
       "novo": 90,
       "comoNovo": 76,
       "usado": 63
-    }
+    },
+    "img": "img/colete-blindado-pesado-avs.webp"
   },
   {
     "nome": "Colete blindado de comandante AL",
@@ -1805,7 +1861,8 @@ window.ITENS = [
       "novo": 100,
       "comoNovo": 85,
       "usado": 70
-    }
+    },
+    "img": "img/colete-blindado-de-comandante-al.webp"
   },
   {
     "nome": "Colete blindado de assalto AL",
@@ -1832,7 +1889,8 @@ window.ITENS = [
       "novo": 90,
       "comoNovo": 76,
       "usado": 63
-    }
+    },
+    "img": "img/colete-blindado-de-assalto-al.webp"
   },
   {
     "nome": "Bolsa Lateral",
@@ -2084,7 +2142,8 @@ window.ITENS = [
       "Peso": "0,40 kg",
       "Captador de som": "Fraco",
       "Redução de ruído": "Fraco"
-    }
+    },
+    "img": "img/fone-de-ouvido-tatico-com1.webp"
   },
   {
     "nome": "Fone de Ouvido Tático M32",
@@ -2102,7 +2161,8 @@ window.ITENS = [
       "Peso": "0,60 kg",
       "Captador de som": "Médio",
       "Redução de ruído": "Fraco"
-    }
+    },
+    "img": "img/fone-de-ouvido-tatico-m32.webp"
   },
   {
     "nome": "Fone de Ouvido Tático Z038",
@@ -2120,7 +2180,8 @@ window.ITENS = [
       "Peso": "0,65 kg",
       "Captador de som": "Médio",
       "Redução de ruído": "Médio"
-    }
+    },
+    "img": "img/fone-de-ouvido-tatico-z038.webp"
   },
   {
     "nome": "Fone de Ouvido Tático Commander A",
@@ -2138,7 +2199,8 @@ window.ITENS = [
       "Peso": "0,70 kg",
       "Captador de som": "Médio",
       "Redução de ruído": "Forte"
-    }
+    },
+    "img": "img/fone-de-ouvido-tatico-commander-a.webp"
   },
   {
     "nome": "Auricular Tático GS2",
@@ -2156,7 +2218,8 @@ window.ITENS = [
       "Peso": "0,80 kg",
       "Captador de som": "Forte",
       "Redução de ruído": "Médio"
-    }
+    },
+    "img": "img/auricular-tatico-gs2.webp"
   },
   {
     "nome": "Máscara de Gás SH-3",
@@ -2293,7 +2356,8 @@ window.ITENS = [
       "Peso": "0,02 kg"
     },
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "",
+    "img": "img/municao-pb-5-4539-mm.webp"
   },
   {
     "nome": "Munição BS 5,45×39 mm",
@@ -2318,7 +2382,8 @@ window.ITENS = [
       "Peso": "0,03 kg"
     },
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "",
+    "img": "img/municao-bs-5-4539-mm.webp"
   },
   {
     "nome": "Munição M855A1 5,56×45 mm",
@@ -2343,7 +2408,8 @@ window.ITENS = [
       "Peso": "0,02 kg"
     },
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "",
+    "img": "img/municao-m855a1-5-5645-mm.webp"
   },
   {
     "nome": "Munição M855A2 5,56×45 mm",
@@ -2368,7 +2434,8 @@ window.ITENS = [
       "Peso": "0,02 kg"
     },
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "",
+    "img": "img/municao-m855a2-5-5645-mm.webp"
   },
   {
     "nome": "Munição M995 5,56×45 mm",
@@ -2393,7 +2460,8 @@ window.ITENS = [
       "Peso": "0,03 kg"
     },
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "",
+    "img": "img/municao-m995-5-5645-mm.webp"
   },
   {
     "nome": "Munição SS190 5,7×28 mm",
@@ -2418,7 +2486,8 @@ window.ITENS = [
       "Peso": "0,01 kg"
     },
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "",
+    "img": "img/municao-ss190-5-728-mm.webp"
   },
   {
     "nome": "Munição SS198 5,7×28 mm",
@@ -2443,7 +2512,8 @@ window.ITENS = [
       "Peso": "0,01 kg"
     },
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "",
+    "img": "img/municao-ss198-5-728-mm.webp"
   },
   {
     "nome": "Munição DVP88 5,8×42 mm",
@@ -2468,7 +2538,8 @@ window.ITENS = [
       "Peso": "0,02 kg"
     },
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "",
+    "img": "img/municao-dvp88-5-842-mm.webp"
   },
   {
     "nome": "Munição DVC12 5,8×42 mm",
@@ -2493,7 +2564,8 @@ window.ITENS = [
       "Peso": "0,02 kg"
     },
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "",
+    "img": "img/municao-dvc12-5-842-mm.webp"
   },
   {
     "nome": "Munição PB 7,62×39 mm",
@@ -2518,7 +2590,8 @@ window.ITENS = [
       "Peso": "0,02 kg"
     },
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "",
+    "img": "img/municao-pb-7-6239-mm.webp"
   },
   {
     "nome": "Munição AP 7,62×39 mm",
@@ -2543,7 +2616,8 @@ window.ITENS = [
       "Peso": "0,02 kg"
     },
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "",
+    "img": "img/municao-ap-7-6239-mm.webp"
   },
   {
     "nome": "Munição M80 7,62×51 mm",
@@ -2568,7 +2642,8 @@ window.ITENS = [
       "Peso": "0,04 kg"
     },
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "",
+    "img": "img/municao-m80-7-6251-mm.webp"
   },
   {
     "nome": "Munição M62 7,62×51 mm",
@@ -2593,7 +2668,8 @@ window.ITENS = [
       "Peso": "0,04 kg"
     },
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "",
+    "img": "img/municao-m62-7-6251-mm.webp"
   },
   {
     "nome": "Munição LPS 7,62×54 mm",
@@ -2618,7 +2694,8 @@ window.ITENS = [
       "Peso": "0,03 kg"
     },
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "img": "img/municao-lps-7-6254-mm.webp"
   },
   {
     "nome": "Munição 7BT1 7,62×54 mm",
@@ -2643,7 +2720,8 @@ window.ITENS = [
       "Peso": "0,03 kg"
     },
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "",
+    "img": "img/municao-7bt1-7-6254-mm.webp"
   },
   {
     "nome": "Munição 7N31 9×19 mm",
@@ -2668,7 +2746,8 @@ window.ITENS = [
       "Peso": "0,01 kg"
     },
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "",
+    "img": "img/municao-7n31-919-mm.webp"
   },
   {
     "nome": "Munição SP6 9×39 mm",
@@ -2693,7 +2772,8 @@ window.ITENS = [
       "Peso": "0,01 kg"
     },
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "",
+    "img": "img/municao-sp6-939-mm.webp"
   },
   {
     "nome": "Munição 7N9 9×39 mm",
@@ -2717,7 +2797,8 @@ window.ITENS = [
       "Peso": "0,01 kg"
     },
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "",
+    "img": "img/municao-7n9-939-mm.webp"
   },
   {
     "nome": "Munição 7N12 9×39 mm",
@@ -2742,7 +2823,8 @@ window.ITENS = [
       "Peso": "0,01 kg"
     },
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "",
+    "img": "img/municao-7n12-939-mm.webp"
   },
   {
     "nome": "Munição JSP Calibre .44",
@@ -2768,7 +2850,8 @@ window.ITENS = [
       "Chance de causar…": "Baixo"
     },
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "img": "img/municao-jsp-calibre-44.webp"
   },
   {
     "nome": "Munição UPZ Calibre .338",
@@ -2792,7 +2875,8 @@ window.ITENS = [
       "Peso": "0,02 kg"
     },
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "img": "img/municao-upz-calibre-338.webp"
   },
   {
     "nome": "Munição FMJ Calibre .338",
@@ -2817,7 +2901,8 @@ window.ITENS = [
       "Peso": "0,02 kg"
     },
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "",
+    "img": "img/municao-fmj-calibre-338.webp"
   },
   {
     "nome": "Bebida Energética",
