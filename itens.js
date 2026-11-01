@@ -2141,5 +2141,221 @@ window.ITENS = [
       "comoNovo": 76,
       "usado": 63
     }
+  },
+  {
+    "nome": "Bolsa Lateral",
+    "categoria": "Mochila",
+    "precos": {
+      "novo": 3300,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mochila de Acampam…",
+    "categoria": "Mochila",
+    "precos": {
+      "novo": 2800,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mochila de Acampam…",
+    "categoria": "Mochila",
+    "precos": {
+      "novo": 2400,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Mochila Simples",
+    "categoria": "Mochila",
+    "precos": {
+      "novo": 8064,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mochila de Lona",
+    "categoria": "Mochila",
+    "precos": {
+      "novo": 9120,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mochila de Acampam…",
+    "categoria": "Mochila",
+    "precos": {
+      "novo": 28431,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Mochila Esportiva",
+    "categoria": "Mochila",
+    "precos": {
+      "novo": 34200,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Mochila de Viagem p…",
+    "categoria": "Mochila",
+    "precos": {
+      "novo": 37480,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Mochila Tática RUSH",
+    "categoria": "Mochila",
+    "precos": {
+      "novo": 67464,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Mochila de Couro",
+    "categoria": "Mochila",
+    "precos": {
+      "novo": 43875,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Mochila Tática XA4",
+    "categoria": "Mochila",
+    "precos": {
+      "novo": 45296,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Mochila de Campo M…",
+    "categoria": "Mochila",
+    "precos": {
+      "novo": 46892,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Mochila de Acampam…",
+    "categoria": "Mochila",
+    "precos": {
+      "novo": 47614,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Mochila Militar Chap…",
+    "categoria": "Mochila",
+    "precos": {
+      "novo": 50426,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Mochila de Assalto A…",
+    "categoria": "Mochila",
+    "precos": {
+      "novo": 55965,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Mochila de Marcha R…",
+    "categoria": "Mochila",
+    "precos": {
+      "novo": 68400,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Mochila Tática Expan…",
+    "categoria": "Mochila",
+    "precos": {
+      "novo": 153900,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Mochila de Campo 926",
+    "categoria": "Mochila",
+    "precos": {
+      "novo": 185760,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
   }
 ];
