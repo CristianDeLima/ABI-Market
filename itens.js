@@ -1821,5 +1821,325 @@ window.ITENS = [
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Colete de Combate …",
+    "categoria": "Colete Blindado",
+    "precos": {
+      "novo": 25200,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 2,
+      "Durab.": 20
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 20,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Colete Blindado 6B5",
+    "categoria": "Colete Blindado",
+    "precos": {
+      "novo": 89012,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 3,
+      "Durab.": 35
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 35,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Colete Peitoral Blin…",
+    "categoria": "Colete Blindado",
+    "precos": {
+      "novo": 89490,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 3,
+      "Durab.": 30
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 30,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Colete Peitoral Blin…",
+    "categoria": "Colete Blindado",
+    "precos": {
+      "novo": 95680,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 3,
+      "Durab.": 25
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 25,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Colete Peitoral Blin…",
+    "categoria": "Colete Blindado",
+    "precos": {
+      "novo": 134640,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 4,
+      "Durab.": 50
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 50,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Colete Blindado TM1",
+    "categoria": "Colete Blindado",
+    "precos": {
+      "novo": 123984,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 4,
+      "Durab.": 40
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 40,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Colete Blindado TM2",
+    "categoria": "Colete Blindado",
+    "precos": {
+      "novo": 188897,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 4,
+      "Durab.": 45
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 45,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Colete Blindado H-Ta…",
+    "categoria": "Colete Blindado",
+    "precos": {
+      "novo": 316192,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 5,
+      "Durab.": 60
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 60,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Colete Tático Blinda…",
+    "categoria": "Colete Blindado",
+    "precos": {
+      "novo": 347336,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 5,
+      "Durab.": 55
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 55,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Colete Blindado H-Ta…",
+    "categoria": "Colete Blindado",
+    "precos": {
+      "novo": 326025,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 5,
+      "Durab.": 65
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 65,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Colete Blindado Pesa…",
+    "categoria": "Colete Blindado",
+    "precos": {
+      "novo": 394632,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 5,
+      "Durab.": 100
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 100,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Colete Blindado Pesa…",
+    "categoria": "Colete Blindado",
+    "precos": {
+      "novo": 994665,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 6,
+      "Durab.": 100
+    },
+    "atualizado": "2026-10-31",
+    "obs": "",
+    "durabilidade": {
+      "novo": 100,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Colete blindado táti…",
+    "categoria": "Colete Blindado",
+    "precos": {
+      "novo": 1005888,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 6,
+      "Durab.": 95
+    },
+    "atualizado": "2026-10-31",
+    "obs": "",
+    "durabilidade": {
+      "novo": 95,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Colete Blindado Pesa…",
+    "categoria": "Colete Blindado",
+    "precos": {
+      "novo": 1146600,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 6,
+      "Durab.": 90
+    },
+    "atualizado": "2026-10-31",
+    "obs": "",
+    "durabilidade": {
+      "novo": 90,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Colete blindado de c…",
+    "categoria": "Colete Blindado",
+    "precos": {
+      "novo": 1203417,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 6,
+      "Durab.": 100
+    },
+    "atualizado": "2026-10-31",
+    "obs": "",
+    "durabilidade": {
+      "novo": 100,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Colete blindado de a…",
+    "categoria": "Colete Blindado",
+    "precos": {
+      "novo": 1200644,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 6,
+      "Durab.": 90
+    },
+    "atualizado": "2026-10-31",
+    "obs": "",
+    "durabilidade": {
+      "novo": 90,
+      "comoNovo": null,
+      "usado": null
+    }
   }
 ];
