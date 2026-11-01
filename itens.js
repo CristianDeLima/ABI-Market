@@ -5816,5 +5816,197 @@ window.ITENS = [
     },
     "atualizado": "2026-10-31",
     "obs": ""
+  },
+  {
+    "nome": "Pistola M1911",
+    "grupo": "Ferrolhos",
+    "categoria": "Pistola",
+    "precos": {
+      "novo": 3696,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": ".45"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Pistola T54",
+    "grupo": "Ferrolhos",
+    "categoria": "Pistola",
+    "precos": {
+      "novo": 2046,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "7,62×25"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Pistola G17",
+    "grupo": "Ferrolhos",
+    "categoria": "Pistola",
+    "precos": {
+      "novo": 4200,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "9×19"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Pistola M9A3",
+    "grupo": "Ferrolhos",
+    "categoria": "Pistola",
+    "precos": {
+      "novo": 1938,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "9×19"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Pistola M45A1",
+    "grupo": "Ferrolhos",
+    "categoria": "Pistola",
+    "precos": {
+      "novo": 2442,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": ".45"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Pistola T05",
+    "grupo": "Ferrolhos",
+    "categoria": "Pistola",
+    "precos": {
+      "novo": 7452,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "9×19"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Pistola CZ52",
+    "grupo": "Ferrolhos",
+    "categoria": "Pistola",
+    "precos": {
+      "novo": 3268,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "7,62×25"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Pistola Desert Eagle",
+    "grupo": "Ferrolhos",
+    "categoria": "Pistola",
+    "precos": {
+      "novo": 3720,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": ".44"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Pistola F57",
+    "grupo": "Ferrolhos",
+    "categoria": "Pistola",
+    "precos": {
+      "novo": 19140,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "5,7×28"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Pistola G18C",
+    "grupo": "Ferrolhos",
+    "categoria": "Pistola",
+    "precos": {
+      "novo": 8702,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "9×19"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Submetralhadora MP9",
+    "grupo": "Ferrolhos",
+    "categoria": "Pistola",
+    "precos": {
+      "novo": 9956,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "9×19"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Pistola Golden Deagl…",
+    "grupo": "Ferrolhos",
+    "categoria": "Pistola",
+    "precos": {
+      "novo": 12008,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": ".44"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
