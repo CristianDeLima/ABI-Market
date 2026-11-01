@@ -6088,5 +6088,149 @@ window.ITENS = [
     },
     "atualizado": "2026-10-31",
     "obs": ""
+  },
+  {
+    "nome": "Chave do Escritório …",
+    "grupo": "Chave",
+    "categoria": "Chaves de Northridge",
+    "precos": {
+      "novo": 78128,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 3
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Chave do Salão 1 do …",
+    "grupo": "Chave",
+    "categoria": "Chaves de Northridge",
+    "precos": {
+      "novo": 398962,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 30
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Chave do Edifício B …",
+    "grupo": "Chave",
+    "categoria": "Chaves de Northridge",
+    "precos": {
+      "novo": 410514,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 45
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Chave do Escritório …",
+    "grupo": "Chave",
+    "categoria": "Chaves de Northridge",
+    "precos": {
+      "novo": 430692,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 30
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Chave do Edifício D …",
+    "grupo": "Chave",
+    "categoria": "Chaves de Northridge",
+    "precos": {
+      "novo": 487198,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 45
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Chave da Oficina da …",
+    "grupo": "Chave",
+    "categoria": "Chaves de Northridge",
+    "precos": {
+      "novo": 495938,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 45
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Chave de Salão do Qu…",
+    "grupo": "Chave",
+    "categoria": "Chaves de Northridge",
+    "precos": {
+      "novo": 686774,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 30
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Chave de Edifício B …",
+    "grupo": "Chave",
+    "categoria": "Chaves de Northridge",
+    "precos": {
+      "novo": 728042,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 30
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Chave do Lounge da …",
+    "grupo": "Chave",
+    "categoria": "Chaves de Northridge",
+    "precos": {
+      "novo": 1096566,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 45
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
