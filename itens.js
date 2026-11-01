@@ -19,7 +19,7 @@ window.GRUPOS = ["Equipamento", "Peça de Arma", "Ferrolhos", "Munição", "Item
 
 // Pendências: categorias ou dados que ainda faltam enviar.
 window.PENDENCIAS = [
-  { item: "Peça de Arma", nota: "Mira, Carregador, Cabo Frontal e Cabo Traseiro já cadastrados (Cabo Frontal estava indisponível no mercado). Faltam as outras subcategorias." },
+  { item: "Peça de Arma", nota: "Mira, Carregador, Cabo Frontal, Cabo Traseiro e Coronha já cadastrados (Cabo Frontal estava indisponível no mercado). Faltam as outras subcategorias." },
   { item: "Máscaras de Gás", nota: "Confirmar se existem preços Como nova e Usada." }
 ];
 
@@ -14626,6 +14626,2385 @@ window.ITENS = [
     "categoria": "Cabo Traseiro",
     "precos": {
       "novo": 30856,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha-padrão QC61",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 657,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Capa de Coronha MP…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 780,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Antiderrapa…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 1190,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Adaptador de Coronh…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 1190,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha de Polímero …",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 1148,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Clássica T79",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 1190,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Dobrável MP…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 1218,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha de Carvalho …",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 1200,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha de Madeira …",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 1184,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Crn. Dobrável M3A1",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 1280,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Trilho Guard…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 1376,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo de Polímero MP…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 1615,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha-padrão MAC…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 1743,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Almofada de Coronh…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 2952,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Adaptador de Proteç…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 2100,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Madeira UZI",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 1800,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha de Madeira …",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 1300,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Equilibrada …",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 7744,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Modernizad…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 9888,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha-padrão T85",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 2883,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha-padrão UMP…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 2013,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha PT1 AK",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 3230,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Tampa MP5",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 3348,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha de Máscara …",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 2052,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Traseira Pa…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 2952,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha de Rifle de …",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 4477,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha de Polímero …",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 3182,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha dobrável de…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 1786,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha-padrão G3",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 3159,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha de Madeira …",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 2016,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha de Metal MP…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 3784,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Ergonômica …",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 3960,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Tubo de Extensão Es…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 3735,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Adaptador UZI",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 2021,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Adaptador AKS para …",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 1824,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Adaptador de Coronh…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 1824,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Capa de coronha ded…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 4368,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha de Metal AK…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 1813,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha-padrão S12K",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 3528,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Traseira Uni…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 4500,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Dobrável da …",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 5724,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Retrátil da …",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 5778,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha de Madeira …",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 2090,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "UZI Conv.",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 4760,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Retrô para …",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 2109,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Almofada de Recuo d…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 6760,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha de Ébano M…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 2470,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Leve Retrát…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 6534,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha-padrão M16",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 5016,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Modernizad…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 6164,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Dobrável da …",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 2584,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Modernizad…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 6188,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Fixa EA da S…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 6392,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha Esqueleto p…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 7590,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Adaptador de Tubo AR",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 12600,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha premium SG…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 4620,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha Dobrável Av…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 4080,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Almofada Esqueleto …",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 9040,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha de Sniper Pa…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 13284,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Tática FA Ge…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 7055,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha Moderna G3",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 8330,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha de Proteção…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 7395,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha de Polímero …",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 3306,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha Retrátil SCA…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 3344,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Dobrável AC…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 8096,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Almofada de Coronh…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 3344,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha de Polímero …",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 3344,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha de Polímero …",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 3344,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Adaptador AKM para …",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 3648,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha de Madeira …",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 3686,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Adaptador AK para PT",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 8415,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha Padrão do Z…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 3800,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha de Franco-a…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 10200,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Fixa MP5",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 3914,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Padrão do A…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 11770,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Leve Carabi…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 17227,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha-padrão M4",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 4066,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Tática do M…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 30080,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Leve do FAL",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 10780,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha-padrão AK12",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 4950,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha PT3 AK",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 23805,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Adaptador de Tubo R…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 6069,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha Retrátil Clá…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 9600,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Adaptador de Coronh…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 17802,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Adaptador de Coronh…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 16383,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Adaptador de Tubo S…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 8060,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha MCX Especial",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 4940,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Retrátil Pad…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 12576,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Dobrável Es…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 4978,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Almofada da USAS-12",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 15982,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha Leve ACE 31",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 4978,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Almofada traseira p…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 10824,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha T951",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 5016,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Desc. B. T19X",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 26004,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha Estável do S…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 18744,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha Tática MP5",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 6384,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha Padrão do A…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 9310,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Integrada AR",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 8512,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha-padrão T19X",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 12901,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Dobrável T03",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 14985,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Moderna do …",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 26190,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha de Madeira …",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 5548,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Almofada traseira p…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 16498,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha Tática do ZC…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 35100,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Tática da PP…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 22348,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Retrátil Pro…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 5814,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha Leve GL Sho…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 13244,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Descanso de Bochec…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 6004,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Adaptador de Coronh…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 19840,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha Integrado Li…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 14280,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Almofada de Coronh…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 14790,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Tubo de Extensão RP…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 6498,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha integrada A…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 21177,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha Retrátil da …",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 19055,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha Compatível …",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 7030,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha-padrão AEK",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 7486,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Traseira Lev…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 22261,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha de Madeira …",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 7562,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Original P90",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 16281,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Leve AK-100",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 20100,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Tática AK12",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 42840,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha de Alto Des…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 37536,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Tubo Universal Série…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 9384,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha dobrável MP9",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 7828,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha Type 81.",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 10350,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Almofada de Coronh…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 22600,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Industrial d…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 40454,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Moderna M1…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 21792,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha de Proteção…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 19720,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha Moderna MCX",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 11985,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha-padrão Mod…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 29140,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha Tática AP S…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 26196,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Retrátil da …",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 9120,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Adaptador de Coronh…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 32912,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Integrada AK",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 10086,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha de Precisão …",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 14094,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha Triangular F…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 25839,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha de Alto Des…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 24196,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha-padrão FAM…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 11970,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha de Alto Des…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 127300,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Adaptador de Coronh…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 31137,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Adaptador de Tubo B…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 36792,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha do M24 Flor…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 14650,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Tubo de Coronha Ava…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 27342,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Almofada traseira a…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 37338,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha Padrão de B…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 26640,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Descanso de Bochec…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 11286,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Especial FAL",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 20562,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha Retrátil do …",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 48574,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Padrão do T…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 19966,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Estável do F…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 32292,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha de Polímero …",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 22425,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Retrátil MPX",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 59400,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha Dobrável M24",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 106200,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha de Alto Des…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 52548,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Leve AK-Ser…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 37750,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Traseira Apr…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 40299,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Tática Mode…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 53328,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Aprimorada …",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 46359,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Modernizad…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 50020,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Moderna M24",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 96075,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Modernizad…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 51102,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha do Rifle de …",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 53111,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha RPK Dedicada",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 39424,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha de design m…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 30591,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Rápida MK14",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 22980,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha-padrão SJ16",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 90240,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Adaptador de Coronh…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 37056,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha FAB da série…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 16074,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Almofada de Coronh…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 22880,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Almofada de Recuo d…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 116865,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Estável AEK",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 155601,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Ajustável S…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 100254,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha de Precisão …",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 58800,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha de 2 Geraçã…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 50292,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Adaptador de Tubo F…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 23400,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha Tática T03",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 20330,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha de Assalto d…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 39812,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha especial MK…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 25470,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Tubo Estendido Avan…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 56396,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coronha de alto dese…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 107864,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha de Franco-a…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 86940,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coronha Moderna SJ…",
+    "grupo": "Peça de Arma",
+    "categoria": "Coronha",
+    "precos": {
+      "novo": 162071,
       "comoNovo": null,
       "usado": null
     },
