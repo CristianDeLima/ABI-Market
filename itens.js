@@ -1417,12 +1417,12 @@ window.ITENS = [
     "grupo": "Equipamento",
     "categoria": "Colete não blindado",
     "precos": {
-      "novo": 40986,
+      "novo": 120354,
       "comoNovo": null,
       "usado": null
     },
     "qualidadeUnica": true,
-    "atualizado": "2026-10-31",
+    "atualizado": "2026-11-01",
     "obs": "Pode ser trocado com Contato",
     "atributos": {
       "Peso": "1,90 kg",
