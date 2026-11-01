@@ -2246,7 +2246,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Colete Peitoral Blin…",
+    "nome": "Colete Peitoral Blindado Sentry 305",
     "grupo": "Equipamento",
     "categoria": "Colete Blindado",
     "precos": {
@@ -2256,7 +2256,13 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 4,
-      "Durab.": 50
+      "Durab.": 50,
+      "Peso": "10,00 kg",
+      "Material": "Composto",
+      "Ergonomia": -1,
+      "Vel. movimento": "-3%",
+      "Espaço": 16,
+      "Área": "Tórax"
     },
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato",
@@ -2277,7 +2283,13 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 4,
-      "Durab.": 40
+      "Durab.": 40,
+      "Peso": "8,20 kg",
+      "Material": "Titânio",
+      "Ergonomia": -2,
+      "Vel. movimento": "-5%",
+      "Espaço": 14,
+      "Área": "Tórax; Abdômen Superior"
     },
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato",
@@ -2298,7 +2310,13 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 4,
-      "Durab.": 45
+      "Durab.": 45,
+      "Peso": "10,00 kg",
+      "Material": "Alumínio",
+      "Ergonomia": -1,
+      "Vel. movimento": "-4%",
+      "Espaço": 16,
+      "Área": "Tórax; Abdômen Superior"
     },
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato",
@@ -2309,7 +2327,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Colete Blindado H-Ta…",
+    "nome": "Colete Blindado H-Tac A8",
     "grupo": "Equipamento",
     "categoria": "Colete Blindado",
     "precos": {
@@ -2319,7 +2337,13 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 5,
-      "Durab.": 60
+      "Durab.": 60,
+      "Peso": "5,90 kg",
+      "Material": "Composto",
+      "Ergonomia": -5,
+      "Vel. movimento": "-4%",
+      "Espaço": 18,
+      "Área": "Tórax"
     },
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato",
@@ -2330,7 +2354,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Colete Tático Blinda…",
+    "nome": "Colete Tático Blindado Guerreiro Pesado",
     "grupo": "Equipamento",
     "categoria": "Colete Blindado",
     "precos": {
@@ -2340,7 +2364,13 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 5,
-      "Durab.": 55
+      "Durab.": 55,
+      "Peso": "7,40 kg",
+      "Material": "Composto",
+      "Ergonomia": -7,
+      "Vel. movimento": "-6%",
+      "Espaço": 16,
+      "Área": "Tórax; Abdômen Superior"
     },
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato",
@@ -2351,7 +2381,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Colete Blindado H-Ta…",
+    "nome": "Colete Blindado H-Tac A9",
     "grupo": "Equipamento",
     "categoria": "Colete Blindado",
     "precos": {
@@ -2361,7 +2391,13 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 5,
-      "Durab.": 65
+      "Durab.": 65,
+      "Peso": "6,60 kg",
+      "Material": "Cerâmica",
+      "Ergonomia": -5,
+      "Vel. movimento": "-8%",
+      "Espaço": 20,
+      "Área": "Tórax; Abdômen Superior; Abdômen Inferior"
     },
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato",
@@ -2372,7 +2408,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Colete Blindado Pesa…",
+    "nome": "Colete Blindado Pesado Defender M4",
     "grupo": "Equipamento",
     "categoria": "Colete Blindado",
     "precos": {
@@ -2382,7 +2418,13 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 5,
-      "Durab.": 100
+      "Durab.": 100,
+      "Peso": "12,00 kg",
+      "Material": "Aço Endurecido",
+      "Ergonomia": -7,
+      "Vel. movimento": "-10%",
+      "Espaço": 20,
+      "Área": "Tórax; Abdômen Superior; Abdômen Inferior"
     },
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato",
@@ -2393,7 +2435,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Colete Blindado Pesa…",
+    "nome": "Colete Blindado Pesado Spartan C",
     "grupo": "Equipamento",
     "categoria": "Colete Blindado",
     "precos": {
@@ -2403,7 +2445,13 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 6,
-      "Durab.": 100
+      "Durab.": 100,
+      "Peso": "14,40 kg",
+      "Material": "Aço Endurecido",
+      "Ergonomia": -10,
+      "Vel. movimento": "-18%",
+      "Espaço": 23,
+      "Área": "Tórax; Ombro; Abdômen Superior; Abdômen Inferior"
     },
     "atualizado": "2026-10-31",
     "obs": "",
@@ -2414,7 +2462,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Colete blindado táti…",
+    "nome": "Colete blindado tático AL",
     "grupo": "Equipamento",
     "categoria": "Colete Blindado",
     "precos": {
@@ -2424,7 +2472,13 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 6,
-      "Durab.": 95
+      "Durab.": 95,
+      "Peso": "7,20 kg",
+      "Material": "Cerâmica",
+      "Ergonomia": -5,
+      "Vel. movimento": "-6%",
+      "Espaço": 18,
+      "Área": "Tórax; Abdômen Superior"
     },
     "atualizado": "2026-10-31",
     "obs": "",
@@ -2435,7 +2489,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Colete Blindado Pesa…",
+    "nome": "Colete Blindado Pesado AVS",
     "grupo": "Equipamento",
     "categoria": "Colete Blindado",
     "precos": {
@@ -2445,7 +2499,13 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 6,
-      "Durab.": 90
+      "Durab.": 90,
+      "Peso": "6,90 kg",
+      "Material": "Cerâmica",
+      "Ergonomia": -6,
+      "Vel. movimento": "-10%",
+      "Espaço": 20,
+      "Área": "Tórax; Abdômen Superior; Abdômen Inferior"
     },
     "atualizado": "2026-10-31",
     "obs": "",
@@ -2456,7 +2516,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Colete blindado de c…",
+    "nome": "Colete blindado de comandante AL",
     "grupo": "Equipamento",
     "categoria": "Colete Blindado",
     "precos": {
@@ -2466,7 +2526,13 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 6,
-      "Durab.": 100
+      "Durab.": 100,
+      "Peso": "8,60 kg",
+      "Material": "Aço Endurecido",
+      "Ergonomia": -5,
+      "Vel. movimento": "-7%",
+      "Espaço": 20,
+      "Área": "Tórax; Abdômen Superior"
     },
     "atualizado": "2026-10-31",
     "obs": "",
@@ -2477,7 +2543,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Colete blindado de a…",
+    "nome": "Colete blindado de assalto AL",
     "grupo": "Equipamento",
     "categoria": "Colete Blindado",
     "precos": {
@@ -2487,7 +2553,13 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 6,
-      "Durab.": 90
+      "Durab.": 90,
+      "Peso": "6,80 kg",
+      "Material": "Composto",
+      "Ergonomia": -3,
+      "Vel. movimento": "-8%",
+      "Espaço": 18,
+      "Área": "Tórax; Abdômen Superior"
     },
     "atualizado": "2026-10-31",
     "obs": "",
