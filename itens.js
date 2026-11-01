@@ -2357,5 +2357,65 @@ window.ITENS = [
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Fone de Ouvido Tátic…",
+    "categoria": "Fone de ouvido",
+    "precos": {
+      "novo": 4600,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Fone de Ouvido Tátic…",
+    "categoria": "Fone de ouvido",
+    "precos": {
+      "novo": 21842,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Fone de Ouvido Tátic…",
+    "categoria": "Fone de ouvido",
+    "precos": {
+      "novo": 44589,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Fone de Ouvido Tátic…",
+    "categoria": "Fone de ouvido",
+    "precos": {
+      "novo": 53600,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Auricular Tático GS2",
+    "categoria": "Fone de ouvido",
+    "precos": {
+      "novo": 85760,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
   }
 ];
