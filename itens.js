@@ -1019,7 +1019,7 @@ window.ITENS = [
     "categoria": "Colete",
     "precos": {
       "novo": 8075,
-      "comoNovo": null,
+      "comoNovo": 6552,
       "usado": null
     },
     "atributos": {
@@ -1030,7 +1030,7 @@ window.ITENS = [
     "obs": "",
     "durabilidade": {
       "novo": 25,
-      "comoNovo": null,
+      "comoNovo": 21,
       "usado": null
     }
   },
@@ -1039,7 +1039,7 @@ window.ITENS = [
     "categoria": "Colete",
     "precos": {
       "novo": 9405,
-      "comoNovo": null,
+      "comoNovo": 7614,
       "usado": null
     },
     "atributos": {
@@ -1050,7 +1050,7 @@ window.ITENS = [
     "obs": "",
     "durabilidade": {
       "novo": 25,
-      "comoNovo": null,
+      "comoNovo": 21,
       "usado": null
     }
   },
@@ -1059,7 +1059,7 @@ window.ITENS = [
     "categoria": "Colete",
     "precos": {
       "novo": 9024,
-      "comoNovo": null,
+      "comoNovo": 5063,
       "usado": null
     },
     "atributos": {
@@ -1070,7 +1070,7 @@ window.ITENS = [
     "obs": "",
     "durabilidade": {
       "novo": 20,
-      "comoNovo": null,
+      "comoNovo": 17,
       "usado": null
     }
   },
@@ -1079,7 +1079,7 @@ window.ITENS = [
     "categoria": "Colete",
     "precos": {
       "novo": 10437,
-      "comoNovo": null,
+      "comoNovo": 7020,
       "usado": null
     },
     "atributos": {
@@ -1090,7 +1090,7 @@ window.ITENS = [
     "obs": "Venda por Contato",
     "durabilidade": {
       "novo": 25,
-      "comoNovo": null,
+      "comoNovo": 21,
       "usado": null
     }
   },
@@ -1099,7 +1099,7 @@ window.ITENS = [
     "categoria": "Colete",
     "precos": {
       "novo": 23004,
-      "comoNovo": null,
+      "comoNovo": 9516,
       "usado": null
     },
     "atributos": {
@@ -1110,7 +1110,7 @@ window.ITENS = [
     "obs": "",
     "durabilidade": {
       "novo": 30,
-      "comoNovo": null,
+      "comoNovo": 26,
       "usado": null
     }
   },
@@ -1119,7 +1119,7 @@ window.ITENS = [
     "categoria": "Colete",
     "precos": {
       "novo": 11760,
-      "comoNovo": null,
+      "comoNovo": 8034,
       "usado": null
     },
     "atributos": {
@@ -1130,7 +1130,7 @@ window.ITENS = [
     "obs": "Venda por Contato",
     "durabilidade": {
       "novo": 30,
-      "comoNovo": null,
+      "comoNovo": 26,
       "usado": null
     }
   },
@@ -1139,7 +1139,7 @@ window.ITENS = [
     "categoria": "Colete",
     "precos": {
       "novo": 52272,
-      "comoNovo": null,
+      "comoNovo": 35322,
       "usado": null
     },
     "atributos": {
@@ -1150,7 +1150,7 @@ window.ITENS = [
     "obs": "Pode ser trocado com Contato",
     "durabilidade": {
       "novo": 55,
-      "comoNovo": null,
+      "comoNovo": 47,
       "usado": null
     }
   },
@@ -1159,7 +1159,7 @@ window.ITENS = [
     "categoria": "Colete",
     "precos": {
       "novo": 44712,
-      "comoNovo": null,
+      "comoNovo": 27336,
       "usado": null
     },
     "atributos": {
@@ -1170,7 +1170,7 @@ window.ITENS = [
     "obs": "Pode ser trocado com Contato",
     "durabilidade": {
       "novo": 35,
-      "comoNovo": null,
+      "comoNovo": 30,
       "usado": null
     }
   },
@@ -1179,7 +1179,7 @@ window.ITENS = [
     "categoria": "Colete",
     "precos": {
       "novo": 27378,
-      "comoNovo": null,
+      "comoNovo": 25560,
       "usado": null
     },
     "atributos": {
@@ -1190,7 +1190,7 @@ window.ITENS = [
     "obs": "Pode ser trocado com Contato",
     "durabilidade": {
       "novo": 35,
-      "comoNovo": null,
+      "comoNovo": 30,
       "usado": null
     }
   },
@@ -1199,7 +1199,7 @@ window.ITENS = [
     "categoria": "Colete",
     "precos": {
       "novo": 27456,
-      "comoNovo": null,
+      "comoNovo": 25536,
       "usado": null
     },
     "atributos": {
@@ -1210,7 +1210,7 @@ window.ITENS = [
     "obs": "Pode ser trocado com Contato",
     "durabilidade": {
       "novo": 50,
-      "comoNovo": null,
+      "comoNovo": 42,
       "usado": null
     }
   },
@@ -1219,7 +1219,7 @@ window.ITENS = [
     "categoria": "Colete",
     "precos": {
       "novo": 71628,
-      "comoNovo": null,
+      "comoNovo": 36232,
       "usado": null
     },
     "atributos": {
@@ -1230,7 +1230,7 @@ window.ITENS = [
     "obs": "Pode ser trocado com Contato",
     "durabilidade": {
       "novo": 50,
-      "comoNovo": null,
+      "comoNovo": 42,
       "usado": null
     }
   },
@@ -1239,7 +1239,7 @@ window.ITENS = [
     "categoria": "Colete",
     "precos": {
       "novo": 45144,
-      "comoNovo": null,
+      "comoNovo": 25270,
       "usado": null
     },
     "atributos": {
@@ -1250,7 +1250,7 @@ window.ITENS = [
     "obs": "Pode ser trocado com Contato",
     "durabilidade": {
       "novo": 45,
-      "comoNovo": null,
+      "comoNovo": 38,
       "usado": null
     }
   },
@@ -1259,7 +1259,7 @@ window.ITENS = [
     "categoria": "Colete",
     "precos": {
       "novo": 99484,
-      "comoNovo": null,
+      "comoNovo": 63504,
       "usado": null
     },
     "atributos": {
@@ -1270,7 +1270,7 @@ window.ITENS = [
     "obs": "Pode ser trocado com Contato",
     "durabilidade": {
       "novo": 50,
-      "comoNovo": null,
+      "comoNovo": 42,
       "usado": null
     }
   },
@@ -1279,7 +1279,7 @@ window.ITENS = [
     "categoria": "Colete",
     "precos": {
       "novo": 177016,
-      "comoNovo": null,
+      "comoNovo": 106808,
       "usado": null
     },
     "atributos": {
@@ -1290,7 +1290,7 @@ window.ITENS = [
     "obs": "Pode ser trocado com Contato",
     "durabilidade": {
       "novo": 70,
-      "comoNovo": null,
+      "comoNovo": 60,
       "usado": null
     }
   },
@@ -1299,7 +1299,7 @@ window.ITENS = [
     "categoria": "Colete",
     "precos": {
       "novo": 93960,
-      "comoNovo": null,
+      "comoNovo": 76832,
       "usado": null
     },
     "atributos": {
@@ -1310,7 +1310,7 @@ window.ITENS = [
     "obs": "Pode ser trocado com Contato",
     "durabilidade": {
       "novo": 65,
-      "comoNovo": null,
+      "comoNovo": 55,
       "usado": null
     }
   },
@@ -1319,7 +1319,7 @@ window.ITENS = [
     "categoria": "Colete",
     "precos": {
       "novo": 74250,
-      "comoNovo": null,
+      "comoNovo": 59327,
       "usado": null
     },
     "atributos": {
@@ -1330,7 +1330,7 @@ window.ITENS = [
     "obs": "Pode ser trocado com Contato",
     "durabilidade": {
       "novo": 55,
-      "comoNovo": null,
+      "comoNovo": 47,
       "usado": null
     }
   },
@@ -1339,7 +1339,7 @@ window.ITENS = [
     "categoria": "Colete",
     "precos": {
       "novo": 133980,
-      "comoNovo": null,
+      "comoNovo": 108491,
       "usado": null
     },
     "atributos": {
@@ -1350,7 +1350,7 @@ window.ITENS = [
     "obs": "Pode ser trocado com Contato",
     "durabilidade": {
       "novo": 50,
-      "comoNovo": null,
+      "comoNovo": 42,
       "usado": null
     }
   },
@@ -1359,7 +1359,7 @@ window.ITENS = [
     "categoria": "Colete",
     "precos": {
       "novo": 318246,
-      "comoNovo": null,
+      "comoNovo": 278730,
       "usado": null
     },
     "atributos": {
@@ -1370,7 +1370,7 @@ window.ITENS = [
     "obs": "Pode ser trocado com Contato",
     "durabilidade": {
       "novo": 70,
-      "comoNovo": null,
+      "comoNovo": 60,
       "usado": null
     }
   },
@@ -1379,7 +1379,7 @@ window.ITENS = [
     "categoria": "Colete",
     "precos": {
       "novo": 333024,
-      "comoNovo": null,
+      "comoNovo": 292020,
       "usado": null
     },
     "atributos": {
@@ -1390,7 +1390,7 @@ window.ITENS = [
     "obs": "",
     "durabilidade": {
       "novo": 70,
-      "comoNovo": null,
+      "comoNovo": 60,
       "usado": null
     }
   },
@@ -1399,7 +1399,7 @@ window.ITENS = [
     "categoria": "Colete",
     "precos": {
       "novo": 321376,
-      "comoNovo": null,
+      "comoNovo": 257790,
       "usado": null
     },
     "atributos": {
@@ -1410,7 +1410,7 @@ window.ITENS = [
     "obs": "",
     "durabilidade": {
       "novo": 80,
-      "comoNovo": null,
+      "comoNovo": 68,
       "usado": null
     }
   },
@@ -1419,7 +1419,7 @@ window.ITENS = [
     "categoria": "Colete",
     "precos": {
       "novo": 304859,
-      "comoNovo": null,
+      "comoNovo": 269244,
       "usado": null
     },
     "atributos": {
@@ -1430,7 +1430,7 @@ window.ITENS = [
     "obs": "",
     "durabilidade": {
       "novo": 80,
-      "comoNovo": null,
+      "comoNovo": 68,
       "usado": null
     }
   },
@@ -1439,7 +1439,7 @@ window.ITENS = [
     "categoria": "Colete",
     "precos": {
       "novo": 393274,
-      "comoNovo": null,
+      "comoNovo": 290560,
       "usado": null
     },
     "atributos": {
@@ -1450,7 +1450,7 @@ window.ITENS = [
     "obs": "",
     "durabilidade": {
       "novo": 80,
-      "comoNovo": null,
+      "comoNovo": 68,
       "usado": null
     }
   },
@@ -1459,7 +1459,7 @@ window.ITENS = [
     "categoria": "Colete",
     "precos": {
       "novo": 380880,
-      "comoNovo": null,
+      "comoNovo": 254796,
       "usado": null
     },
     "atributos": {
@@ -1470,7 +1470,7 @@ window.ITENS = [
     "obs": "",
     "durabilidade": {
       "novo": 70,
-      "comoNovo": null,
+      "comoNovo": 60,
       "usado": null
     }
   },
@@ -1479,7 +1479,7 @@ window.ITENS = [
     "categoria": "Colete",
     "precos": {
       "novo": 332304,
-      "comoNovo": null,
+      "comoNovo": 295350,
       "usado": null
     },
     "atributos": {
@@ -1490,7 +1490,7 @@ window.ITENS = [
     "obs": "",
     "durabilidade": {
       "novo": 90,
-      "comoNovo": null,
+      "comoNovo": 76,
       "usado": null
     }
   },
@@ -1499,7 +1499,7 @@ window.ITENS = [
     "categoria": "Colete",
     "precos": {
       "novo": 609120,
-      "comoNovo": null,
+      "comoNovo": 463335,
       "usado": null
     },
     "atributos": {
@@ -1510,7 +1510,7 @@ window.ITENS = [
     "obs": "",
     "durabilidade": {
       "novo": 90,
-      "comoNovo": null,
+      "comoNovo": 76,
       "usado": null
     }
   },
@@ -1519,7 +1519,7 @@ window.ITENS = [
     "categoria": "Colete",
     "precos": {
       "novo": 1279938,
-      "comoNovo": null,
+      "comoNovo": 1243138,
       "usado": null
     },
     "atributos": {
@@ -1530,7 +1530,7 @@ window.ITENS = [
     "obs": "",
     "durabilidade": {
       "novo": 100,
-      "comoNovo": null,
+      "comoNovo": 85,
       "usado": null
     }
   },
@@ -1539,7 +1539,7 @@ window.ITENS = [
     "categoria": "Colete",
     "precos": {
       "novo": 1124011,
-      "comoNovo": null,
+      "comoNovo": 964176,
       "usado": null
     },
     "atributos": {
@@ -1550,7 +1550,7 @@ window.ITENS = [
     "obs": "",
     "durabilidade": {
       "novo": 120,
-      "comoNovo": null,
+      "comoNovo": 102,
       "usado": null
     }
   },
@@ -1559,7 +1559,7 @@ window.ITENS = [
     "categoria": "Colete",
     "precos": {
       "novo": 1144500,
-      "comoNovo": null,
+      "comoNovo": 1045330,
       "usado": null
     },
     "atributos": {
@@ -1570,7 +1570,7 @@ window.ITENS = [
     "obs": "",
     "durabilidade": {
       "novo": 115,
-      "comoNovo": null,
+      "comoNovo": 98,
       "usado": null
     }
   },
@@ -1579,7 +1579,7 @@ window.ITENS = [
     "categoria": "Colete",
     "precos": {
       "novo": 1746816,
-      "comoNovo": null,
+      "comoNovo": 1460160,
       "usado": null
     },
     "atributos": {
@@ -1590,7 +1590,7 @@ window.ITENS = [
     "obs": "",
     "durabilidade": {
       "novo": 110,
-      "comoNovo": null,
+      "comoNovo": 94,
       "usado": null
     }
   }
