@@ -1013,5 +1013,585 @@ window.ITENS = [
       "comoNovo": 60,
       "usado": 49
     }
+  },
+  {
+    "nome": "Peitoral à Prova de …",
+    "categoria": "Colete",
+    "precos": {
+      "novo": 8075,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 1,
+      "Durab.": 25
+    },
+    "atualizado": "2026-10-31",
+    "obs": "",
+    "durabilidade": {
+      "novo": 25,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Antigo Colete Balíst…",
+    "categoria": "Colete",
+    "precos": {
+      "novo": 9405,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 1,
+      "Durab.": 25
+    },
+    "atualizado": "2026-10-31",
+    "obs": "",
+    "durabilidade": {
+      "novo": 25,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Colete Blindado Clás…",
+    "categoria": "Colete",
+    "precos": {
+      "novo": 9024,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 1,
+      "Durab.": 20
+    },
+    "atualizado": "2026-10-31",
+    "obs": "",
+    "durabilidade": {
+      "novo": 20,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Colete Balístico de …",
+    "categoria": "Colete",
+    "precos": {
+      "novo": 10437,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 2,
+      "Durab.": 25
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato",
+    "durabilidade": {
+      "novo": 25,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Colete à Prova de Ba…",
+    "categoria": "Colete",
+    "precos": {
+      "novo": 23004,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 2,
+      "Durab.": 30
+    },
+    "atualizado": "2026-10-31",
+    "obs": "",
+    "durabilidade": {
+      "novo": 30,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Colete Balístico 220",
+    "categoria": "Colete",
+    "precos": {
+      "novo": 11760,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 2,
+      "Durab.": 30
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato",
+    "durabilidade": {
+      "novo": 30,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Colete Balístico Lev…",
+    "categoria": "Colete",
+    "precos": {
+      "novo": 52272,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 3,
+      "Durab.": 55
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 55,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "SWAT H-Tac",
+    "categoria": "Colete",
+    "precos": {
+      "novo": 44712,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 3,
+      "Durab.": 35
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 35,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Colete Balístico de …",
+    "categoria": "Colete",
+    "precos": {
+      "novo": 27378,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 3,
+      "Durab.": 35
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 35,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Colete Balístico PCA…",
+    "categoria": "Colete",
+    "precos": {
+      "novo": 27456,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 3,
+      "Durab.": 50
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 50,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Colete Balístico de …",
+    "categoria": "Colete",
+    "precos": {
+      "novo": 71628,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 3,
+      "Durab.": 50
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 50,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Blindagem SWAT Pa…",
+    "categoria": "Colete",
+    "precos": {
+      "novo": 45144,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 3,
+      "Durab.": 45
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 45,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Colete Balístico For…",
+    "categoria": "Colete",
+    "precos": {
+      "novo": 99484,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 4,
+      "Durab.": 50
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 50,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Colete Balístico 6B2…",
+    "categoria": "Colete",
+    "precos": {
+      "novo": 177016,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 4,
+      "Durab.": 70
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 70,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Colete Balístico 6B1…",
+    "categoria": "Colete",
+    "precos": {
+      "novo": 93960,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 4,
+      "Durab.": 65
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 65,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Colete Balístico IND…",
+    "categoria": "Colete",
+    "precos": {
+      "novo": 74250,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 4,
+      "Durab.": 55
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 55,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Colete Balístico Spa…",
+    "categoria": "Colete",
+    "precos": {
+      "novo": 133980,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 4,
+      "Durab.": 50
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 50,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Colete Balístico Com…",
+    "categoria": "Colete",
+    "precos": {
+      "novo": 318246,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 5,
+      "Durab.": 70
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 70,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Colete Balístico Tát…",
+    "categoria": "Colete",
+    "precos": {
+      "novo": 333024,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 5,
+      "Durab.": 70
+    },
+    "atualizado": "2026-10-31",
+    "obs": "",
+    "durabilidade": {
+      "novo": 70,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Colete Balístico Pes…",
+    "categoria": "Colete",
+    "precos": {
+      "novo": 321376,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 5,
+      "Durab.": 80
+    },
+    "atualizado": "2026-10-31",
+    "obs": "",
+    "durabilidade": {
+      "novo": 80,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Colete Balístico Pes…",
+    "categoria": "Colete",
+    "precos": {
+      "novo": 304859,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 5,
+      "Durab.": 80
+    },
+    "atualizado": "2026-10-31",
+    "obs": "",
+    "durabilidade": {
+      "novo": 80,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Colete Balístico Ofe…",
+    "categoria": "Colete",
+    "precos": {
+      "novo": 393274,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 5,
+      "Durab.": 80
+    },
+    "atualizado": "2026-10-31",
+    "obs": "",
+    "durabilidade": {
+      "novo": 80,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Colete Balístico Pad…",
+    "categoria": "Colete",
+    "precos": {
+      "novo": 380880,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 5,
+      "Durab.": 70
+    },
+    "atualizado": "2026-10-31",
+    "obs": "",
+    "durabilidade": {
+      "novo": 70,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Colete Balístico Pro…",
+    "categoria": "Colete",
+    "precos": {
+      "novo": 332304,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 5,
+      "Durab.": 90
+    },
+    "atualizado": "2026-10-31",
+    "obs": "",
+    "durabilidade": {
+      "novo": 90,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Colete Balístico Pes…",
+    "categoria": "Colete",
+    "precos": {
+      "novo": 609120,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 5,
+      "Durab.": 90
+    },
+    "atualizado": "2026-10-31",
+    "obs": "",
+    "durabilidade": {
+      "novo": 90,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Colete Balístico Tát…",
+    "categoria": "Colete",
+    "precos": {
+      "novo": 1279938,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 6,
+      "Durab.": 100
+    },
+    "atualizado": "2026-10-31",
+    "obs": "",
+    "durabilidade": {
+      "novo": 100,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Colete Balístico Pes…",
+    "categoria": "Colete",
+    "precos": {
+      "novo": 1124011,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 6,
+      "Durab.": 120
+    },
+    "atualizado": "2026-10-31",
+    "obs": "",
+    "durabilidade": {
+      "novo": 120,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Colete Balístico Pes…",
+    "categoria": "Colete",
+    "precos": {
+      "novo": 1144500,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 6,
+      "Durab.": 115
+    },
+    "atualizado": "2026-10-31",
+    "obs": "",
+    "durabilidade": {
+      "novo": 115,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Colete Balístico Com…",
+    "categoria": "Colete",
+    "precos": {
+      "novo": 1746816,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 6,
+      "Durab.": 110
+    },
+    "atualizado": "2026-10-31",
+    "obs": "",
+    "durabilidade": {
+      "novo": 110,
+      "comoNovo": null,
+      "usado": null
+    }
   }
 ];
