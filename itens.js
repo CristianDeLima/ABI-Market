@@ -9972,5 +9972,109 @@ window.ITENS = [
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
     "obs": ""
+  },
+  {
+    "nome": "Faca Bem Conservada",
+    "grupo": "Variedade",
+    "categoria": "Ficha do Chefe",
+    "precos": {
+      "novo": 19800,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Aliança do Frade",
+    "grupo": "Variedade",
+    "categoria": "Ficha do Chefe",
+    "precos": {
+      "novo": 38050,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Ouro Feito à Mão",
+    "grupo": "Variedade",
+    "categoria": "Ficha do Chefe",
+    "precos": {
+      "novo": 111356,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mosquetão Imaculado",
+    "grupo": "Variedade",
+    "categoria": "Ficha do Chefe",
+    "precos": {
+      "novo": 47880,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Emblema paraquedis…",
+    "grupo": "Variedade",
+    "categoria": "Ficha do Chefe",
+    "precos": {
+      "novo": 163100,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Emblema Forjado em…",
+    "grupo": "Variedade",
+    "categoria": "Ficha do Chefe",
+    "precos": {
+      "novo": 250572,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Soqueiras",
+    "grupo": "Variedade",
+    "categoria": "Ficha do Chefe",
+    "precos": {
+      "novo": 152904,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Bússola",
+    "grupo": "Variedade",
+    "categoria": "Ficha do Chefe",
+    "precos": {
+      "novo": 178500,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
