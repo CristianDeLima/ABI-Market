@@ -3424,5 +3424,69 @@ window.ITENS = [
     },
     "atualizado": "2026-10-31",
     "obs": ""
+  },
+  {
+    "nome": "Munição SP5 9×39 mm",
+    "grupo": "Munição",
+    "categoria": "9×39 mm",
+    "precos": {
+      "novo": 210,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 3
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Munição SP6 9×39 mm",
+    "grupo": "Munição",
+    "categoria": "9×39 mm",
+    "precos": {
+      "novo": 1036,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 4
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Munição 7N9 9×39 mm",
+    "grupo": "Munição",
+    "categoria": "9×39 mm",
+    "precos": {
+      "novo": 1764,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 4
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Munição 7N12 9×39 …",
+    "grupo": "Munição",
+    "categoria": "9×39 mm",
+    "precos": {
+      "novo": 4536,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 5
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
