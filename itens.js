@@ -494,7 +494,13 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 4,
-      "Durab.": 40
+      "Durab.": 40,
+      "Peso": "1,90 kg",
+      "Material": "Alumínio",
+      "Bloqueio sonoro": "Nenhum",
+      "Área": "Cabeça",
+      "Vel. movimento": "-1%",
+      "Acessórios": "Máscara, Equipamento"
     },
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato",
