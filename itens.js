@@ -19,7 +19,7 @@ window.GRUPOS = ["Equipamento", "Peça de Arma", "Ferrolhos", "Munição", "Item
 
 // Pendências: categorias ou dados que ainda faltam enviar.
 window.PENDENCIAS = [
-  { item: "Peça de Arma", nota: "Mira, Carregador, Cabo Frontal, Cabo Traseiro, Coronha, Bocal, Ponta Laser e Cano já cadastrados (Cabo Frontal estava indisponível no mercado). Faltam as outras subcategorias." },
+  { item: "Peça de Arma", nota: "Mira, Carregador, Cabo Frontal, Cabo Traseiro, Coronha, Bocal, Ponta Laser, Cano e Guarda-mão já cadastrados (Cabo Frontal estava indisponível no mercado). Faltam as outras subcategorias." },
   { item: "Máscaras de Gás", nota: "Confirmar se existem preços Como nova e Usada." }
 ];
 
@@ -20066,5 +20066,1708 @@ window.ITENS = [
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
     "obs": ""
+  },
+  {
+    "nome": "Guarda-mão de Faia …",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 1575,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Especial…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 2697,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão de Made…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 2508,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Receptor Guarda-mã…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 3827,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão de Meta…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 2964,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão de Polí…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 2704,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Compos…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 2970,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Aprimor…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 2915,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão de Plást…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 2530,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Modern…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 5270,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão de Polí…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 2508,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Modern…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 5544,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão Básico T…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 4020,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão de Trilh…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 4958,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Padrão …",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 5775,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão curto SG…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 3120,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão Médio P…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 3040,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Longo P…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 8667,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão Padrão I…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 3078,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Curto PC…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 4293,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão Padrão …",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 3078,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão de Made…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 3610,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Retrô p…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 3686,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão curto tá…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 8924,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão Antiderr…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 3838,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão Longo d…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 9579,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão longo pa…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 4576,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Exclusiv…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 11130,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão em Liga …",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 6649,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão Padrão …",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 5390,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Portátil …",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 9130,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão Padrão …",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 4180,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Tático p…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 11770,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão com Tra…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 9240,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão Premiu…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 5264,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão Padrão …",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 4636,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Integra…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 13260,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão de Trilh…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 4940,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Especial…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 4978,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão de Trilh…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 4978,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão Modern…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 13433,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Longo d…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 20502,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão longo pa…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 10366,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão de Plást…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 24915,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão Especial…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 6123,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Aprimor…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 13973,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão Padrão …",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 12324,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Estendi…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 18170,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão Tático d…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 16218,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão de Polí…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 16366,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão de Trilh…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 6688,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão Estendi…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 9152,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão Padrão …",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 7144,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Estendi…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 17100,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão com Tra…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 7372,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Padrão …",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 19594,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão Longo Ó…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 21728,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão Curto Ót…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 19206,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão aprimor…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 20176,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão Estendi…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 19110,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Longo d…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 19695,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Industri…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 12285,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão Tático d…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 25545,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Tático d…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 9750,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão Tático M…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 10140,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Estendi…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 22620,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão Avançad…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 7448,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão MCX Esp…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 8036,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão AMB-17",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 17640,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Especial…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 7524,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Integra…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 21721,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão aprimor…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 27261,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão com Tra…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 11232,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão de Exte…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 28905,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Padrão …",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 20296,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão de Trilh…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 34220,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Especial…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 25724,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão Tático M…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 31416,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão Frontal …",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 25704,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão de Made…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 24745,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão com Tra…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 11760,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Estendi…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 31496,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão Estendi…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 11352,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão Padrão …",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 19684,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Clássico…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 10108,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão aprimor…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 37808,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão de Adap…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 29120,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Especial…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 31866,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Tático M…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 20878,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Padrão …",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 10982,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Frontal …",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 17520,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão Padrão …",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 11096,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão de Trilh…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 29007,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Quick-m…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 11134,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão Padrão …",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 29007,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Compos…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 15822,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Padrão …",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 27930,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Curto da…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 12054,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Padrão …",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 11248,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão com Tril…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 47223,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão de Trilh…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 11514,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Frontal …",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 12312,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Padrão …",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 12312,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Especial…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 19546,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão com Tra…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 13072,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão Padrão …",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 13110,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Padrão …",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 13262,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão em Liga …",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 13300,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão Avançad…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 20064,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão de Trilh…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 49128,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão de Trilh…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 64979,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Modern…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 45952,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão de Polí…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 50140,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Tático T…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 77703,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão Longo d…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 81955,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão com Tra…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 17746,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão Carabin…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 17784,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão Univers…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 35100,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão com Tra…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 19188,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão com Tra…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 37908,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão Estendi…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 87234,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão Perfura…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 68005,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão de Trav…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 49245,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão Tático d…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 42300,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão melhora…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 41919,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão flutuant…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 46256,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão Tático d…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 86699,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão de Trav…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 19646,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão Médio-lo…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 23355,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Guarda-mão Avançad…",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 88687,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Guarda-mão de Fibra …",
+    "grupo": "Peça de Arma",
+    "categoria": "Guarda-mão",
+    "precos": {
+      "novo": 56160,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
   }
 ];
