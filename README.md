@@ -21,6 +21,6 @@ Equipamento, Peça de Arma, Ferrolhos, Munição, Item Médico, Item Tático, Ch
 
 ## Pendências
 
-- **Peça de Arma**: grupo pulado por enquanto. Enviar as fotos depois.
+Nenhuma: todos os grupos foram cadastrados.
 
 A lista também aparece no topo do site (edite `window.PENDENCIAS` em `itens.js`).

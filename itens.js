@@ -18,9 +18,7 @@
 window.GRUPOS = ["Equipamento", "Peça de Arma", "Ferrolhos", "Munição", "Item Médico", "Item Tático", "Chave", "Variedade", "Provisão"];
 
 // Pendências: categorias ou dados que ainda faltam enviar.
-window.PENDENCIAS = [
-  { item: "Peça de Arma", nota: "Mira, Carregador, Cabo Frontal, Cabo Traseiro, Coronha, Bocal, Ponta Laser, Cano, Guarda-mão, Receptor/Capa de Poeira, Trilho, Bloco de Gás, Alavanca de Ferrolho e Lanterna já cadastrados (Cabo Frontal estava indisponível no mercado). Faltam as outras subcategorias." }
-];
+window.PENDENCIAS = [];
 
 window.ITENS = [
   {
