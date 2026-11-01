@@ -4307,5 +4307,163 @@ window.ITENS = [
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
     "obs": ""
+  },
+  {
+    "nome": "Limonada Viena",
+    "grupo": "Provisão",
+    "categoria": "Bebida",
+    "precos": {
+      "novo": 861,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Leite Canary",
+    "grupo": "Provisão",
+    "categoria": "Bebida",
+    "precos": {
+      "novo": 1150,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Refrigerante Pacific",
+    "grupo": "Provisão",
+    "categoria": "Bebida",
+    "precos": {
+      "novo": 1243,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Suco de Laranja Can…",
+    "grupo": "Provisão",
+    "categoria": "Bebida",
+    "precos": {
+      "novo": 1392,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Água de Nascente de…",
+    "grupo": "Provisão",
+    "categoria": "Bebida",
+    "precos": {
+      "novo": 600,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato",
+    "atributos": {
+      "Porções": 60
+    }
+  },
+  {
+    "nome": "Suco de Manga C++",
+    "grupo": "Provisão",
+    "categoria": "Bebida",
+    "precos": {
+      "novo": 1521,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "",
+    "atributos": {
+      "Porções": 60
+    }
+  },
+  {
+    "nome": "Suco de Maçã Fresco",
+    "grupo": "Provisão",
+    "categoria": "Bebida",
+    "precos": {
+      "novo": 1582,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "",
+    "atributos": {
+      "Porções": 60
+    }
+  },
+  {
+    "nome": "Suco de Abacaxi C++",
+    "grupo": "Provisão",
+    "categoria": "Bebida",
+    "precos": {
+      "novo": 1695,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "",
+    "atributos": {
+      "Porções": 60
+    }
+  },
+  {
+    "nome": "Térmica Original Wyl…",
+    "grupo": "Provisão",
+    "categoria": "Bebida",
+    "precos": {
+      "novo": 2400,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "",
+    "atributos": {
+      "Porções": 100
+    }
+  },
+  {
+    "nome": "Bebida de Taurina",
+    "grupo": "Provisão",
+    "categoria": "Bebida",
+    "precos": {
+      "novo": 3381,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Bebida Energética Ho…",
+    "grupo": "Provisão",
+    "categoria": "Bebida",
+    "precos": {
+      "novo": 6992,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
