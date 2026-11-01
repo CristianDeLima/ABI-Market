@@ -19,7 +19,7 @@ window.GRUPOS = ["Equipamento", "Peça de Arma", "Ferrolhos", "Munição", "Item
 
 // Pendências: categorias ou dados que ainda faltam enviar.
 window.PENDENCIAS = [
-  { item: "Peça de Arma", nota: "Grupo pulado por enquanto. Enviar as fotos depois." },
+  { item: "Peça de Arma", nota: "Mira já cadastrada. Faltam as outras subcategorias." },
   { item: "Máscaras de Gás", nota: "Confirmar se existem preços Como nova e Usada." }
 ];
 
@@ -10330,6 +10330,1475 @@ window.ITENS = [
     "categoria": "Eletrônicos",
     "precos": {
       "novo": 283725,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Frontal Padrão …",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 118,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Traseira Padrão…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 138,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "QC61 MF",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 192,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "QC61 MT",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 189,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Traseira Padrão…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 284,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Frontal Clássic…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 280,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Traseira Clássi…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 288,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho Anel Curto",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 340,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Traseira Padrão…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 310,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Frontal Clássic…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 165,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Traseira Clássi…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 175,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Frontal Padrão …",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 805,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Traseira Linear…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 370,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Traseira Milita…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 805,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Frontal Linear …",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 438,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "BM59 MT",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 522,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Traseira Padrão…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 594,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Frontal Padrão …",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 600,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Traseira Padrão…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 1206,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Traseira Multif…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 564,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "T85 MT",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 498,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "T85 MF",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 606,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "MF Dobrável",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 1026,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Traseira Tambo…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 1580,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Frontal Formato…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 890,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Traseira Padrão…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 910,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Traseira S12K c…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 970,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Traseira Padrão…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 370,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Traseira Anel S…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 407,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Frontal Anel SE…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 481,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Frontal Rápida …",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 1500,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira frontal SG550",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 1620,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Traseira SG550",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 1620,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira frontal dedicad…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 1940,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira traseira dedica…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 2024,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Frontal Formato…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 2016,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Traseira Padrão…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 2350,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "F57 MF",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 2150,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "F57 MT",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 2000,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "ACE31 MF",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 4500,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "ACE31 MT",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 4150,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Frontal SCAR-L",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 1825,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Traseira do SCA…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 2025,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira traseira G3",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 2325,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Traseira do Rif…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 925,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Frontal do Rifl…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 3225,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Traseira da PP1…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 2825,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Traseira Alça A…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 1479,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Traseira Dobráv…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 3200,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Frontal Dobráve…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 3264,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Traseira Dobráv…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 3040,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Frontal Dobráve…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 2976,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Curtida MF",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 3434,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Traseira Padrão…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 1517,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Frontal T19X",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 6142,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Traseira Rápida…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 4240,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Red Dot Simples Are…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 38025,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Traseira AK12",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 9620,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Traseira Padrão…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 2090,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "SJ16 MF",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 10089,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "SJ16 MT",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 11269,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Reflex Red Dot …",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 3481,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Mira Reflex EPK 8 18",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 2360,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "OK MT",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 5166,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Frontal Tática …",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 10004,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Traseira Tática…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 9266,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "M24 MF",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 13202,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "M24 MT",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 3116,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Óptica F2000 1…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 3268,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Reflex EPK 8 02",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 3686,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Luneta Red Dot Tátic…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 3686,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Mira Frontal do AK-1…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 12272,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Traseira do AK-…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 11648,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Reflex OKP 7",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 4408,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Mira de precisão tri…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 4522,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Mira Reflex Compacta",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 14105,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Mira Reflex Visão Co…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 10764,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Mira 4x PSO",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 7334,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Mira Red Dot Elevada…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 15840,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Luneta de Rifle 3.5x…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 9310,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Mira Reflex PK 06",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 9576,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Luneta 3×/10× do T88",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 30602,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Frontal Dobráve…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 11058,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Traseira Dobráv…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 11058,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Luneta Prisma 2×",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 18240,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Luneta Holográfica T…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 15360,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Luneta 1× da P90",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 33582,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Holográfica 553",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 16340,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira óptica Especial…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 18202,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Red Dot Simples",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 23040,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Luneta 3x T951",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 21280,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Red Dot Tática M1",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 28273,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Red Dot Clássic…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 45006,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Luneta Holográfica C…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 22040,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Luneta Holográfica O…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 35960,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Red Dot Simple…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 22306,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Luneta 2x/7x",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 141015,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Luneta 6.5x/20x",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 36452,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Luneta 4x/16x",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 85644,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Luneta PSPU 2,5x/5x",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 28386,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Luneta 3x",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 28880,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Luneta 4x",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 29602,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Luneta 3.5x",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 31160,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Luneta 1x/4x",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 100536,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Híbrida Periscó…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 63048,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Luneta Prisma 3,5×",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 95648,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Luneta PSPU 4x/10x",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 42104,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Mira tática 2x",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 43434,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Alpha3 1x/6x",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 141298,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Luneta 1x/6x",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 61318,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Holográfica Híb…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 148610,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Luneta Holográfica T…",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 137802,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Térmica PZ 3",
+    "grupo": "Peça de Arma",
+    "categoria": "Mira",
+    "precos": {
+      "novo": 1777728,
       "comoNovo": null,
       "usado": null
     },
