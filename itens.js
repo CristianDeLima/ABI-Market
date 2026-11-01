@@ -2804,7 +2804,7 @@ window.ITENS = [
     "obs": "Pode ser trocado com Contato"
   },
   {
-    "nome": "Fone de Ouvido Tátic…",
+    "nome": "Fone de Ouvido Tático Com1",
     "grupo": "Equipamento",
     "categoria": "Fone de ouvido",
     "precos": {
@@ -2814,10 +2814,15 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
-    "obs": "Venda por Contato"
+    "obs": "Venda por Contato",
+    "atributos": {
+      "Peso": "0,40 kg",
+      "Captador de som": "Fraco",
+      "Redução de ruído": "Fraco"
+    }
   },
   {
-    "nome": "Fone de Ouvido Tátic…",
+    "nome": "Fone de Ouvido Tático M32",
     "grupo": "Equipamento",
     "categoria": "Fone de ouvido",
     "precos": {
@@ -2827,10 +2832,15 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "atributos": {
+      "Peso": "0,60 kg",
+      "Captador de som": "Médio",
+      "Redução de ruído": "Fraco"
+    }
   },
   {
-    "nome": "Fone de Ouvido Tátic…",
+    "nome": "Fone de Ouvido Tático Z038",
     "grupo": "Equipamento",
     "categoria": "Fone de ouvido",
     "precos": {
@@ -2840,10 +2850,15 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "atributos": {
+      "Peso": "0,65 kg",
+      "Captador de som": "Médio",
+      "Redução de ruído": "Médio"
+    }
   },
   {
-    "nome": "Fone de Ouvido Tátic…",
+    "nome": "Fone de Ouvido Tático Commander A",
     "grupo": "Equipamento",
     "categoria": "Fone de ouvido",
     "precos": {
@@ -2853,7 +2868,12 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "atributos": {
+      "Peso": "0,70 kg",
+      "Captador de som": "Médio",
+      "Redução de ruído": "Forte"
+    }
   },
   {
     "nome": "Auricular Tático GS2",
@@ -2866,7 +2886,12 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "atributos": {
+      "Peso": "0,80 kg",
+      "Captador de som": "Forte",
+      "Redução de ruído": "Médio"
+    }
   },
   {
     "nome": "Máscara de Gás SH-3",
