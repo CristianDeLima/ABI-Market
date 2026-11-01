@@ -168,6 +168,7 @@ select {
   padding: 9px 11px 11px; border-top: 1px solid var(--line); margin-top: 6px;
   font: 700 19px/1 var(--f-mono); font-variant-numeric: tabular-nums;
 }
+.c-price.off { font: 600 13px/1 var(--f-display); letter-spacing: .08em; text-transform: uppercase; color: var(--dim); padding-block: 13px 15px; }
 .koen {
   width: 18px; height: 18px; flex: none; display: grid; place-items: center;
   border: 1.5px solid var(--amber); color: var(--amber); font: 700 10px/1 var(--f-display);
@@ -297,7 +298,7 @@ footer { font: 12px/1.6 var(--f-mono); color: var(--dim); border-top: 1px solid 
   function grupoDe(i) { return i.grupo || "Outros"; }
   function eTroca(i) { return i.obs === TROCA; }
   function preco(i, q) { var p = i.precos || {}; return p[q] != null ? p[q] : (q === "novo" && i.preco != null ? i.preco : null); }
-  function ref(i) { var v = preco(i, "novo"); if (v == null) v = preco(i, "comoNovo"); if (v == null) v = preco(i, "usado"); return v || 0; }
+  function ref(i) { if (i.indisponivel) return 0; var v = preco(i, "novo"); if (v == null) v = preco(i, "comoNovo"); if (v == null) v = preco(i, "usado"); return v || 0; }
   function nivel(i) { var a = i.atributos || {}; var n = a.Classe != null ? a.Classe : a["Nível"]; return n == null ? null : Number(n); }
   function cor(n) { if (n == null) return ""; if (n >= 5) return "var(--r-3)"; if (n === 4) return "var(--r-2)"; if (n === 3) return "var(--r-1)"; return "var(--r-0)"; }
 
@@ -375,7 +376,8 @@ footer { font: 12px/1.6 var(--f-mono); color: var(--dim); border-top: 1px solid 
     return '<article class="card"' + (rc ? ' style="--rc:' + rc + '"' : "") + ">" +
       '<div class="c-top"><div class="c-name" title="' + esc(i.nome) + '">' + esc(i.nome) + '</div><div class="c-meta">' + tags.join("") + "</div></div>" +
       '<div class="c-body">' + obs + qual + "</div>" +
-      '<div class="c-price"' + (!i.qualidadeUnica ? ' title="Menor preço entre as qualidades"' : "") + '><span class="koen" aria-hidden="true"><span>K</span></span>' + fmt.format(main) + "</div>" +
+      (i.indisponivel ? '<div class="c-price off">Indisponível no mercado</div>' :
+      '<div class="c-price"' + (!i.qualidadeUnica ? ' title="Menor preço entre as qualidades"' : "") + '><span class="koen" aria-hidden="true"><span>K</span></span>' + fmt.format(main) + "</div>") +
       "</article>";
   }
 
@@ -389,7 +391,7 @@ footer { font: 12px/1.6 var(--f-mono); color: var(--dim); border-top: 1px solid 
     });
     lista.sort(function (a, b) {
       if (estado.ordem === "preco-desc") return ref(b) - ref(a);
-      if (estado.ordem === "preco-asc") return ref(a) - ref(b);
+      if (estado.ordem === "preco-asc") return (a.indisponivel - b.indisponivel) || ref(a) - ref(b);
       if (estado.ordem === "nivel-desc") return (nivel(b) == null ? -1 : nivel(b)) - (nivel(a) == null ? -1 : nivel(a)) || ref(b) - ref(a);
       return String(a.nome).localeCompare(String(b.nome), "pt-BR");
     });

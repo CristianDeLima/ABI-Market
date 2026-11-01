@@ -19,7 +19,7 @@ window.GRUPOS = ["Equipamento", "Peça de Arma", "Ferrolhos", "Munição", "Item
 
 // Pendências: categorias ou dados que ainda faltam enviar.
 window.PENDENCIAS = [
-  { item: "Peça de Arma", nota: "Mira e Carregador já cadastrados. Faltam as outras subcategorias." },
+  { item: "Peça de Arma", nota: "Mira, Carregador e Cabo Frontal já cadastrados (Cabo Frontal estava indisponível no mercado). Faltam as outras subcategorias." },
   { item: "Máscaras de Gás", nota: "Confirmar se existem preços Como nova e Usada." }
 ];
 
@@ -13729,5 +13729,271 @@ window.ITENS = [
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Cabo Frontal Tático …",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Frontal",
+    "precos": {
+      "novo": null,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "indisponivel": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Curto Leve",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Frontal",
+    "precos": {
+      "novo": null,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "indisponivel": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Longo Leve",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Frontal",
+    "precos": {
+      "novo": null,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "indisponivel": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mini Apoio",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Frontal",
+    "precos": {
+      "novo": null,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "indisponivel": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mini Apoio T",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Frontal",
+    "precos": {
+      "novo": null,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "indisponivel": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Frontal Vertica…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Frontal",
+    "precos": {
+      "novo": null,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "indisponivel": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Apoio de Alumínio",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Frontal",
+    "precos": {
+      "novo": null,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "indisponivel": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Frontal Tático …",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Frontal",
+    "precos": {
+      "novo": null,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "indisponivel": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Frontal RK-6",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Frontal",
+    "precos": {
+      "novo": null,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "indisponivel": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "CF Confortável",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Frontal",
+    "precos": {
+      "novo": null,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "indisponivel": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Frontal de Incl…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Frontal",
+    "precos": {
+      "novo": null,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "indisponivel": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Frontal de Cont…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Frontal",
+    "precos": {
+      "novo": null,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "indisponivel": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Frontal Compac…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Frontal",
+    "precos": {
+      "novo": null,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "indisponivel": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Frontal Inclina…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Frontal",
+    "precos": {
+      "novo": null,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "indisponivel": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Frontal Vertica…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Frontal",
+    "precos": {
+      "novo": null,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "indisponivel": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Frontal Angula…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Frontal",
+    "precos": {
+      "novo": null,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "indisponivel": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo frontal",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Frontal",
+    "precos": {
+      "novo": null,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "indisponivel": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Frontal Inclina…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Frontal",
+    "precos": {
+      "novo": null,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "indisponivel": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Frontal Tático …",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Frontal",
+    "precos": {
+      "novo": null,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "indisponivel": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
