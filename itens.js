@@ -5576,5 +5576,117 @@ window.ITENS = [
     },
     "atualizado": "2026-10-31",
     "obs": ""
+  },
+  {
+    "nome": "Rifle Acionado por A…",
+    "grupo": "Ferrolhos",
+    "categoria": "Rifle de Atirador",
+    "precos": {
+      "novo": 44165,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": ".44"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Rifle de Atirador VS…",
+    "grupo": "Ferrolhos",
+    "categoria": "Rifle de Atirador",
+    "precos": {
+      "novo": 79994,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "9×39"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Rifle de Atirador M1…",
+    "grupo": "Ferrolhos",
+    "categoria": "Rifle de Atirador",
+    "precos": {
+      "novo": 42256,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "7,62×51"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Rifle DMR T88",
+    "grupo": "Ferrolhos",
+    "categoria": "Rifle de Atirador",
+    "precos": {
+      "novo": 129270,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "5,8×42"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Rifle DMR U191",
+    "grupo": "Ferrolhos",
+    "categoria": "Rifle de Atirador",
+    "precos": {
+      "novo": 75992,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "5,8×42"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Rifle de Atirador MK…",
+    "grupo": "Ferrolhos",
+    "categoria": "Rifle de Atirador",
+    "precos": {
+      "novo": 271072,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "7,62×51"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Rifle de Atirador SV…",
+    "grupo": "Ferrolhos",
+    "categoria": "Rifle de Atirador",
+    "precos": {
+      "novo": 307098,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "7,62×54"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
