@@ -8087,5 +8087,603 @@ window.ITENS = [
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
     "obs": ""
+  },
+  {
+    "nome": "Pasta de Dentes",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 1712,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Sabonete",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 1664,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Papel Higiênico",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 1683,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Caneca",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 1700,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Colher de Metal",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 1802,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Removedor de Entup…",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 2781,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Lâmpada Elétrica",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 3108,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Pote de Esmalte",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 3164,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Removedor de Ferru…",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 3220,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Pente de cavalo de …",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 3190,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Lâmpada ES",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 5734,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Barbeador",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 5760,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Saco de sementes",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 5952,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Inseticida",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 6832,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Limpador de Superfí…",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 7068,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Água Sanitária",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 6496,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Ureia",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 6726,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Linho",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 6720,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Lata de Café",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 9424,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cola",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 7007,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carta de Baralho",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 9204,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Apontador de Lápis",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 10191,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Shampoo",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 10948,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cantil",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 11904,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Porta-retratos",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 9682,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Fibra Química",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 9310,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Lâmpada UV",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 17920,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Tweed",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 22968,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Pano de Algodão",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 16016,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Lona de acampamen…",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 22250,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Lanterna de acampa…",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 16200,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carrinho de Mão",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 10488,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cartucho de Jogo",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 10564,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Perfume",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 10640,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Relógio",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 10716,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Pássaro kamona de …",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 10792,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Saco de fertilizante…",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 26070,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Aparelho Auditivo",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 21090,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Alaúde",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 48216,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Luz de preenchiment…",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 40089,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Fogão de acampame…",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 47523,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cartão de Acesso da …",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 42760,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Rolo de filme",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 81560,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Conjunto de Chá Sofi…",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 84200,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Caixa de Brinquedos …",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 255200,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Skate",
+    "grupo": "Variedade",
+    "categoria": "Bens Domésticos",
+    "precos": {
+      "novo": 260800,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
