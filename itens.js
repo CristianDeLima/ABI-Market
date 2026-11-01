@@ -14,9 +14,12 @@
 //   obs: ""                          // opcional
 // }
 
+// Grupos do mercado, na ordem do jogo.
+window.GRUPOS = ["Equipamento", "Peça de Arma", "Ferrolhos", "Munição", "Item Médico", "Item Tático", "Chave", "Variedade", "Provisão"];
+
 // Pendências: categorias ou dados que ainda faltam enviar.
 window.PENDENCIAS = [
-  { item: "Peças de armas", nota: "Categoria pulada por enquanto. Enviar as fotos depois." },
+  { item: "Peça de Arma", nota: "Grupo pulado por enquanto. Enviar as fotos depois." },
   { item: "Máscaras de Gás", nota: "Confirmar se existem preços Como nova e Usada." }
 ];
 

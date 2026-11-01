@@ -15,9 +15,13 @@ Preços de itens de Arena Breakout Infinite, registrados a partir de capturas de
 
 Para atualizar preços, edite `itens.js` e faça um novo commit.
 
+## Grupos do mercado
+
+Equipamento, Peça de Arma, Ferrolhos, Munição, Item Médico, Item Tático, Chave, Variedade, Provisão.
+
 ## Pendências
 
-- **Peças de armas**: categoria pulada por enquanto. Enviar as fotos depois.
+- **Peça de Arma**: grupo pulado por enquanto. Enviar as fotos depois.
 - **Máscaras de Gás**: confirmar se existem preços Como nova e Usada.
 
 A lista também aparece no topo do site (edite `window.PENDENCIAS` em `itens.js`).
