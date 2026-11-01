@@ -6696,5 +6696,226 @@ window.ITENS = [
     },
     "atualizado": "2026-10-31",
     "obs": ""
+  },
+  {
+    "nome": "Fósforo",
+    "grupo": "Variedade",
+    "categoria": "Itens Inflamáveis",
+    "precos": {
+      "novo": 714,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Isqueiro",
+    "grupo": "Variedade",
+    "categoria": "Itens Inflamáveis",
+    "precos": {
+      "novo": 2592,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Vela",
+    "grupo": "Variedade",
+    "categoria": "Itens Inflamáveis",
+    "precos": {
+      "novo": 2904,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Isqueiro de Metal",
+    "grupo": "Variedade",
+    "categoria": "Itens Inflamáveis",
+    "precos": {
+      "novo": 4400,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Pólvora Azul",
+    "grupo": "Variedade",
+    "categoria": "Itens Inflamáveis",
+    "precos": {
+      "novo": 6519,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Pólvora Verde",
+    "grupo": "Variedade",
+    "categoria": "Itens Inflamáveis",
+    "precos": {
+      "novo": 13050,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Pólvora Vermelha",
+    "grupo": "Variedade",
+    "categoria": "Itens Inflamáveis",
+    "precos": {
+      "novo": 20960,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Óleo",
+    "grupo": "Variedade",
+    "categoria": "Itens Inflamáveis",
+    "precos": {
+      "novo": 11895,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Tambor de Óleo",
+    "grupo": "Variedade",
+    "categoria": "Itens Inflamáveis",
+    "precos": {
+      "novo": 29014,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Nitrocelulose",
+    "grupo": "Variedade",
+    "categoria": "Itens Inflamáveis",
+    "precos": {
+      "novo": 95370,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Lata de Combustível…",
+    "grupo": "Variedade",
+    "categoria": "Itens Inflamáveis",
+    "precos": {
+      "novo": 22610,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Lâmpada de Querose…",
+    "grupo": "Variedade",
+    "categoria": "Itens Inflamáveis",
+    "precos": {
+      "novo": 30750,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Tanque de Propano",
+    "grupo": "Variedade",
+    "categoria": "Itens Inflamáveis",
+    "precos": {
+      "novo": 48282,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Pederneira de Magné…",
+    "grupo": "Variedade",
+    "categoria": "Itens Inflamáveis",
+    "precos": {
+      "novo": 41520,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Combustível de Alta …",
+    "grupo": "Variedade",
+    "categoria": "Itens Inflamáveis",
+    "precos": {
+      "novo": 85034,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Tanque de Combustí…",
+    "grupo": "Variedade",
+    "categoria": "Itens Inflamáveis",
+    "precos": {
+      "novo": 100760,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Pacote de Pólvora de…",
+    "grupo": "Variedade",
+    "categoria": "Itens Inflamáveis",
+    "precos": {
+      "novo": 243884,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
