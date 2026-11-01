@@ -7,7 +7,8 @@
 //   nome: "Nome exato do item",
 //   categoria: "Munição",            // Arma, Munição, Colete, Capacete, Rig, Mochila, Medicamento...
 //   precos: { novo: 12345, comoNovo: null, usado: null },  // Koen; null = sem foto ainda
-//   atributos: { "Classe": 4, "Durab.": 60 },  // opcional, o que aparecer na foto
+//   atributos: { "Classe": 4, "Durab.": 60 },  // opcional; Durab. = máxima
+//   durabilidade: { novo: 60, comoNovo: 51, usado: null },  // durabilidade atual vista em cada qualidade
 //   atualizado: "2026-10-31",        // data da foto (AAAA-MM-DD)
 //   obs: ""                          // opcional
 // }
@@ -18,7 +19,7 @@ window.ITENS = [
     "categoria": "Capacete",
     "precos": {
       "novo": 4368,
-      "comoNovo": null,
+      "comoNovo": 3813,
       "usado": null
     },
     "atributos": {
@@ -26,14 +27,19 @@ window.ITENS = [
       "Durab.": 10
     },
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "",
+    "durabilidade": {
+      "novo": 10,
+      "comoNovo": 8,
+      "usado": null
+    }
   },
   {
     "nome": "Capacete de Segura…",
     "categoria": "Capacete",
     "precos": {
       "novo": 4940,
-      "comoNovo": null,
+      "comoNovo": 4136,
       "usado": null
     },
     "atributos": {
@@ -41,14 +47,19 @@ window.ITENS = [
       "Durab.": 15
     },
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "",
+    "durabilidade": {
+      "novo": 15,
+      "comoNovo": 13,
+      "usado": null
+    }
   },
   {
     "nome": "Capacete de Motocic…",
     "categoria": "Capacete",
     "precos": {
       "novo": 4428,
-      "comoNovo": null,
+      "comoNovo": 1840,
       "usado": null
     },
     "atributos": {
@@ -56,14 +67,19 @@ window.ITENS = [
       "Durab.": 15
     },
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "",
+    "durabilidade": {
+      "novo": 15,
+      "comoNovo": 13,
+      "usado": null
+    }
   },
   {
     "nome": "Capacete Protetor p…",
     "categoria": "Capacete",
     "precos": {
       "novo": 5220,
-      "comoNovo": null,
+      "comoNovo": 4500,
       "usado": null
     },
     "atributos": {
@@ -71,14 +87,19 @@ window.ITENS = [
       "Durab.": 20
     },
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "",
+    "durabilidade": {
+      "novo": 20,
+      "comoNovo": 17,
+      "usado": null
+    }
   },
   {
     "nome": "Capacete Militar Clá…",
     "categoria": "Capacete",
     "precos": {
       "novo": 11615,
-      "comoNovo": null,
+      "comoNovo": 3861,
       "usado": null
     },
     "atributos": {
@@ -86,14 +107,19 @@ window.ITENS = [
       "Durab.": 20
     },
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 20,
+      "comoNovo": 17,
+      "usado": null
+    }
   },
   {
     "nome": "Capacete de Aço Clá…",
     "categoria": "Capacete",
     "precos": {
       "novo": 6000,
-      "comoNovo": null,
+      "comoNovo": 3939,
       "usado": null
     },
     "atributos": {
@@ -101,14 +127,19 @@ window.ITENS = [
       "Durab.": 25
     },
     "atualizado": "2026-10-31",
-    "obs": "Venda por Contato"
+    "obs": "Venda por Contato",
+    "durabilidade": {
+      "novo": 25,
+      "comoNovo": 21,
+      "usado": null
+    }
   },
   {
     "nome": "Capacete de Segura…",
     "categoria": "Capacete",
     "precos": {
       "novo": 11830,
-      "comoNovo": null,
+      "comoNovo": 4218,
       "usado": null
     },
     "atributos": {
@@ -116,14 +147,19 @@ window.ITENS = [
       "Durab.": 20
     },
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "",
+    "durabilidade": {
+      "novo": 20,
+      "comoNovo": 17,
+      "usado": null
+    }
   },
   {
     "nome": "Capacete de Aviador",
     "categoria": "Capacete",
     "precos": {
       "novo": 12236,
-      "comoNovo": null,
+      "comoNovo": 10235,
       "usado": null
     },
     "atributos": {
@@ -131,14 +167,19 @@ window.ITENS = [
       "Durab.": 20
     },
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "",
+    "durabilidade": {
+      "novo": 20,
+      "comoNovo": 17,
+      "usado": null
+    }
   },
   {
     "nome": "Capacete de Choque …",
     "categoria": "Capacete",
     "precos": {
       "novo": 13015,
-      "comoNovo": null,
+      "comoNovo": 9477,
       "usado": null
     },
     "atributos": {
@@ -146,14 +187,19 @@ window.ITENS = [
       "Durab.": 22
     },
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "",
+    "durabilidade": {
+      "novo": 22,
+      "comoNovo": 19,
+      "usado": null
+    }
   },
   {
     "nome": "Capacete Padrão PAS",
     "categoria": "Capacete",
     "precos": {
       "novo": 6624,
-      "comoNovo": null,
+      "comoNovo": 6888,
       "usado": null
     },
     "atributos": {
@@ -161,14 +207,19 @@ window.ITENS = [
       "Durab.": 25
     },
     "atualizado": "2026-10-31",
-    "obs": "Venda por Contato"
+    "obs": "Venda por Contato",
+    "durabilidade": {
+      "novo": 25,
+      "comoNovo": 21,
+      "usado": null
+    }
   },
   {
     "nome": "Capacete PAS2",
     "categoria": "Capacete",
     "precos": {
       "novo": 27648,
-      "comoNovo": null,
+      "comoNovo": 10535,
       "usado": null
     },
     "atributos": {
@@ -176,14 +227,19 @@ window.ITENS = [
       "Durab.": 28
     },
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 28,
+      "comoNovo": 24,
+      "usado": null
+    }
   },
   {
     "nome": "Capacete Tático F70",
     "categoria": "Capacete",
     "precos": {
       "novo": 45326,
-      "comoNovo": null,
+      "comoNovo": 24360,
       "usado": null
     },
     "atributos": {
@@ -191,14 +247,19 @@ window.ITENS = [
       "Durab.": 25
     },
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 25,
+      "comoNovo": 21,
+      "usado": null
+    }
   },
   {
     "nome": "Capacete Militar SH1…",
     "categoria": "Capacete",
     "precos": {
       "novo": 38500,
-      "comoNovo": null,
+      "comoNovo": 35937,
       "usado": null
     },
     "atributos": {
@@ -206,14 +267,19 @@ window.ITENS = [
       "Durab.": 30
     },
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 30,
+      "comoNovo": 26,
+      "usado": null
+    }
   },
   {
     "nome": "Capacete 6B4",
     "categoria": "Capacete",
     "precos": {
       "novo": 42622,
-      "comoNovo": null,
+      "comoNovo": 24344,
       "usado": null
     },
     "atributos": {
@@ -221,14 +287,19 @@ window.ITENS = [
       "Durab.": 30
     },
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 30,
+      "comoNovo": 26,
+      "usado": null
+    }
   },
   {
     "nome": "Capacete Equipe Ca…",
     "categoria": "Capacete",
     "precos": {
       "novo": 39246,
-      "comoNovo": null,
+      "comoNovo": 23270,
       "usado": null
     },
     "atributos": {
@@ -236,14 +307,19 @@ window.ITENS = [
       "Durab.": 30
     },
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 30,
+      "comoNovo": 26,
+      "usado": null
+    }
   },
   {
     "nome": "Capacete 6B5",
     "categoria": "Capacete",
     "precos": {
       "novo": 43200,
-      "comoNovo": null,
+      "comoNovo": 24684,
       "usado": null
     },
     "atributos": {
@@ -251,14 +327,19 @@ window.ITENS = [
       "Durab.": 35
     },
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 35,
+      "comoNovo": 30,
+      "usado": null
+    }
   },
   {
     "nome": "Capacete Militar SH4…",
     "categoria": "Capacete",
     "precos": {
       "novo": 45632,
-      "comoNovo": null,
+      "comoNovo": 32600,
       "usado": null
     },
     "atributos": {
@@ -266,14 +347,19 @@ window.ITENS = [
       "Durab.": 50
     },
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 50,
+      "comoNovo": 42,
+      "usado": null
+    }
   },
   {
     "nome": "Capacete Tático IND",
     "categoria": "Capacete",
     "precos": {
       "novo": 54390,
-      "comoNovo": null,
+      "comoNovo": 34050,
       "usado": null
     },
     "atributos": {
@@ -281,14 +367,19 @@ window.ITENS = [
       "Durab.": 35
     },
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 35,
+      "comoNovo": 30,
+      "usado": null
+    }
   },
   {
     "nome": "Capacete Tático par…",
     "categoria": "Capacete",
     "precos": {
       "novo": 49984,
-      "comoNovo": null,
+      "comoNovo": 37620,
       "usado": null
     },
     "atributos": {
@@ -296,14 +387,19 @@ window.ITENS = [
       "Durab.": 35
     },
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "",
+    "durabilidade": {
+      "novo": 35,
+      "comoNovo": 30,
+      "usado": null
+    }
   },
   {
     "nome": "Capacete IND200",
     "categoria": "Capacete",
     "precos": {
       "novo": 64464,
-      "comoNovo": null,
+      "comoNovo": 32535,
       "usado": null
     },
     "atributos": {
@@ -311,14 +407,19 @@ window.ITENS = [
       "Durab.": 40
     },
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 40,
+      "comoNovo": 34,
+      "usado": null
+    }
   },
   {
     "nome": "Capacete Tático F80",
     "categoria": "Capacete",
     "precos": {
       "novo": 45414,
-      "comoNovo": null,
+      "comoNovo": 34639,
       "usado": null
     },
     "atributos": {
@@ -326,14 +427,19 @@ window.ITENS = [
       "Durab.": 35
     },
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 35,
+      "comoNovo": 30,
+      "usado": null
+    }
   },
   {
     "nome": "Capacete Militar SH1…",
     "categoria": "Capacete",
     "precos": {
       "novo": 66600,
-      "comoNovo": null,
+      "comoNovo": 53652,
       "usado": null
     },
     "atributos": {
@@ -341,14 +447,19 @@ window.ITENS = [
       "Durab.": 45
     },
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 45,
+      "comoNovo": 38,
+      "usado": null
+    }
   },
   {
     "nome": "Capacete Tático KSS",
     "categoria": "Capacete",
     "precos": {
       "novo": 104720,
-      "comoNovo": null,
+      "comoNovo": 46424,
       "usado": null
     },
     "atributos": {
@@ -356,14 +467,19 @@ window.ITENS = [
       "Durab.": 40
     },
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 40,
+      "comoNovo": 34,
+      "usado": null
+    }
   },
   {
     "nome": "Capacete Tático KSS2",
     "categoria": "Capacete",
     "precos": {
       "novo": 106400,
-      "comoNovo": null,
+      "comoNovo": 46648,
       "usado": null
     },
     "atributos": {
@@ -371,14 +487,19 @@ window.ITENS = [
       "Durab.": 45
     },
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 45,
+      "comoNovo": 38,
+      "usado": null
+    }
   },
   {
     "nome": "Capacete de Helicóp…",
     "categoria": "Capacete",
     "precos": {
       "novo": 160650,
-      "comoNovo": null,
+      "comoNovo": 61424,
       "usado": null
     },
     "atributos": {
@@ -386,14 +507,19 @@ window.ITENS = [
       "Durab.": 50
     },
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 50,
+      "comoNovo": 42,
+      "usado": null
+    }
   },
   {
     "nome": "Capacete SH Matzka 2",
     "categoria": "Capacete",
     "precos": {
       "novo": 296478,
-      "comoNovo": null,
+      "comoNovo": 256816,
       "usado": null
     },
     "atributos": {
@@ -401,14 +527,19 @@ window.ITENS = [
       "Durab.": 65
     },
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "",
+    "durabilidade": {
+      "novo": 65,
+      "comoNovo": 55,
+      "usado": null
+    }
   },
   {
     "nome": "Capacete Militar SH6…",
     "categoria": "Capacete",
     "precos": {
       "novo": 198720,
-      "comoNovo": null,
+      "comoNovo": 159027,
       "usado": null
     },
     "atributos": {
@@ -416,14 +547,19 @@ window.ITENS = [
       "Durab.": 50
     },
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 50,
+      "comoNovo": 42,
+      "usado": null
+    }
   },
   {
     "nome": "Capacete Militar SH5…",
     "categoria": "Capacete",
     "precos": {
       "novo": 122360,
-      "comoNovo": null,
+      "comoNovo": 110732,
       "usado": null
     },
     "atributos": {
@@ -431,14 +567,19 @@ window.ITENS = [
       "Durab.": 60
     },
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 60,
+      "comoNovo": 51,
+      "usado": null
+    }
   },
   {
     "nome": "Capacete Tático de A…",
     "categoria": "Capacete",
     "precos": {
       "novo": 249602,
-      "comoNovo": null,
+      "comoNovo": 125173,
       "usado": null
     },
     "atributos": {
@@ -446,14 +587,19 @@ window.ITENS = [
       "Durab.": 50
     },
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "",
+    "durabilidade": {
+      "novo": 50,
+      "comoNovo": 42,
+      "usado": null
+    }
   },
   {
     "nome": "Capacete Tático Pes…",
     "categoria": "Capacete",
     "precos": {
       "novo": 397082,
-      "comoNovo": null,
+      "comoNovo": 283020,
       "usado": null
     },
     "atributos": {
@@ -461,14 +607,19 @@ window.ITENS = [
       "Durab.": 45
     },
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 45,
+      "comoNovo": 38,
+      "usado": null
+    }
   },
   {
     "nome": "Capacete Tático Pes…",
     "categoria": "Capacete",
     "precos": {
       "novo": 256360,
-      "comoNovo": null,
+      "comoNovo": 170600,
       "usado": null
     },
     "atributos": {
@@ -476,14 +627,19 @@ window.ITENS = [
       "Durab.": 55
     },
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "",
+    "durabilidade": {
+      "novo": 55,
+      "comoNovo": 47,
+      "usado": null
+    }
   },
   {
     "nome": "Capacete Explosão P…",
     "categoria": "Capacete",
     "precos": {
       "novo": 410400,
-      "comoNovo": null,
+      "comoNovo": 328440,
       "usado": null
     },
     "atributos": {
@@ -491,14 +647,19 @@ window.ITENS = [
       "Durab.": 55
     },
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "",
+    "durabilidade": {
+      "novo": 55,
+      "comoNovo": 47,
+      "usado": null
+    }
   },
   {
     "nome": "Capacete 6BNT",
     "categoria": "Capacete",
     "precos": {
       "novo": 622512,
-      "comoNovo": null,
+      "comoNovo": 539856,
       "usado": null
     },
     "atributos": {
@@ -506,14 +667,19 @@ window.ITENS = [
       "Durab.": 75
     },
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "",
+    "durabilidade": {
+      "novo": 75,
+      "comoNovo": 64,
+      "usado": null
+    }
   },
   {
     "nome": "Capacete das Forças …",
     "categoria": "Capacete",
     "precos": {
       "novo": 656513,
-      "comoNovo": null,
+      "comoNovo": 602475,
       "usado": null
     },
     "atributos": {
@@ -521,14 +687,19 @@ window.ITENS = [
       "Durab.": 75
     },
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "",
+    "durabilidade": {
+      "novo": 75,
+      "comoNovo": 64,
+      "usado": null
+    }
   },
   {
     "nome": "Capacete Ofensivo H…",
     "categoria": "Capacete",
     "precos": {
       "novo": 301506,
-      "comoNovo": null,
+      "comoNovo": 289055,
       "usado": null
     },
     "atributos": {
@@ -536,14 +707,19 @@ window.ITENS = [
       "Durab.": 70
     },
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "",
+    "durabilidade": {
+      "novo": 70,
+      "comoNovo": 60,
+      "usado": null
+    }
   },
   {
     "nome": "Capacete Tático Pes…",
     "categoria": "Capacete",
     "precos": {
       "novo": 529317,
-      "comoNovo": null,
+      "comoNovo": 404114,
       "usado": null
     },
     "atributos": {
@@ -551,14 +727,19 @@ window.ITENS = [
       "Durab.": 60
     },
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "",
+    "durabilidade": {
+      "novo": 60,
+      "comoNovo": 51,
+      "usado": null
+    }
   },
   {
     "nome": "Capacete Explosão D…",
     "categoria": "Capacete",
     "precos": {
       "novo": 708468,
-      "comoNovo": null,
+      "comoNovo": 586460,
       "usado": null
     },
     "atributos": {
@@ -566,14 +747,19 @@ window.ITENS = [
       "Durab.": 75
     },
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "",
+    "durabilidade": {
+      "novo": 75,
+      "comoNovo": 64,
+      "usado": null
+    }
   },
   {
     "nome": "Capacete Tático Pes…",
     "categoria": "Capacete",
     "precos": {
       "novo": 648000,
-      "comoNovo": null,
+      "comoNovo": 434400,
       "usado": null
     },
     "atributos": {
@@ -581,6 +767,11 @@ window.ITENS = [
       "Durab.": 65
     },
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "",
+    "durabilidade": {
+      "novo": 65,
+      "comoNovo": 55,
+      "usado": null
+    }
   }
 ];

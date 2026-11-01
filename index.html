@@ -90,6 +90,7 @@ tbody tr:hover { background: color-mix(in srgb, var(--chip) 55%, transparent); }
 th.num { text-align: right; }
 .preco.vazio { color: var(--muted); }
 .q { display: none; }
+.dur { display: block; font: 11px var(--f-mono); color: var(--muted); }
 .koen { color: var(--muted); font-size: 12px; margin-left: 4px; }
 .attrs { display: flex; flex-wrap: wrap; gap: 4px; }
 .attr { font: 12px var(--f-mono); background: var(--chip); padding: 3px 7px; border-radius: 3px; white-space: nowrap; }
@@ -195,7 +196,8 @@ footer { font: 12px var(--f-mono); color: var(--muted); }
   function celPreco(i, q, rot) {
     var v = preco(i, q);
     return '<td class="c-preco preco' + (v == null ? " vazio" : "") + '"><span class="q">' + rot + "</span>" +
-      (v != null ? fmt.format(v) + '<span class="koen">K</span>' : "—") + "</td>";
+      (v != null ? fmt.format(v) + '<span class="koen">K</span>' : "—") +
+      (v != null && i.durabilidade && i.durabilidade[q] != null && i.atributos && i.atributos["Durab."] ? '<span class="dur">' + i.durabilidade[q] + "/" + i.atributos["Durab."] + "</span>" : "") + "</td>";
   }
 
   function render() {
