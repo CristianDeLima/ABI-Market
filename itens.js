@@ -5176,5 +5176,261 @@ window.ITENS = [
     },
     "atualizado": "2026-10-31",
     "obs": ""
+  },
+  {
+    "nome": "Submetralhadora QC…",
+    "grupo": "Ferrolhos",
+    "categoria": "Submetralhadora",
+    "precos": {
+      "novo": 4068,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "7,62×25"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Submetralhadora UZI",
+    "grupo": "Ferrolhos",
+    "categoria": "Submetralhadora",
+    "precos": {
+      "novo": 3021,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "9×19"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Submetralhadora MP…",
+    "grupo": "Ferrolhos",
+    "categoria": "Submetralhadora",
+    "precos": {
+      "novo": 3248,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": ".45"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Submetralhadora T79",
+    "grupo": "Ferrolhos",
+    "categoria": "Submetralhadora",
+    "precos": {
+      "novo": 6554,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "7,62×25"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Submetralhadora MP…",
+    "grupo": "Ferrolhos",
+    "categoria": "Submetralhadora",
+    "precos": {
+      "novo": 7068,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "9×19"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Submetralhadora M3…",
+    "grupo": "Ferrolhos",
+    "categoria": "Submetralhadora",
+    "precos": {
+      "novo": 2652,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": ".45"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Submetralhadora UM…",
+    "grupo": "Ferrolhos",
+    "categoria": "Submetralhadora",
+    "precos": {
+      "novo": 12320,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": ".45"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Submetralhadora M…",
+    "grupo": "Ferrolhos",
+    "categoria": "Submetralhadora",
+    "precos": {
+      "novo": 13761,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": ".45"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Submetralhadora T85",
+    "grupo": "Ferrolhos",
+    "categoria": "Submetralhadora",
+    "precos": {
+      "novo": 17328,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "7,62×25"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Microssubmetralhad…",
+    "grupo": "Ferrolhos",
+    "categoria": "Submetralhadora",
+    "precos": {
+      "novo": 8550,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "9×19"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Microssubmetralhad…",
+    "grupo": "Ferrolhos",
+    "categoria": "Submetralhadora",
+    "precos": {
+      "novo": 32249,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": ".45"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Submetralhadora PP…",
+    "grupo": "Ferrolhos",
+    "categoria": "Submetralhadora",
+    "precos": {
+      "novo": 15808,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "9×19"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Submetralhadora Ve…",
+    "grupo": "Ferrolhos",
+    "categoria": "Submetralhadora",
+    "precos": {
+      "novo": 51606,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "9×19"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Microssubmetralhad…",
+    "grupo": "Ferrolhos",
+    "categoria": "Submetralhadora",
+    "precos": {
+      "novo": 58053,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "9×19"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Submetralhadora Ba…",
+    "grupo": "Ferrolhos",
+    "categoria": "Submetralhadora",
+    "precos": {
+      "novo": 84821,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "5,7×28"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Submetralhadora P90",
+    "grupo": "Ferrolhos",
+    "categoria": "Submetralhadora",
+    "precos": {
+      "novo": 125910,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "5,7×28"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
