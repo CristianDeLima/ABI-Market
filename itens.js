@@ -4712,5 +4712,469 @@ window.ITENS = [
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
     "obs": ""
+  },
+  {
+    "nome": "Rifle de Assalto AKS…",
+    "grupo": "Ferrolhos",
+    "categoria": "Rifle de Assalto",
+    "precos": {
+      "novo": 4218,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "5,45×39"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Rifle de Assalto SG5…",
+    "grupo": "Ferrolhos",
+    "categoria": "Rifle de Assalto",
+    "precos": {
+      "novo": 7258,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "5,56×45"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Rifle de Assalto AKM",
+    "grupo": "Ferrolhos",
+    "categoria": "Rifle de Assalto",
+    "precos": {
+      "novo": 7486,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "7,62×39"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Rifle de Assalto AK …",
+    "grupo": "Ferrolhos",
+    "categoria": "Rifle de Assalto",
+    "precos": {
+      "novo": 8160,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "5,45×39"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Rifle de Assalto PCC…",
+    "grupo": "Ferrolhos",
+    "categoria": "Rifle de Assalto",
+    "precos": {
+      "novo": 28272,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "9×19"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Rifle de Assalto FAL",
+    "grupo": "Ferrolhos",
+    "categoria": "Rifle de Assalto",
+    "precos": {
+      "novo": 17316,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "7,62×51"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Rifle de Assalto G3",
+    "grupo": "Ferrolhos",
+    "categoria": "Rifle de Assalto",
+    "precos": {
+      "novo": 29625,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "7,62×51"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Rifle de Assalto T95…",
+    "grupo": "Ferrolhos",
+    "categoria": "Rifle de Assalto",
+    "precos": {
+      "novo": 15580,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "5,8×42"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Rifle de Assalto ACE…",
+    "grupo": "Ferrolhos",
+    "categoria": "Rifle de Assalto",
+    "precos": {
+      "novo": 19364,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "7,62×39"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Rifle de Assalto SCA…",
+    "grupo": "Ferrolhos",
+    "categoria": "Rifle de Assalto",
+    "precos": {
+      "novo": 17138,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "5,56×45"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Rifle de Assalto M4A…",
+    "grupo": "Ferrolhos",
+    "categoria": "Rifle de Assalto",
+    "precos": {
+      "novo": 19874,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "5,56×45"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Rifle de Assalto AK1…",
+    "grupo": "Ferrolhos",
+    "categoria": "Rifle de Assalto",
+    "precos": {
+      "novo": 76708,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "5,45×39"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Rifle de Assalto AK-…",
+    "grupo": "Ferrolhos",
+    "categoria": "Rifle de Assalto",
+    "precos": {
+      "novo": 52456,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "7,62×39"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Rifle de Assalto AK1…",
+    "grupo": "Ferrolhos",
+    "categoria": "Rifle de Assalto",
+    "precos": {
+      "novo": 24624,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "5,56×45"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Rifle de Assalto ZC8…",
+    "grupo": "Ferrolhos",
+    "categoria": "Rifle de Assalto",
+    "precos": {
+      "novo": 29295,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "7,62×39"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Rifle de Assalto AMB…",
+    "grupo": "Ferrolhos",
+    "categoria": "Rifle de Assalto",
+    "precos": {
+      "novo": 36850,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "9×39"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Rifle de Assalto MDR",
+    "grupo": "Ferrolhos",
+    "categoria": "Rifle de Assalto",
+    "precos": {
+      "novo": 26258,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "5,56×45"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Rifle de Assalto MCX",
+    "grupo": "Ferrolhos",
+    "categoria": "Rifle de Assalto",
+    "precos": {
+      "novo": 26258,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "5,56×45"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Rifle de Assalto T03",
+    "grupo": "Ferrolhos",
+    "categoria": "Rifle de Assalto",
+    "precos": {
+      "novo": 29830,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "5,8×42"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Rifle de Assalto AR5…",
+    "grupo": "Ferrolhos",
+    "categoria": "Rifle de Assalto",
+    "precos": {
+      "novo": 119000,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "5,7×28"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Rifle de Assalto FAM…",
+    "grupo": "Ferrolhos",
+    "categoria": "Rifle de Assalto",
+    "precos": {
+      "novo": 95448,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "5,56×45"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Rifle de Assalto AN9…",
+    "grupo": "Ferrolhos",
+    "categoria": "Rifle de Assalto",
+    "precos": {
+      "novo": 65585,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "5,45×39"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Rifle de Assalto F20…",
+    "grupo": "Ferrolhos",
+    "categoria": "Rifle de Assalto",
+    "precos": {
+      "novo": 133836,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "5,56×45"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Rifle de Assalto Cur…",
+    "grupo": "Ferrolhos",
+    "categoria": "Rifle de Assalto",
+    "precos": {
+      "novo": 126140,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "5,8×42"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Rifle de Assalto AUG",
+    "grupo": "Ferrolhos",
+    "categoria": "Rifle de Assalto",
+    "precos": {
+      "novo": 140768,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "5,56×45"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Rifle de Assalto AEK",
+    "grupo": "Ferrolhos",
+    "categoria": "Rifle de Assalto",
+    "precos": {
+      "novo": 99636,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "7,62×39"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Rifle de Assalto T19…",
+    "grupo": "Ferrolhos",
+    "categoria": "Rifle de Assalto",
+    "precos": {
+      "novo": 60598,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "5,8×42"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Rifle de Assalto A54…",
+    "grupo": "Ferrolhos",
+    "categoria": "Rifle de Assalto",
+    "precos": {
+      "novo": 292992,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "5,45×39"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Rifle de Assalto H41…",
+    "grupo": "Ferrolhos",
+    "categoria": "Rifle de Assalto",
+    "precos": {
+      "novo": 214404,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "5,56×45"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
