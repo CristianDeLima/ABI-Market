@@ -7229,5 +7229,330 @@ window.ITENS = [
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
     "obs": ""
+  },
+  {
+    "nome": "Capacitores",
+    "grupo": "Variedade",
+    "categoria": "Acessórios de Computador",
+    "precos": {
+      "novo": 4788,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Dissipador de calor …",
+    "grupo": "Variedade",
+    "categoria": "Acessórios de Computador",
+    "precos": {
+      "novo": 4687,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cooler CPU",
+    "grupo": "Variedade",
+    "categoria": "Acessórios de Computador",
+    "precos": {
+      "novo": 7072,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Placa de Circuito",
+    "grupo": "Variedade",
+    "categoria": "Acessórios de Computador",
+    "precos": {
+      "novo": 6279,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Pendrive",
+    "grupo": "Variedade",
+    "categoria": "Acessórios de Computador",
+    "precos": {
+      "novo": 6860,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Disquete",
+    "grupo": "Variedade",
+    "categoria": "Acessórios de Computador",
+    "precos": {
+      "novo": 6461,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo de Energia",
+    "grupo": "Variedade",
+    "categoria": "Acessórios de Computador",
+    "precos": {
+      "novo": 8448,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo de vídeo VGA",
+    "grupo": "Variedade",
+    "categoria": "Acessórios de Computador",
+    "precos": {
+      "novo": 11481,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Bloco de Notas",
+    "grupo": "Variedade",
+    "categoria": "Acessórios de Computador",
+    "precos": {
+      "novo": 15008,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Chip Semicondutor",
+    "grupo": "Variedade",
+    "categoria": "Acessórios de Computador",
+    "precos": {
+      "novo": 11968,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "LCD Quebrado",
+    "grupo": "Variedade",
+    "categoria": "Acessórios de Computador",
+    "precos": {
+      "novo": 19754,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Leitor de disquete",
+    "grupo": "Variedade",
+    "categoria": "Acessórios de Computador",
+    "precos": {
+      "novo": 17976,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "CPU",
+    "grupo": "Variedade",
+    "categoria": "Acessórios de Computador",
+    "precos": {
+      "novo": 12549,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "SAS",
+    "grupo": "Variedade",
+    "categoria": "Acessórios de Computador",
+    "precos": {
+      "novo": 27976,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Chip Processador",
+    "grupo": "Variedade",
+    "categoria": "Acessórios de Computador",
+    "precos": {
+      "novo": 33062,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "RAM",
+    "grupo": "Variedade",
+    "categoria": "Acessórios de Computador",
+    "precos": {
+      "novo": 10374,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "GPU",
+    "grupo": "Variedade",
+    "categoria": "Acessórios de Computador",
+    "precos": {
+      "novo": 20254,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "SSD",
+    "grupo": "Variedade",
+    "categoria": "Acessórios de Computador",
+    "precos": {
+      "novo": 20482,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Placa de Circuito De…",
+    "grupo": "Variedade",
+    "categoria": "Acessórios de Computador",
+    "precos": {
+      "novo": 20672,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "LCD Funcionando",
+    "grupo": "Variedade",
+    "categoria": "Acessórios de Computador",
+    "precos": {
+      "novo": 22269,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "PSU",
+    "grupo": "Variedade",
+    "categoria": "Acessórios de Computador",
+    "precos": {
+      "novo": 49691,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mon. Estúdio",
+    "grupo": "Variedade",
+    "categoria": "Acessórios de Computador",
+    "precos": {
+      "novo": 81760,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Placa de Vídeo",
+    "grupo": "Variedade",
+    "categoria": "Acessórios de Computador",
+    "precos": {
+      "novo": 100760,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Unidade UPS",
+    "grupo": "Variedade",
+    "categoria": "Acessórios de Computador",
+    "precos": {
+      "novo": 255760,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Processador Vector",
+    "grupo": "Variedade",
+    "categoria": "Acessórios de Computador",
+    "precos": {
+      "novo": 245328,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
