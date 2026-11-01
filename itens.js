@@ -13,6 +13,12 @@
 //   obs: ""                          // opcional
 // }
 
+// Pendências: categorias ou dados que ainda faltam enviar.
+window.PENDENCIAS = [
+  { item: "Peças de armas", nota: "Categoria pulada por enquanto. Enviar as fotos depois." },
+  { item: "Máscaras de Gás", nota: "Confirmar se existem preços Como nova e Usada." }
+];
+
 window.ITENS = [
   {
     "nome": "Capacete de Incêndi…",

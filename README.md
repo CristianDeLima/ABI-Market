@@ -14,3 +14,10 @@ Preços de itens de Arena Breakout Infinite, registrados a partir de capturas de
 3. O site fica em `https://SEU-USUARIO.github.io/NOME-DO-REPO/`.
 
 Para atualizar preços, edite `itens.js` e faça um novo commit.
+
+## Pendências
+
+- **Peças de armas**: categoria pulada por enquanto. Enviar as fotos depois.
+- **Máscaras de Gás**: confirmar se existem preços Como nova e Usada.
+
+A lista também aparece no topo do site (edite `window.PENDENCIAS` em `itens.js`).

@@ -54,6 +54,11 @@ h1 { font: 700 clamp(28px, 5vw, 42px)/1.05 var(--f-display); margin: 6px 0 0; te
 .stats { display: flex; gap: 20px; font: 400 13px/1.3 var(--f-mono); color: var(--muted); }
 .stats b { display: block; font: 700 20px/1.1 var(--f-display); color: var(--fg); font-variant-numeric: tabular-nums; }
 
+.pend { border: 1px dashed var(--accent); border-radius: 4px; padding: 12px 14px; display: grid; gap: 6px; }
+.pend-t { font: 500 11px/1 var(--f-mono); letter-spacing: .12em; text-transform: uppercase; color: var(--accent); }
+.pend ul { margin: 0; padding-left: 18px; display: grid; gap: 2px; }
+.pend li b { font-weight: 600; }
+.pend li span { color: var(--muted); }
 .abas { display: flex; flex-wrap: wrap; gap: 4px; border-bottom: 1px solid var(--line); }
 .aba {
   font: 700 14px/1 var(--f-display); text-transform: uppercase; letter-spacing: .04em;
@@ -141,6 +146,11 @@ footer { font: 12px var(--f-mono); color: var(--muted); }
       <div><b id="st-data">—</b>última foto</div>
     </div>
   </header>
+
+  <aside class="pend" id="pend" hidden>
+    <span class="pend-t">Falta cadastrar</span>
+    <ul id="pend-lista"></ul>
+  </aside>
 
   <nav class="abas" role="tablist" aria-label="Visualização">
     <button type="button" class="aba" role="tab" id="aba-todos" data-aba="todos">Todos os itens <span class="n" id="n-todos">0</span></button>
@@ -255,6 +265,11 @@ footer { font: 12px var(--f-mono); color: var(--muted); }
   $("busca").addEventListener("input", function (e) { estado.busca = e.target.value; render(); });
   $("ordem").addEventListener("change", function (e) { estado.ordem = e.target.value; render(); });
 
+  var PEND = Array.isArray(window.PENDENCIAS) ? window.PENDENCIAS : [];
+  if (PEND.length) {
+    $("pend-lista").innerHTML = PEND.map(function (p) { return "<li><b>" + esc(p.item) + "</b>" + (p.nota ? " <span>· " + esc(p.nota) + "</span>" : "") + "</li>"; }).join("");
+    $("pend").hidden = false;
+  }
   $("n-todos").textContent = ITENS.length;
   $("n-troca").textContent = ITENS.filter(eTroca).length;
   function abas() {
