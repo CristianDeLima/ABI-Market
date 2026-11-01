@@ -88,6 +88,8 @@ tbody tr:hover { background: color-mix(in srgb, var(--chip) 55%, transparent); }
 .cat { font: 500 12px var(--f-mono); color: var(--muted); text-transform: uppercase; letter-spacing: .05em; white-space: nowrap; }
 .preco { font: 500 15px var(--f-mono); font-variant-numeric: tabular-nums; text-align: right; white-space: nowrap; }
 th.num { text-align: right; }
+.preco.vazio { color: var(--muted); }
+.q { display: none; }
 .koen { color: var(--muted); font-size: 12px; margin-left: 4px; }
 .attrs { display: flex; flex-wrap: wrap; gap: 4px; }
 .attr { font: 12px var(--f-mono); background: var(--chip); padding: 3px 7px; border-radius: 3px; white-space: nowrap; }
@@ -106,9 +108,11 @@ footer { font: 12px var(--f-mono); color: var(--muted); }
   tr { display: grid; grid-template-columns: 1fr auto; gap: 4px 12px; padding: 12px 14px; border-bottom: 1px solid var(--line); }
   tr:last-child { border-bottom: 0; }
   td { padding: 0; border: 0; }
-  td.c-nome { grid-column: 1; }
-  td.c-preco { grid-column: 2; grid-row: 1; }
-  td.c-cat, td.c-attrs, td.c-data { grid-column: 1 / -1; }
+  tr { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  td.c-nome, td.c-cat, td.c-attrs, td.c-data { grid-column: 1 / -1; }
+  td.c-preco { text-align: left; background: var(--chip); border-radius: 3px; padding: 6px 8px; font-size: 14px; }
+  .q { display: block; font: 500 10px/1.2 var(--f-mono); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+  td.c-data { order: 9; }
 }
 @media (prefers-reduced-motion: no-preference) { tbody tr { transition: background .12s; } }
 </style>
@@ -140,7 +144,7 @@ footer { font: 12px var(--f-mono); color: var(--muted); }
 
   <div class="table-box">
     <table>
-      <thead><tr><th>Item</th><th>Categoria</th><th>Atributos</th><th class="num">Preço</th><th>Atualizado</th></tr></thead>
+      <thead><tr><th>Item</th><th>Categoria</th><th>Atributos</th><th class="num">Novo</th><th class="num">Como novo</th><th class="num">Usado</th><th>Atualizado</th></tr></thead>
       <tbody id="lista"></tbody>
     </table>
     <div class="empty" id="vazio" hidden>
@@ -149,7 +153,7 @@ footer { font: 12px var(--f-mono); color: var(--muted); }
     </div>
   </div>
 
-  <footer>Valores em Koen, registrados manualmente a partir de capturas de tela. Os preços do mercado mudam com frequência: confira a data de cada item.</footer>
+  <footer>Valores em Koen, por qualidade de compra (Novo, Como novo, Usado), registrados manualmente a partir de capturas de tela. Os preços do mercado mudam com frequência: confira a data de cada item.</footer>
 </div>
 
 <script src="itens.js"></script>
@@ -186,14 +190,22 @@ footer { font: 12px var(--f-mono); color: var(--muted); }
     });
   }
 
+  function preco(i, q) { var p = i.precos || {}; return p[q] != null ? p[q] : (q === "novo" && i.preco != null ? i.preco : null); }
+  function precoRef(i) { var v = preco(i, "novo"); if (v == null) v = preco(i, "comoNovo"); if (v == null) v = preco(i, "usado"); return v == null ? 0 : v; }
+  function celPreco(i, q, rot) {
+    var v = preco(i, q);
+    return '<td class="c-preco preco' + (v == null ? " vazio" : "") + '"><span class="q">' + rot + "</span>" +
+      (v != null ? fmt.format(v) + '<span class="koen">K</span>' : "—") + "</td>";
+  }
+
   function render() {
     var q = norm(estado.busca);
     var lista = ITENS.filter(function (i) {
       return (estado.cat === "Todas" || (i.categoria || "Outros") === estado.cat) && (!q || norm(i.nome).indexOf(q) !== -1);
     });
     lista.sort(function (a, b) {
-      if (estado.ordem === "preco-desc") return (b.preco || 0) - (a.preco || 0);
-      if (estado.ordem === "preco-asc") return (a.preco || 0) - (b.preco || 0);
+      if (estado.ordem === "preco-desc") return precoRef(b) - precoRef(a);
+      if (estado.ordem === "preco-asc") return precoRef(a) - precoRef(b);
       if (estado.ordem === "data") return String(b.atualizado || "").localeCompare(String(a.atualizado || ""));
       return String(a.nome).localeCompare(String(b.nome), "pt-BR");
     });
@@ -206,7 +218,7 @@ footer { font: 12px var(--f-mono); color: var(--muted); }
         '<td class="c-nome"><span class="nome">' + esc(i.nome) + "</span>" + (i.obs ? '<span class="obs">' + esc(i.obs) + "</span>" : "") + "</td>" +
         '<td class="c-cat"><span class="cat">' + esc(i.categoria || "Outros") + "</span></td>" +
         '<td class="c-attrs"><div class="attrs">' + attrs + "</div></td>" +
-        '<td class="c-preco preco">' + (i.preco != null ? fmt.format(i.preco) + '<span class="koen">K</span>' : "—") + "</td>" +
+        celPreco(i, "novo", "Novo") + celPreco(i, "comoNovo", "Como novo") + celPreco(i, "usado", "Usado") +
         '<td class="c-data"><span class="data">' + fmtData(i.atualizado) + "</span></td>" +
         "</tr>";
     }).join("");
