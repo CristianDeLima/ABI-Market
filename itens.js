@@ -19,7 +19,7 @@ window.GRUPOS = ["Equipamento", "Peça de Arma", "Ferrolhos", "Munição", "Item
 
 // Pendências: categorias ou dados que ainda faltam enviar.
 window.PENDENCIAS = [
-  { item: "Peça de Arma", nota: "Mira, Carregador, Cabo Frontal, Cabo Traseiro, Coronha, Bocal, Ponta Laser, Cano, Guarda-mão, Receptor/Capa de Poeira, Trilho e Bloco de Gás já cadastrados (Cabo Frontal estava indisponível no mercado). Faltam as outras subcategorias." },
+  { item: "Peça de Arma", nota: "Mira, Carregador, Cabo Frontal, Cabo Traseiro, Coronha, Bocal, Ponta Laser, Cano, Guarda-mão, Receptor/Capa de Poeira, Trilho, Bloco de Gás e Alavanca de Ferrolho já cadastrados (Cabo Frontal estava indisponível no mercado). Faltam as outras subcategorias." },
   { item: "Máscaras de Gás", nota: "Confirmar se existem preços Como nova e Usada." }
 ];
 
@@ -23953,5 +23953,291 @@ window.ITENS = [
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
     "obs": ""
+  },
+  {
+    "nome": "Tampa da Alavanca d…",
+    "grupo": "Peça de Arma",
+    "categoria": "Alavanca de Ferrolho",
+    "precos": {
+      "novo": 574,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Alavanca de Carrega…",
+    "grupo": "Peça de Arma",
+    "categoria": "Alavanca de Ferrolho",
+    "precos": {
+      "novo": 2460,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Alavanca de Carrega…",
+    "grupo": "Peça de Arma",
+    "categoria": "Alavanca de Ferrolho",
+    "precos": {
+      "novo": 2158,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Alavanca de carrega…",
+    "grupo": "Peça de Arma",
+    "categoria": "Alavanca de Ferrolho",
+    "precos": {
+      "novo": 2106,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Alça de Carregament…",
+    "grupo": "Peça de Arma",
+    "categoria": "Alavanca de Ferrolho",
+    "precos": {
+      "novo": 2800,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Alça de Carregament…",
+    "grupo": "Peça de Arma",
+    "categoria": "Alavanca de Ferrolho",
+    "precos": {
+      "novo": 2852,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Alavanca de Carrega…",
+    "grupo": "Peça de Arma",
+    "categoria": "Alavanca de Ferrolho",
+    "precos": {
+      "novo": 2030,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Tampa de Alavanca d…",
+    "grupo": "Peça de Arma",
+    "categoria": "Alavanca de Ferrolho",
+    "precos": {
+      "novo": 4515,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Alavanca de Carrega…",
+    "grupo": "Peça de Arma",
+    "categoria": "Alavanca de Ferrolho",
+    "precos": {
+      "novo": 2975,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Tampa de Alavanca d…",
+    "grupo": "Peça de Arma",
+    "categoria": "Alavanca de Ferrolho",
+    "precos": {
+      "novo": 3827,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Alça de Carregament…",
+    "grupo": "Peça de Arma",
+    "categoria": "Alavanca de Ferrolho",
+    "precos": {
+      "novo": 4988,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Alavanca de Carrega…",
+    "grupo": "Peça de Arma",
+    "categoria": "Alavanca de Ferrolho",
+    "precos": {
+      "novo": 8464,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Alavanca de Carrega…",
+    "grupo": "Peça de Arma",
+    "categoria": "Alavanca de Ferrolho",
+    "precos": {
+      "novo": 8996,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Alça de Carregament…",
+    "grupo": "Peça de Arma",
+    "categoria": "Alavanca de Ferrolho",
+    "precos": {
+      "novo": 5824,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Alça de Carregament…",
+    "grupo": "Peça de Arma",
+    "categoria": "Alavanca de Ferrolho",
+    "precos": {
+      "novo": 10036,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Alça de Carregament…",
+    "grupo": "Peça de Arma",
+    "categoria": "Alavanca de Ferrolho",
+    "precos": {
+      "novo": 8840,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Alavanca de Carrega…",
+    "grupo": "Peça de Arma",
+    "categoria": "Alavanca de Ferrolho",
+    "precos": {
+      "novo": 2496,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Tampa de Alavanca d…",
+    "grupo": "Peça de Arma",
+    "categoria": "Alavanca de Ferrolho",
+    "precos": {
+      "novo": 8584,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Alavanca de Carrega…",
+    "grupo": "Peça de Arma",
+    "categoria": "Alavanca de Ferrolho",
+    "precos": {
+      "novo": 8658,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Alavanca de Carrega…",
+    "grupo": "Peça de Arma",
+    "categoria": "Alavanca de Ferrolho",
+    "precos": {
+      "novo": 9204,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Alça de Carregament…",
+    "grupo": "Peça de Arma",
+    "categoria": "Alavanca de Ferrolho",
+    "precos": {
+      "novo": 13968,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Alavanca de Carrega…",
+    "grupo": "Peça de Arma",
+    "categoria": "Alavanca de Ferrolho",
+    "precos": {
+      "novo": 11330,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
   }
 ];
