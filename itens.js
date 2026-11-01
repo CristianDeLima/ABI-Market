@@ -2800,5 +2800,117 @@ window.ITENS = [
     },
     "atualizado": "2026-10-31",
     "obs": ""
+  },
+  {
+    "nome": "Munição M193 5,56×…",
+    "grupo": "Munição",
+    "categoria": "5,56×45 mm",
+    "precos": {
+      "novo": 74,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 1
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Munição FMJ de Caça…",
+    "grupo": "Munição",
+    "categoria": "5,56×45 mm",
+    "precos": {
+      "novo": 136,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 2
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Munição HP de Caça …",
+    "grupo": "Munição",
+    "categoria": "5,56×45 mm",
+    "precos": {
+      "novo": 300,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 1
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Munição M855 5,56×…",
+    "grupo": "Munição",
+    "categoria": "5,56×45 mm",
+    "precos": {
+      "novo": 504,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 3
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Munição M855A1 5,5…",
+    "grupo": "Munição",
+    "categoria": "5,56×45 mm",
+    "precos": {
+      "novo": 836,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 4
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Munição M855A2 5,5…",
+    "grupo": "Munição",
+    "categoria": "5,56×45 mm",
+    "precos": {
+      "novo": 2310,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 4
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Munição M995 5,56×…",
+    "grupo": "Munição",
+    "categoria": "5,56×45 mm",
+    "precos": {
+      "novo": 6840,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 5
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
