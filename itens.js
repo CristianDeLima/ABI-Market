@@ -1899,7 +1899,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Colete Peitoral de I…",
+    "nome": "Colete Peitoral de Infantaria BH",
     "grupo": "Equipamento",
     "categoria": "Colete não blindado",
     "precos": {
@@ -1909,7 +1909,11 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
-    "obs": "Venda por Contato"
+    "obs": "Venda por Contato",
+    "atributos": {
+      "Peso": "1,00 kg",
+      "Espaço": 10
+    }
   },
   {
     "nome": "Colete de Transport…",
@@ -2016,7 +2020,7 @@ window.ITENS = [
     "obs": "Pode ser trocado com Contato"
   },
   {
-    "nome": "Colete Peitoral Stor…",
+    "nome": "Colete Peitoral Tático Stormtrooper Tipo 3",
     "grupo": "Equipamento",
     "categoria": "Colete não blindado",
     "precos": {
@@ -2026,7 +2030,11 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "atributos": {
+      "Peso": "1,90 kg",
+      "Espaço": 20
+    }
   },
   {
     "nome": "Colete Peitoral Univ…",
@@ -2052,10 +2060,14 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "atributos": {
+      "Peso": "1,50 kg",
+      "Espaço": 14
+    }
   },
   {
-    "nome": "Colete Peitoral Mult…",
+    "nome": "Colete Peitoral Multifuncional FA",
     "grupo": "Equipamento",
     "categoria": "Colete não blindado",
     "precos": {
@@ -2065,7 +2077,11 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "atributos": {
+      "Peso": "1,60 kg",
+      "Espaço": 18
+    }
   },
   {
     "nome": "Colete Peitoral Táti…",
