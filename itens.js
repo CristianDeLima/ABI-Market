@@ -3120,5 +3120,117 @@ window.ITENS = [
     },
     "atualizado": "2026-10-31",
     "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Munição LP 7,62×39 …",
+    "grupo": "Munição",
+    "categoria": "7,62×39 mm",
+    "precos": {
+      "novo": 88,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 1
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Munição US 7,62×39 …",
+    "grupo": "Munição",
+    "categoria": "7,62×39 mm",
+    "precos": {
+      "novo": 150,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 2
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Munição HP 7,62×39 …",
+    "grupo": "Munição",
+    "categoria": "7,62×39 mm",
+    "precos": {
+      "novo": 498,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 1
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Munição PS 7,62×39 …",
+    "grupo": "Munição",
+    "categoria": "7,62×39 mm",
+    "precos": {
+      "novo": 342,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 3
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Munição T45M 7,62×…",
+    "grupo": "Munição",
+    "categoria": "7,62×39 mm",
+    "precos": {
+      "novo": 608,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 3
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Munição PB 7,62×39 …",
+    "grupo": "Munição",
+    "categoria": "7,62×39 mm",
+    "precos": {
+      "novo": 1596,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 4
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Munição AP 7,62×39 …",
+    "grupo": "Munição",
+    "categoria": "7,62×39 mm",
+    "precos": {
+      "novo": 6800,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 5
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
