@@ -13704,222 +13704,206 @@ window.ITENS = [
     "grupo": "Peça de Arma",
     "categoria": "Cabo Frontal",
     "precos": {
-      "novo": null,
+      "novo": 2508,
       "comoNovo": null,
       "usado": null
     },
     "qualidadeUnica": true,
-    "indisponivel": true,
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "Venda por Contato"
   },
   {
     "nome": "Cabo Curto Leve",
     "grupo": "Peça de Arma",
     "categoria": "Cabo Frontal",
     "precos": {
-      "novo": null,
+      "novo": 9108,
       "comoNovo": null,
       "usado": null
     },
     "qualidadeUnica": true,
-    "indisponivel": true,
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "Pode ser trocado com Contato"
   },
   {
     "nome": "Cabo Longo Leve",
     "grupo": "Peça de Arma",
     "categoria": "Cabo Frontal",
     "precos": {
-      "novo": null,
+      "novo": 10100,
       "comoNovo": null,
       "usado": null
     },
     "qualidadeUnica": true,
-    "indisponivel": true,
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "Pode ser trocado com Contato"
   },
   {
     "nome": "Mini Apoio",
     "grupo": "Peça de Arma",
     "categoria": "Cabo Frontal",
     "precos": {
-      "novo": null,
+      "novo": 4532,
       "comoNovo": null,
       "usado": null
     },
     "qualidadeUnica": true,
-    "indisponivel": true,
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "Pode ser trocado com Contato"
   },
   {
     "nome": "Mini Apoio T",
     "grupo": "Peça de Arma",
     "categoria": "Cabo Frontal",
     "precos": {
-      "novo": null,
+      "novo": 6656,
       "comoNovo": null,
       "usado": null
     },
     "qualidadeUnica": true,
-    "indisponivel": true,
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "Pode ser trocado com Contato"
   },
   {
     "nome": "Cabo Frontal Vertica…",
     "grupo": "Peça de Arma",
     "categoria": "Cabo Frontal",
     "precos": {
-      "novo": null,
+      "novo": 3990,
       "comoNovo": null,
       "usado": null
     },
     "qualidadeUnica": true,
-    "indisponivel": true,
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "Pode ser trocado com Contato"
   },
   {
     "nome": "Apoio de Alumínio",
     "grupo": "Peça de Arma",
     "categoria": "Cabo Frontal",
     "precos": {
-      "novo": null,
+      "novo": 14105,
       "comoNovo": null,
       "usado": null
     },
     "qualidadeUnica": true,
-    "indisponivel": true,
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "Pode ser trocado com Contato"
   },
   {
     "nome": "Cabo Frontal Tático …",
     "grupo": "Peça de Arma",
     "categoria": "Cabo Frontal",
     "precos": {
-      "novo": null,
+      "novo": 7137,
       "comoNovo": null,
       "usado": null
     },
     "qualidadeUnica": true,
-    "indisponivel": true,
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "Pode ser trocado com Contato"
   },
   {
     "nome": "Cabo Frontal RK-6",
     "grupo": "Peça de Arma",
     "categoria": "Cabo Frontal",
     "precos": {
-      "novo": null,
+      "novo": 10044,
       "comoNovo": null,
       "usado": null
     },
     "qualidadeUnica": true,
-    "indisponivel": true,
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "Pode ser trocado com Contato"
   },
   {
     "nome": "CF Confortável",
     "grupo": "Peça de Arma",
     "categoria": "Cabo Frontal",
     "precos": {
-      "novo": null,
+      "novo": 11844,
       "comoNovo": null,
       "usado": null
     },
     "qualidadeUnica": true,
-    "indisponivel": true,
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "Pode ser trocado com Contato"
   },
   {
     "nome": "Cabo Frontal de Incl…",
     "grupo": "Peça de Arma",
     "categoria": "Cabo Frontal",
     "precos": {
-      "novo": null,
+      "novo": 10200,
       "comoNovo": null,
       "usado": null
     },
     "qualidadeUnica": true,
-    "indisponivel": true,
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "Pode ser trocado com Contato"
   },
   {
     "nome": "Cabo Frontal de Cont…",
     "grupo": "Peça de Arma",
     "categoria": "Cabo Frontal",
     "precos": {
-      "novo": null,
+      "novo": 28644,
       "comoNovo": null,
       "usado": null
     },
     "qualidadeUnica": true,
-    "indisponivel": true,
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "Pode ser trocado com Contato"
   },
   {
     "nome": "Cabo Frontal Compac…",
     "grupo": "Peça de Arma",
     "categoria": "Cabo Frontal",
     "precos": {
-      "novo": null,
+      "novo": 27028,
       "comoNovo": null,
       "usado": null
     },
     "qualidadeUnica": true,
-    "indisponivel": true,
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "Pode ser trocado com Contato"
   },
   {
     "nome": "Cabo Frontal Inclina…",
     "grupo": "Peça de Arma",
     "categoria": "Cabo Frontal",
     "precos": {
-      "novo": null,
+      "novo": 15120,
       "comoNovo": null,
       "usado": null
     },
     "qualidadeUnica": true,
-    "indisponivel": true,
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "Pode ser trocado com Contato"
   },
   {
     "nome": "Cabo Frontal Vertica…",
     "grupo": "Peça de Arma",
     "categoria": "Cabo Frontal",
     "precos": {
-      "novo": null,
+      "novo": 10412,
       "comoNovo": null,
       "usado": null
     },
     "qualidadeUnica": true,
-    "indisponivel": true,
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "Pode ser trocado com Contato"
   },
   {
     "nome": "Cabo Frontal Angula…",
     "grupo": "Peça de Arma",
     "categoria": "Cabo Frontal",
     "precos": {
-      "novo": null,
+      "novo": 46151,
       "comoNovo": null,
       "usado": null
     },
     "qualidadeUnica": true,
-    "indisponivel": true,
     "atualizado": "2026-10-31",
     "obs": ""
   },
@@ -13928,12 +13912,11 @@ window.ITENS = [
     "grupo": "Peça de Arma",
     "categoria": "Cabo Frontal",
     "precos": {
-      "novo": null,
+      "novo": 15542,
       "comoNovo": null,
       "usado": null
     },
     "qualidadeUnica": true,
-    "indisponivel": true,
     "atualizado": "2026-10-31",
     "obs": ""
   },
@@ -13942,12 +13925,11 @@ window.ITENS = [
     "grupo": "Peça de Arma",
     "categoria": "Cabo Frontal",
     "precos": {
-      "novo": null,
+      "novo": 69216,
       "comoNovo": null,
       "usado": null
     },
     "qualidadeUnica": true,
-    "indisponivel": true,
     "atualizado": "2026-10-31",
     "obs": ""
   },
@@ -13956,14 +13938,13 @@ window.ITENS = [
     "grupo": "Peça de Arma",
     "categoria": "Cabo Frontal",
     "precos": {
-      "novo": null,
+      "novo": 113844,
       "comoNovo": null,
       "usado": null
     },
     "qualidadeUnica": true,
-    "indisponivel": true,
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "Pode ser trocado com Contato"
   },
   {
     "nome": "Cabo Padrão M1911",
