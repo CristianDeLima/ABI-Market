@@ -19,7 +19,7 @@ window.GRUPOS = ["Equipamento", "Peça de Arma", "Ferrolhos", "Munição", "Item
 
 // Pendências: categorias ou dados que ainda faltam enviar.
 window.PENDENCIAS = [
-  { item: "Peça de Arma", nota: "Mira, Carregador, Cabo Frontal, Cabo Traseiro, Coronha, Bocal e Ponta Laser já cadastrados (Cabo Frontal estava indisponível no mercado). Faltam as outras subcategorias." },
+  { item: "Peça de Arma", nota: "Mira, Carregador, Cabo Frontal, Cabo Traseiro, Coronha, Bocal, Ponta Laser e Cano já cadastrados (Cabo Frontal estava indisponível no mercado). Faltam as outras subcategorias." },
   { item: "Máscaras de Gás", nota: "Confirmar se existem preços Como nova e Usada." }
 ];
 
@@ -18818,5 +18818,1253 @@ window.ITENS = [
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Cano-padrão M1911",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 259,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano-padrão M3A1",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 630,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano Roscado M1911",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 738,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano Médio QC61",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 648,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano Serrado M870",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 608,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano 510mm MP-133",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 624,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano 540mm MP-133",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 629,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano 610mm MP-133",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 1258,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano G17 C",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 1411,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "G17 Rosc. Cano",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 1428,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano Roscado M9A3",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 714,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano-padrão M870",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 1615,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano 660mm MP-133",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 1440,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano-padrão T85",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 1720,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano-padrão UMP45",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 1800,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano Estendido da M…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 2635,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano-padrão M14",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 2240,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano G da Submetral…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 3362,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano de 18\" G3",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 3906,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano Estendido da U…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 5618,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano 750mm MP-133",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 4760,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano de 12\" G3",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 5428,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "SG550 Cano Curto",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 5369,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Cano Curto do Mosin",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 6180,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Cano Curto PCC-9",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 5612,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano da carabina SG…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 2394,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano de Carabina Mo…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 2898,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Cano Médio Vector 45",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 5985,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano Médio PCC-9",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 2432,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano com Silenciado…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 13926,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano Longo PCC-9",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 7169,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano da carabina M16",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 7169,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano Estendido MAC …",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 5880,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano-padrão MAC 10",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 2660,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano de Carabina MA…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 6930,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano 710mm MP-133",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 6106,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano da Pistola 18C …",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 2812,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "SG550 Cano Longo",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 2926,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Cano Estendido M14",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 6880,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Cano Exclusivo da PP…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 3230,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano de 16\" G3",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 3268,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano ACE31 (8.31\")",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 3698,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano-padrão T951",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 3268,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano 14\" SCAR-L",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 3306,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano Dedicado F57",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 3306,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano da Sniper Mosin",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 11286,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano 10\" SCAR-L",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 11100,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano de Franco-atira…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 10608,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano-padrão do AK-1…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 11128,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano ACE31 (16\")",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 32032,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Cano Estendido T951",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 15012,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano Thunder F57",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 13221,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Cano Serrado Exclusi…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 11520,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Cano-padrão Vector9",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 10209,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano Padrão do AMB-…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 13716,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano 320 mm FAMAS",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 10033,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano Convencional d…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 20701,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano Serrado MPX",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 11392,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano-padrão M110",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 8448,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano de Carabina Ve…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 17810,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Cano Longo da PP19",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 8308,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano-padrão Vector45",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 5206,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano Dedicado AR57",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 20727,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano Serrado Exclusi…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 8056,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Cano Universal H416…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 17901,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Acessório de Teste: …",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 310388,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano-padrão Exclusiv…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 15106,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Cano-padrão Exclusiv…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 6574,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Acessório de Teste: …",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 226800,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano XS MPX",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 10472,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano de Regulação …",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 7296,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano-padrão FAMAS",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 7720,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano de Carabina Ve…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 24638,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Cano Estendido M110",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 25608,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Cano Curto da Bansh…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 19110,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano Serrado Univer…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 8664,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano-padrão RPK16",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 8778,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano Médio Universal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 29232,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Cano-padrão Univers…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 52320,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Cano 18\" SCAR-L",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 30861,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Cano Curto de Rifle …",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 24030,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano Estendido Exclu…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 17088,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano-padrão MPX",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 10830,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Cano 22\" SVDS",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 35136,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano Padrão do T88",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 22116,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano de Rifle Autom…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 31536,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano Padrão Banshee",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 26370,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano Longo da Bansh…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 31860,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano Estendido MPX",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 51471,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Cano de Rifle de Pre…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 56776,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano estendido de M…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 38586,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Cano Serrado para P…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 15745,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano Estendido RPK16",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 46035,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano Estendido Exclu…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 31773,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Cano-padrão P90",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 122850,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cano 620 mm FAMAS",
+    "grupo": "Peça de Arma",
+    "categoria": "Cano",
+    "precos": {
+      "novo": 59808,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
