@@ -2912,5 +2912,101 @@ window.ITENS = [
     },
     "atualizado": "2026-10-31",
     "obs": ""
+  },
+  {
+    "nome": "R37.F 5,7×28 mm",
+    "grupo": "Munição",
+    "categoria": "5,7×28 mm",
+    "precos": {
+      "novo": 291,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 0
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "R37.X 5,7×28 mm",
+    "grupo": "Munição",
+    "categoria": "5,7×28 mm",
+    "precos": {
+      "novo": 288,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 1
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "L191 5,7×28 mm",
+    "grupo": "Munição",
+    "categoria": "5,7×28 mm",
+    "precos": {
+      "novo": 441,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 3
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Munição SS197SR 5,…",
+    "grupo": "Munição",
+    "categoria": "5,7×28 mm",
+    "precos": {
+      "novo": 370,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 2
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Munição SS190 5,7×2…",
+    "grupo": "Munição",
+    "categoria": "5,7×28 mm",
+    "precos": {
+      "novo": 1800,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 4
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Munição SS198 5,7×2…",
+    "grupo": "Munição",
+    "categoria": "5,7×28 mm",
+    "precos": {
+      "novo": 7169,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 5
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
