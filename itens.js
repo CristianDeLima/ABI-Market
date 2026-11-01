@@ -19,7 +19,7 @@ window.GRUPOS = ["Equipamento", "Peça de Arma", "Ferrolhos", "Munição", "Item
 
 // Pendências: categorias ou dados que ainda faltam enviar.
 window.PENDENCIAS = [
-  { item: "Peça de Arma", nota: "Mira, Carregador e Cabo Frontal já cadastrados (Cabo Frontal estava indisponível no mercado). Faltam as outras subcategorias." },
+  { item: "Peça de Arma", nota: "Mira, Carregador, Cabo Frontal e Cabo Traseiro já cadastrados (Cabo Frontal estava indisponível no mercado). Faltam as outras subcategorias." },
   { item: "Máscaras de Gás", nota: "Confirmar se existem preços Como nova e Usada." }
 ];
 
@@ -13993,6 +13993,643 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "indisponivel": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Padrão M1911",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 553,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo de Pistola QC61",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 621,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo de Pistola CZ52",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 324,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Especial M1911",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 756,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Especial M45A1",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 952,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Traseiro Padrã…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 1134,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Traseiro de Pol…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 658,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Traseiro Moder…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 1701,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo AR Manufatura …",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 2604,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Traseiro Compa…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 1428,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Compatível co…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 2465,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Texturizado SC…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 2262,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Traseiro de Pol…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 2436,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Traseiro AR Co…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 2016,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Traseiro Tático…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 3588,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Traseiro Confor…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 4284,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Cabo Traseiro AR Lev…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 8170,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Empunhadura traseir…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 1786,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo AR para M870",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 2050,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Traseiro da PP1…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 6254,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Traseiro Leve A…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 3840,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Traseiro de Fra…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 6175,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Empunhadura Trasei…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 10971,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Traseiro do AN-…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 9828,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Empunhadura traseir…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 5394,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Traseiro Especí…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 3306,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Traseiro Tático…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 8265,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Traseiro SCAR-L",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 3344,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Traseiro Padrã…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 10403,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Traseiro KGB Le…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 11128,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Traseiro de Pol…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 10400,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Traseiro Confor…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 14690,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Traseiro SAW T…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 11921,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Capa de Borracha par…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 10200,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Cabo Traseiro AR Lev…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 25800,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo AR Tático para …",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 20468,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Padrão Banshee",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 23985,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Traseiro Moder…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 16380,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Traseiro RK3 In…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 18424,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Traseiro Padrã…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 10143,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo AR Industrial",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 8436,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Traseiro Indust…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 30975,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo traseiro design…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 11505,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Traseiro AR Lev…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 50052,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo AR Industrial E…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 66582,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Traseiro Padrã…",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 26418,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo AR Tático Oco",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 98073,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo FO do MK14",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 45824,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo Especial MK14",
+    "grupo": "Peça de Arma",
+    "categoria": "Cabo Traseiro",
+    "precos": {
+      "novo": 30856,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
     "atualizado": "2026-10-31",
     "obs": ""
   }
