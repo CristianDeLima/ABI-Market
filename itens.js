@@ -3070,7 +3070,7 @@ window.ITENS = [
     "obs": "Venda por Contato"
   },
   {
-    "nome": "Munição PB 5,45×39…",
+    "nome": "Munição PB 5,45×39 mm",
     "grupo": "Munição",
     "categoria": "5,45×39 mm",
     "precos": {
@@ -3080,13 +3080,22 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atributos": {
-      "Nível": 4
+      "Nível": 4,
+      "Penetração": 41,
+      "Dano": 45,
+      "Dano blindagem": 17,
+      "Ferimento": "2,8",
+      "Velocidade": "890 m/s",
+      "Precisão": "+4",
+      "Ctrl. recuo 1": -2,
+      "Ctrl. recuo 2": -1,
+      "Peso": "0,02 kg"
     },
     "atualizado": "2026-10-31",
     "obs": ""
   },
   {
-    "nome": "Munição BS 5,45×39…",
+    "nome": "Munição BS 5,45×39 mm",
     "grupo": "Munição",
     "categoria": "5,45×39 mm",
     "precos": {
@@ -3096,7 +3105,16 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atributos": {
-      "Nível": 5
+      "Nível": 5,
+      "Penetração": 52,
+      "Dano": 40,
+      "Dano blindagem": 26,
+      "Ferimento": "2,3",
+      "Velocidade": "830 m/s",
+      "Precisão": "+5",
+      "Ctrl. recuo 1": -7,
+      "Ctrl. recuo 2": -4,
+      "Peso": "0,03 kg"
     },
     "atualizado": "2026-10-31",
     "obs": ""
@@ -3166,7 +3184,7 @@ window.ITENS = [
     "obs": "Pode ser trocado com Contato"
   },
   {
-    "nome": "Munição M855A1 5,5…",
+    "nome": "Munição M855A1 5,56×45 mm",
     "grupo": "Munição",
     "categoria": "5,56×45 mm",
     "precos": {
@@ -3176,13 +3194,22 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atributos": {
-      "Nível": 4
+      "Nível": 4,
+      "Penetração": 40,
+      "Dano": 44,
+      "Dano blindagem": 17,
+      "Ferimento": "2,6",
+      "Velocidade": "945 m/s",
+      "Precisão": "+4",
+      "Ctrl. recuo 1": -2,
+      "Ctrl. recuo 2": -1,
+      "Peso": "0,02 kg"
     },
     "atualizado": "2026-10-31",
     "obs": ""
   },
   {
-    "nome": "Munição M855A2 5,5…",
+    "nome": "Munição M855A2 5,56×45 mm",
     "grupo": "Munição",
     "categoria": "5,56×45 mm",
     "precos": {
@@ -3192,13 +3219,22 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atributos": {
-      "Nível": 4
+      "Nível": 4,
+      "Penetração": 41,
+      "Dano": 48,
+      "Dano blindagem": 20,
+      "Ferimento": "2,9",
+      "Velocidade": "945 m/s",
+      "Precisão": "+4",
+      "Ctrl. recuo 1": -2,
+      "Ctrl. recuo 2": -1,
+      "Peso": "0,02 kg"
     },
     "atualizado": "2026-10-31",
     "obs": ""
   },
   {
-    "nome": "Munição M995 5,56×…",
+    "nome": "Munição M995 5,56×45 mm",
     "grupo": "Munição",
     "categoria": "5,56×45 mm",
     "precos": {
@@ -3208,7 +3244,16 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atributos": {
-      "Nível": 5
+      "Nível": 5,
+      "Penetração": 52,
+      "Dano": 41,
+      "Dano blindagem": 27,
+      "Ferimento": "2,3",
+      "Velocidade": "1.013 m/s",
+      "Precisão": "+5",
+      "Ctrl. recuo 1": -7,
+      "Ctrl. recuo 2": -4,
+      "Peso": "0,03 kg"
     },
     "atualizado": "2026-10-31",
     "obs": ""
@@ -3278,7 +3323,7 @@ window.ITENS = [
     "obs": "Pode ser trocado com Contato"
   },
   {
-    "nome": "Munição SS190 5,7×2…",
+    "nome": "Munição SS190 5,7×28 mm",
     "grupo": "Munição",
     "categoria": "5,7×28 mm",
     "precos": {
@@ -3288,13 +3333,22 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atributos": {
-      "Nível": 4
+      "Nível": 4,
+      "Penetração": 42,
+      "Dano": 47,
+      "Dano blindagem": 19,
+      "Ferimento": "2,8",
+      "Velocidade": "716 m/s",
+      "Precisão": "+5",
+      "Ctrl. recuo 1": -3,
+      "Ctrl. recuo 2": -2,
+      "Peso": "0,01 kg"
     },
     "atualizado": "2026-10-31",
     "obs": ""
   },
   {
-    "nome": "Munição SS198 5,7×2…",
+    "nome": "Munição SS198 5,7×28 mm",
     "grupo": "Munição",
     "categoria": "5,7×28 mm",
     "precos": {
@@ -3304,7 +3358,16 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atributos": {
-      "Nível": 5
+      "Nível": 5,
+      "Penetração": 53,
+      "Dano": 43,
+      "Dano blindagem": 23,
+      "Ferimento": "2,4",
+      "Velocidade": "792 m/s",
+      "Precisão": "+1",
+      "Ctrl. recuo 1": -7,
+      "Ctrl. recuo 2": -4,
+      "Peso": "0,01 kg"
     },
     "atualizado": "2026-10-31",
     "obs": ""
@@ -3326,7 +3389,7 @@ window.ITENS = [
     "obs": "Pode ser trocado com Contato"
   },
   {
-    "nome": "Munição DVP88 5,8×4…",
+    "nome": "Munição DVP88 5,8×42 mm",
     "grupo": "Munição",
     "categoria": "5,8×42 mm",
     "precos": {
@@ -3336,13 +3399,22 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atributos": {
-      "Nível": 4
+      "Nível": 4,
+      "Penetração": 44,
+      "Dano": 47,
+      "Dano blindagem": 19,
+      "Ferimento": "2,8",
+      "Velocidade": "870 m/s",
+      "Precisão": "+4",
+      "Ctrl. recuo 1": -2,
+      "Ctrl. recuo 2": -1,
+      "Peso": "0,02 kg"
     },
     "atualizado": "2026-10-31",
     "obs": ""
   },
   {
-    "nome": "Munição DVC12 5,8×4…",
+    "nome": "Munição DVC12 5,8×42 mm",
     "grupo": "Munição",
     "categoria": "5,8×42 mm",
     "precos": {
@@ -3352,7 +3424,16 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atributos": {
-      "Nível": 5
+      "Nível": 5,
+      "Penetração": 53,
+      "Dano": 44,
+      "Dano blindagem": 29,
+      "Ferimento": "2,4",
+      "Velocidade": "915 m/s",
+      "Precisão": "+5",
+      "Ctrl. recuo 1": -7,
+      "Ctrl. recuo 2": -4,
+      "Peso": "0,02 kg"
     },
     "atualizado": "2026-10-31",
     "obs": ""
@@ -3502,7 +3583,7 @@ window.ITENS = [
     "obs": "Pode ser trocado com Contato"
   },
   {
-    "nome": "Munição PB 7,62×39 …",
+    "nome": "Munição PB 7,62×39 mm",
     "grupo": "Munição",
     "categoria": "7,62×39 mm",
     "precos": {
@@ -3512,13 +3593,22 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atributos": {
-      "Nível": 4
+      "Nível": 4,
+      "Penetração": 45,
+      "Dano": 55,
+      "Dano blindagem": 23,
+      "Ferimento": "3,2",
+      "Velocidade": "730 m/s",
+      "Precisão": "+5",
+      "Ctrl. recuo 1": -3,
+      "Ctrl. recuo 2": -2,
+      "Peso": "0,02 kg"
     },
     "atualizado": "2026-10-31",
     "obs": ""
   },
   {
-    "nome": "Munição AP 7,62×39 …",
+    "nome": "Munição AP 7,62×39 mm",
     "grupo": "Munição",
     "categoria": "7,62×39 mm",
     "precos": {
@@ -3528,7 +3618,16 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atributos": {
-      "Nível": 5
+      "Nível": 5,
+      "Penetração": 54,
+      "Dano": 45,
+      "Dano blindagem": 32,
+      "Ferimento": "2,5",
+      "Velocidade": "730 m/s",
+      "Precisão": "+1",
+      "Ctrl. recuo 1": -7,
+      "Ctrl. recuo 2": -4,
+      "Peso": "0,02 kg"
     },
     "atualizado": "2026-10-31",
     "obs": ""
@@ -3566,7 +3665,7 @@ window.ITENS = [
     "obs": "Pode ser trocado com Contato"
   },
   {
-    "nome": "Munição M80 7,62×5…",
+    "nome": "Munição M80 7,62×51 mm",
     "grupo": "Munição",
     "categoria": "7,62×51 mm",
     "precos": {
@@ -3576,13 +3675,22 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atributos": {
-      "Nível": 4
+      "Nível": 4,
+      "Penetração": 42,
+      "Dano": 63,
+      "Dano blindagem": 21,
+      "Ferimento": "3,2",
+      "Velocidade": "833 m/s",
+      "Precisão": "+3",
+      "Ctrl. recuo 1": -3,
+      "Ctrl. recuo 2": -3,
+      "Peso": "0,04 kg"
     },
     "atualizado": "2026-10-31",
     "obs": ""
   },
   {
-    "nome": "Munição M62 7,62×5…",
+    "nome": "Munição M62 7,62×51 mm",
     "grupo": "Munição",
     "categoria": "7,62×51 mm",
     "precos": {
@@ -3592,7 +3700,16 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atributos": {
-      "Nível": 5
+      "Nível": 5,
+      "Penetração": 53,
+      "Dano": 56,
+      "Dano blindagem": 28,
+      "Ferimento": "2,6",
+      "Velocidade": "816 m/s",
+      "Precisão": "+4",
+      "Ctrl. recuo 1": -9,
+      "Ctrl. recuo 2": -9,
+      "Peso": "0,04 kg"
     },
     "atualizado": "2026-10-31",
     "obs": ""
@@ -3614,7 +3731,7 @@ window.ITENS = [
     "obs": "Pode ser trocado com Contato"
   },
   {
-    "nome": "Munição LPS 7,62×54…",
+    "nome": "Munição LPS 7,62×54 mm",
     "grupo": "Munição",
     "categoria": "7,62×54 mm",
     "precos": {
@@ -3624,13 +3741,22 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atributos": {
-      "Nível": 4
+      "Nível": 4,
+      "Penetração": 42,
+      "Dano": 75,
+      "Dano blindagem": 27,
+      "Ferimento": "6,0",
+      "Velocidade": "865 m/s",
+      "Precisão": "+1",
+      "Ctrl. recuo 1": -3,
+      "Ctrl. recuo 2": -1,
+      "Peso": "0,03 kg"
     },
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato"
   },
   {
-    "nome": "Munição 7BT1 7,62×5…",
+    "nome": "Munição 7BT1 7,62×54 mm",
     "grupo": "Munição",
     "categoria": "7,62×54 mm",
     "precos": {
@@ -3640,7 +3766,16 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atributos": {
-      "Nível": 5
+      "Nível": 5,
+      "Penetração": 54,
+      "Dano": 65,
+      "Dano blindagem": 38,
+      "Ferimento": "6,0",
+      "Velocidade": "820 m/s",
+      "Precisão": "+2",
+      "Ctrl. recuo 1": -4,
+      "Ctrl. recuo 2": -2,
+      "Peso": "0,03 kg"
     },
     "atualizado": "2026-10-31",
     "obs": ""
@@ -3710,7 +3845,7 @@ window.ITENS = [
     "obs": "Pode ser trocado com Contato"
   },
   {
-    "nome": "Munição 7N31 9×19 …",
+    "nome": "Munição 7N31 9×19 mm",
     "grupo": "Munição",
     "categoria": "9×19 mm",
     "precos": {
@@ -3720,7 +3855,16 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atributos": {
-      "Nível": 4
+      "Nível": 4,
+      "Penetração": 40,
+      "Dano": 44,
+      "Dano blindagem": 19,
+      "Ferimento": "2,9",
+      "Velocidade": "600 m/s",
+      "Precisão": "+5",
+      "Ctrl. recuo 1": -3,
+      "Ctrl. recuo 2": -2,
+      "Peso": "0,01 kg"
     },
     "atualizado": "2026-10-31",
     "obs": ""
@@ -3752,7 +3896,16 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atributos": {
-      "Nível": 4
+      "Nível": 4,
+      "Penetração": 41,
+      "Dano": 53,
+      "Dano blindagem": 18,
+      "Ferimento": "3,2",
+      "Velocidade": "305 m/s",
+      "Precisão": "+2",
+      "Ctrl. recuo 1": "+2",
+      "Ctrl. recuo 2": "+1",
+      "Peso": "0,01 kg"
     },
     "atualizado": "2026-10-31",
     "obs": ""
@@ -3768,13 +3921,21 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atributos": {
-      "Nível": 4
+      "Nível": 4,
+      "Penetração": 47,
+      "Dano": 56,
+      "Dano blindagem": 13,
+      "Ferimento": "2,8",
+      "Velocidade": "310 m/s",
+      "Precisão": "+3",
+      "Ctrl. recuo 1": -1,
+      "Peso": "0,01 kg"
     },
     "atualizado": "2026-10-31",
     "obs": ""
   },
   {
-    "nome": "Munição 7N12 9×39 …",
+    "nome": "Munição 7N12 9×39 mm",
     "grupo": "Munição",
     "categoria": "9×39 mm",
     "precos": {
@@ -3784,7 +3945,16 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atributos": {
-      "Nível": 5
+      "Nível": 5,
+      "Penetração": 50,
+      "Dano": 50,
+      "Dano blindagem": 22,
+      "Ferimento": "2,7",
+      "Velocidade": "295 m/s",
+      "Precisão": "+4",
+      "Ctrl. recuo 1": -6,
+      "Ctrl. recuo 2": -3,
+      "Peso": "0,01 kg"
     },
     "atualizado": "2026-10-31",
     "obs": ""
@@ -3982,7 +4152,7 @@ window.ITENS = [
     "obs": "Venda por Contato"
   },
   {
-    "nome": "Munição JSP Calibre …",
+    "nome": "Munição JSP Calibre .44",
     "grupo": "Munição",
     "categoria": "Calibre .44",
     "precos": {
@@ -3992,7 +4162,17 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atributos": {
-      "Nível": 4
+      "Nível": 4,
+      "Penetração": 42,
+      "Dano": 67,
+      "Dano blindagem": 18,
+      "Ferimento": "5,4",
+      "Velocidade": "450 m/s",
+      "Precisão": "+3",
+      "Ctrl. recuo 1": "+2",
+      "Ctrl. recuo 2": "+2",
+      "Peso": "0,02 kg",
+      "Chance de causar…": "Baixo"
     },
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato"
@@ -4046,7 +4226,7 @@ window.ITENS = [
     "obs": ""
   },
   {
-    "nome": "Munição UPZ Calibre …",
+    "nome": "Munição UPZ Calibre .338",
     "grupo": "Munição",
     "categoria": "Calibre .338",
     "precos": {
@@ -4056,13 +4236,21 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atributos": {
-      "Nível": 4
+      "Nível": 4,
+      "Penetração": 42,
+      "Dano": 110,
+      "Dano blindagem": 30,
+      "Ferimento": "9,0",
+      "Velocidade": "849 m/s",
+      "Precisão": "+3",
+      "Ctrl. recuo 1": -1,
+      "Peso": "0,02 kg"
     },
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato"
   },
   {
-    "nome": "Munição FMJ Calibre …",
+    "nome": "Munição FMJ Calibre .338",
     "grupo": "Munição",
     "categoria": "Calibre .338",
     "precos": {
@@ -4072,7 +4260,16 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atributos": {
-      "Nível": 5
+      "Nível": 5,
+      "Penetração": 54,
+      "Dano": 94,
+      "Dano blindagem": 41,
+      "Ferimento": "9,0",
+      "Velocidade": "900 m/s",
+      "Precisão": "+4",
+      "Ctrl. recuo 1": -6,
+      "Ctrl. recuo 2": -3,
+      "Peso": "0,02 kg"
     },
     "atualizado": "2026-10-31",
     "obs": ""
