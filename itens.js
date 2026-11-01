@@ -773,5 +773,245 @@ window.ITENS = [
       "comoNovo": 55,
       "usado": 46
     }
+  },
+  {
+    "nome": "Protetor Facial à Pr…",
+    "categoria": "Máscara",
+    "precos": {
+      "novo": 11556,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 2,
+      "Durab.": 40
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 40,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Protetor Facial à Pr…",
+    "categoria": "Máscara",
+    "precos": {
+      "novo": 20736,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 3,
+      "Durab.": 30
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 30,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Protetor Facial Prot…",
+    "categoria": "Máscara",
+    "precos": {
+      "novo": 27675,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 3,
+      "Durab.": 45
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 45,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Protetor Facial SH60",
+    "categoria": "Máscara",
+    "precos": {
+      "novo": 21754,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 4,
+      "Durab.": 35
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 35,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Máscara à Prova de B…",
+    "categoria": "Máscara",
+    "precos": {
+      "novo": 42673,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 4,
+      "Durab.": 45
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 45,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Protetor Facial à Pr…",
+    "categoria": "Máscara",
+    "precos": {
+      "novo": 21012,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 4,
+      "Durab.": 50
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 50,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Protetor Facial à Pr…",
+    "categoria": "Máscara",
+    "precos": {
+      "novo": 28350,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 4,
+      "Durab.": 50
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato",
+    "durabilidade": {
+      "novo": 50,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Protetor Facial Matz…",
+    "categoria": "Máscara",
+    "precos": {
+      "novo": 89913,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 5,
+      "Durab.": 50
+    },
+    "atualizado": "2026-10-31",
+    "obs": "",
+    "durabilidade": {
+      "novo": 50,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Protetor Facial Mili…",
+    "categoria": "Máscara",
+    "precos": {
+      "novo": 27360,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 5,
+      "Durab.": 55
+    },
+    "atualizado": "2026-10-31",
+    "obs": "",
+    "durabilidade": {
+      "novo": 55,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Protetor Facial Expl…",
+    "categoria": "Máscara",
+    "precos": {
+      "novo": 101520,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 6,
+      "Durab.": 70
+    },
+    "atualizado": "2026-10-31",
+    "obs": "",
+    "durabilidade": {
+      "novo": 70,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Protetor Facial Mili…",
+    "categoria": "Máscara",
+    "precos": {
+      "novo": 126000,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 6,
+      "Durab.": 65
+    },
+    "atualizado": "2026-10-31",
+    "obs": "",
+    "durabilidade": {
+      "novo": 65,
+      "comoNovo": null,
+      "usado": null
+    }
+  },
+  {
+    "nome": "Protetor Facial das …",
+    "categoria": "Máscara",
+    "precos": {
+      "novo": 286848,
+      "comoNovo": null,
+      "usado": null
+    },
+    "atributos": {
+      "Classe": 6,
+      "Durab.": 70
+    },
+    "atualizado": "2026-10-31",
+    "obs": "",
+    "durabilidade": {
+      "novo": 70,
+      "comoNovo": null,
+      "usado": null
+    }
   }
 ];
