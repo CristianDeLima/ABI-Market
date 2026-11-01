@@ -310,7 +310,8 @@ window.ITENS = [
       "Ergonomia": -7,
       "Vel. movimento": "-4%",
       "Área": "Cabeça; Ouvidos",
-      "Acessórios": "Máscara"
+      "Acessórios": "Máscara",
+      "Máscara compatível": "SH Uni. (classe 3)"
     },
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato",
