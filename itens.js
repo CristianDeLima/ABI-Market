@@ -19,7 +19,7 @@ window.GRUPOS = ["Equipamento", "Peça de Arma", "Ferrolhos", "Munição", "Item
 
 // Pendências: categorias ou dados que ainda faltam enviar.
 window.PENDENCIAS = [
-  { item: "Peça de Arma", nota: "Mira já cadastrada. Faltam as outras subcategorias." },
+  { item: "Peça de Arma", nota: "Mira e Carregador já cadastrados. Faltam as outras subcategorias." },
   { item: "Máscaras de Gás", nota: "Confirmar se existem preços Como nova e Usada." }
 ];
 
@@ -11805,5 +11805,1929 @@ window.ITENS = [
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
     "obs": ""
+  },
+  {
+    "nome": "Carregador de 7 Bala…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 900,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador de 8 Bala…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 845,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador Desert E…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 1300,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador de 10 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 624,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Carregador de 8 Bala…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 518,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador de 7 Bala…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 1134,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador de 15 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 1190,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador de Metal …",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 1050,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador de 10 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 1106,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador Pequeno …",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 518,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador de 11 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 1372,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador de Polím…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 1215,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador Pequeno …",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 1050,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador Pequeno …",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 1245,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador de 17 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 585,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador Padrão M…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 1155,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador de 20 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 592,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador de 15 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 592,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador de 5 Bala…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 1248,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Carregador de 20 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 1232,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador de 32 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 1422,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador de 30 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 1440,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Carregador de 15 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 1720,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador de 5 Bala…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 777,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador Padrão M…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 2068,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador de 30 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 1978,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador de Polím…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 2208,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador de 20 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 950,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador de 30 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 2392,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Câmara de Carregad…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 1971,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador M14 de 2…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 2573,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Carregador de 5 Bala…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 2013,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Carregador de 20 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 3486,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador de 20 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 1672,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador de 20 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 1840,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Liga Leve de 30 Bala…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 2773,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Carregador de 30 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 2736,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Carregador de 10 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 4550,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador de 10 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 4400,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador de 30 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 4743,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador de 30 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 3233,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Câmara de Carregad…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 3685,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Carregador de 30 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 2750,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Carregador de 30 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 2420,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Carregador de 10 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 4592,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador de 30 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 5656,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador Translúci…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 10488,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador de 30 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 3500,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Carregador de 30 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 11102,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Câmara de Carregad…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 5551,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Câmara de Carregad…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 5704,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador de 32 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 2728,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Carregador de 25 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 2394,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Carregador Padrão M…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 2925,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Carregador Estendid…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 5525,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Câmara de Carregad…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 6006,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador de 15 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 5082,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador de 20 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 7910,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador de 30 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 3024,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Carregador de 25 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 10439,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador de 30 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 4500,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Carregador de 20 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 5328,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador M14 de 3…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 7770,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador de 30 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 9240,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador de 45 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 8190,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador Translúci…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 4500,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Carregador de 30 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 3698,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Carregador Estendid…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 4872,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador de 30 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 4500,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Câmara de Carregad…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 3560,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Câmara de Carregad…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 3420,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador de 30 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 16150,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Câmara de Carregad…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 16744,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador de 30 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 5500,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Carregador de 42 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 13843,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador de 10 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 5886,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Carregador de 30 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 19980,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador de Polím…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 23484,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador de 10 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 11615,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador de Polím…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 6500,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Carregador Padrão In…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 5080,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Carregador de Metal …",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 5418,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Carregador de 40 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 18090,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador Padrão M…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 11152,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador de Polím…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 6500,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Carregador Encaixe d…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 5421,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador Estendid…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 12320,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador de 30 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 5920,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador Gold Dea…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 8607,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador Estendid…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 17936,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador de 30 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 17442,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador de 40 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 41310,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador de 30 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 27224,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador Transpar…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 21106,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador de 35 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 14532,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador de 10 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 17014,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador de 30 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 21539,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Tambor de 20 Balas …",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 18700,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador Estendid…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 33233,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador de 10 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 24766,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador Padrão A…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 7956,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador de 30 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 27846,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador de 20 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 15762,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador Rápido d…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 25868,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador Rápido E…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 23463,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador de 5 Bala…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 54264,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador de Polím…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 20640,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador de Polím…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 30012,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador Padrão V…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 20825,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Tambor de 50 Balas …",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 33561,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador de Aço S…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 29997,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador Padrão V…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 11514,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Carregador de Tamb…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 40610,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador de Aço S…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 16380,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador de 20 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 32017,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Tambor de 50 Balas …",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 16000,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador Transpar…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 35310,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador Padrão V…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 32340,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador de 30 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 43230,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Tambor de 50 Balas …",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 34692,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador de 50 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 22491,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador de Tamb…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 42408,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador de Tamb…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 43956,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador de Rifle …",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 27671,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Tambor de Polímero …",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 37044,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador de 5 Bala…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 67195,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador de Tamb…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 45390,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador de Polím…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 65262,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Tambor de Polímero …",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 83148,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador de 60 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 55216,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Tambor de FAL de 50 …",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 36630,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador de 42 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 76884,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador de 60 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 34905,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Tambor Compatível …",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 52452,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador de Tamb…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 56133,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador de 10 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 22914,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador de Tamb…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 26720,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Tambor de 75 Balas …",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 101959,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador de 50 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 29526,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador de Polím…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 32472,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador de Alta C…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 66177,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador de 100 B…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 32097,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Tambor de Polímero …",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 69056,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador de 50 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 84051,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Tambor Universal co…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 63000,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador de 10 Bal…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 146923,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Tambor XG de 100 pr…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 63063,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Carregador de Tamb…",
+    "grupo": "Peça de Arma",
+    "categoria": "Carregador",
+    "precos": {
+      "novo": 130092,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
   }
 ];
