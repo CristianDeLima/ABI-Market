@@ -3344,5 +3344,85 @@ window.ITENS = [
     },
     "atualizado": "2026-10-31",
     "obs": ""
+  },
+  {
+    "nome": "Munição Pst 9×19 mm",
+    "grupo": "Munição",
+    "categoria": "9×19 mm",
+    "precos": {
+      "novo": 30,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 2
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Munição PSO 9×19 mm",
+    "grupo": "Munição",
+    "categoria": "9×19 mm",
+    "precos": {
+      "novo": 48,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 1
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Dum-Dum 9×19 mm",
+    "grupo": "Munição",
+    "categoria": "9×19 mm",
+    "precos": {
+      "novo": 272,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 0
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Munição AP6.3 9×19 …",
+    "grupo": "Munição",
+    "categoria": "9×19 mm",
+    "precos": {
+      "novo": 259,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 3
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Munição 7N31 9×19 …",
+    "grupo": "Munição",
+    "categoria": "9×19 mm",
+    "precos": {
+      "novo": 855,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 4
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
