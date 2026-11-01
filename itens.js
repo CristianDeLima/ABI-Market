@@ -20,7 +20,7 @@ window.ITENS = [
     "precos": {
       "novo": 4368,
       "comoNovo": 3813,
-      "usado": null
+      "usado": 3162
     },
     "atributos": {
       "Classe": 1,
@@ -31,7 +31,7 @@ window.ITENS = [
     "durabilidade": {
       "novo": 10,
       "comoNovo": 8,
-      "usado": null
+      "usado": 7
     }
   },
   {
@@ -40,7 +40,7 @@ window.ITENS = [
     "precos": {
       "novo": 4940,
       "comoNovo": 4136,
-      "usado": null
+      "usado": 3441
     },
     "atributos": {
       "Classe": 1,
@@ -51,7 +51,7 @@ window.ITENS = [
     "durabilidade": {
       "novo": 15,
       "comoNovo": 13,
-      "usado": null
+      "usado": 10
     }
   },
   {
@@ -60,7 +60,7 @@ window.ITENS = [
     "precos": {
       "novo": 4428,
       "comoNovo": 1840,
-      "usado": null
+      "usado": 3549
     },
     "atributos": {
       "Classe": 1,
@@ -71,7 +71,7 @@ window.ITENS = [
     "durabilidade": {
       "novo": 15,
       "comoNovo": 13,
-      "usado": null
+      "usado": 10
     }
   },
   {
@@ -80,7 +80,7 @@ window.ITENS = [
     "precos": {
       "novo": 5220,
       "comoNovo": 4500,
-      "usado": null
+      "usado": 3738
     },
     "atributos": {
       "Classe": 1,
@@ -91,7 +91,7 @@ window.ITENS = [
     "durabilidade": {
       "novo": 20,
       "comoNovo": 17,
-      "usado": null
+      "usado": 14
     }
   },
   {
@@ -100,7 +100,7 @@ window.ITENS = [
     "precos": {
       "novo": 11615,
       "comoNovo": 3861,
-      "usado": null
+      "usado": 7462
     },
     "atributos": {
       "Classe": 2,
@@ -111,7 +111,7 @@ window.ITENS = [
     "durabilidade": {
       "novo": 20,
       "comoNovo": 17,
-      "usado": null
+      "usado": 14
     }
   },
   {
@@ -120,7 +120,7 @@ window.ITENS = [
     "precos": {
       "novo": 6000,
       "comoNovo": 3939,
-      "usado": null
+      "usado": 4930
     },
     "atributos": {
       "Classe": 2,
@@ -131,7 +131,7 @@ window.ITENS = [
     "durabilidade": {
       "novo": 25,
       "comoNovo": 21,
-      "usado": null
+      "usado": 18
     }
   },
   {
@@ -140,7 +140,7 @@ window.ITENS = [
     "precos": {
       "novo": 11830,
       "comoNovo": 4218,
-      "usado": null
+      "usado": 8556
     },
     "atributos": {
       "Classe": 2,
@@ -151,7 +151,7 @@ window.ITENS = [
     "durabilidade": {
       "novo": 20,
       "comoNovo": 17,
-      "usado": null
+      "usado": 14
     }
   },
   {
@@ -160,7 +160,7 @@ window.ITENS = [
     "precos": {
       "novo": 12236,
       "comoNovo": 10235,
-      "usado": null
+      "usado": 8544
     },
     "atributos": {
       "Classe": 2,
@@ -171,7 +171,7 @@ window.ITENS = [
     "durabilidade": {
       "novo": 20,
       "comoNovo": 17,
-      "usado": null
+      "usado": 14
     }
   },
   {
@@ -180,7 +180,7 @@ window.ITENS = [
     "precos": {
       "novo": 13015,
       "comoNovo": 9477,
-      "usado": null
+      "usado": 8624
     },
     "atributos": {
       "Classe": 2,
@@ -191,7 +191,7 @@ window.ITENS = [
     "durabilidade": {
       "novo": 22,
       "comoNovo": 19,
-      "usado": null
+      "usado": 15
     }
   },
   {
@@ -200,7 +200,7 @@ window.ITENS = [
     "precos": {
       "novo": 6624,
       "comoNovo": 6888,
-      "usado": null
+      "usado": 5871
     },
     "atributos": {
       "Classe": 2,
@@ -211,7 +211,7 @@ window.ITENS = [
     "durabilidade": {
       "novo": 25,
       "comoNovo": 21,
-      "usado": null
+      "usado": 18
     }
   },
   {
@@ -220,7 +220,7 @@ window.ITENS = [
     "precos": {
       "novo": 27648,
       "comoNovo": 10535,
-      "usado": null
+      "usado": 17544
     },
     "atributos": {
       "Classe": 3,
@@ -231,7 +231,7 @@ window.ITENS = [
     "durabilidade": {
       "novo": 28,
       "comoNovo": 24,
-      "usado": null
+      "usado": 20
     }
   },
   {
@@ -240,7 +240,7 @@ window.ITENS = [
     "precos": {
       "novo": 45326,
       "comoNovo": 24360,
-      "usado": null
+      "usado": 31476
     },
     "atributos": {
       "Classe": 3,
@@ -251,7 +251,7 @@ window.ITENS = [
     "durabilidade": {
       "novo": 25,
       "comoNovo": 21,
-      "usado": null
+      "usado": 18
     }
   },
   {
@@ -260,7 +260,7 @@ window.ITENS = [
     "precos": {
       "novo": 38500,
       "comoNovo": 35937,
-      "usado": null
+      "usado": 35074
     },
     "atributos": {
       "Classe": 3,
@@ -271,7 +271,7 @@ window.ITENS = [
     "durabilidade": {
       "novo": 30,
       "comoNovo": 26,
-      "usado": null
+      "usado": 21
     }
   },
   {
@@ -280,7 +280,7 @@ window.ITENS = [
     "precos": {
       "novo": 42622,
       "comoNovo": 24344,
-      "usado": null
+      "usado": 24734
     },
     "atributos": {
       "Classe": 3,
@@ -291,7 +291,7 @@ window.ITENS = [
     "durabilidade": {
       "novo": 30,
       "comoNovo": 26,
-      "usado": null
+      "usado": 21
     }
   },
   {
@@ -300,7 +300,7 @@ window.ITENS = [
     "precos": {
       "novo": 39246,
       "comoNovo": 23270,
-      "usado": null
+      "usado": 28012
     },
     "atributos": {
       "Classe": 3,
@@ -311,7 +311,7 @@ window.ITENS = [
     "durabilidade": {
       "novo": 30,
       "comoNovo": 26,
-      "usado": null
+      "usado": 21
     }
   },
   {
@@ -320,7 +320,7 @@ window.ITENS = [
     "precos": {
       "novo": 43200,
       "comoNovo": 24684,
-      "usado": null
+      "usado": 25315
     },
     "atributos": {
       "Classe": 3,
@@ -331,7 +331,7 @@ window.ITENS = [
     "durabilidade": {
       "novo": 35,
       "comoNovo": 30,
-      "usado": null
+      "usado": 24
     }
   },
   {
@@ -340,7 +340,7 @@ window.ITENS = [
     "precos": {
       "novo": 45632,
       "comoNovo": 32600,
-      "usado": null
+      "usado": 31860
     },
     "atributos": {
       "Classe": 4,
@@ -351,7 +351,7 @@ window.ITENS = [
     "durabilidade": {
       "novo": 50,
       "comoNovo": 42,
-      "usado": null
+      "usado": 35
     }
   },
   {
@@ -360,7 +360,7 @@ window.ITENS = [
     "precos": {
       "novo": 54390,
       "comoNovo": 34050,
-      "usado": null
+      "usado": 37620
     },
     "atributos": {
       "Classe": 4,
@@ -371,7 +371,7 @@ window.ITENS = [
     "durabilidade": {
       "novo": 35,
       "comoNovo": 30,
-      "usado": null
+      "usado": 24
     }
   },
   {
@@ -380,7 +380,7 @@ window.ITENS = [
     "precos": {
       "novo": 49984,
       "comoNovo": 37620,
-      "usado": null
+      "usado": 36672
     },
     "atributos": {
       "Classe": 4,
@@ -391,7 +391,7 @@ window.ITENS = [
     "durabilidade": {
       "novo": 35,
       "comoNovo": 30,
-      "usado": null
+      "usado": 24
     }
   },
   {
@@ -400,7 +400,7 @@ window.ITENS = [
     "precos": {
       "novo": 64464,
       "comoNovo": 32535,
-      "usado": null
+      "usado": 43128
     },
     "atributos": {
       "Classe": 4,
@@ -411,7 +411,7 @@ window.ITENS = [
     "durabilidade": {
       "novo": 40,
       "comoNovo": 34,
-      "usado": null
+      "usado": 28
     }
   },
   {
@@ -420,7 +420,7 @@ window.ITENS = [
     "precos": {
       "novo": 45414,
       "comoNovo": 34639,
-      "usado": null
+      "usado": 40788
     },
     "atributos": {
       "Classe": 4,
@@ -431,7 +431,7 @@ window.ITENS = [
     "durabilidade": {
       "novo": 35,
       "comoNovo": 30,
-      "usado": null
+      "usado": 24
     }
   },
   {
@@ -440,7 +440,7 @@ window.ITENS = [
     "precos": {
       "novo": 66600,
       "comoNovo": 53652,
-      "usado": null
+      "usado": 50897
     },
     "atributos": {
       "Classe": 4,
@@ -451,7 +451,7 @@ window.ITENS = [
     "durabilidade": {
       "novo": 45,
       "comoNovo": 38,
-      "usado": null
+      "usado": 32
     }
   },
   {
@@ -460,7 +460,7 @@ window.ITENS = [
     "precos": {
       "novo": 104720,
       "comoNovo": 46424,
-      "usado": null
+      "usado": 64578
     },
     "atributos": {
       "Classe": 4,
@@ -471,7 +471,7 @@ window.ITENS = [
     "durabilidade": {
       "novo": 40,
       "comoNovo": 34,
-      "usado": null
+      "usado": 28
     }
   },
   {
@@ -480,7 +480,7 @@ window.ITENS = [
     "precos": {
       "novo": 106400,
       "comoNovo": 46648,
-      "usado": null
+      "usado": 41880
     },
     "atributos": {
       "Classe": 4,
@@ -491,7 +491,7 @@ window.ITENS = [
     "durabilidade": {
       "novo": 45,
       "comoNovo": 38,
-      "usado": null
+      "usado": 32
     }
   },
   {
@@ -500,7 +500,7 @@ window.ITENS = [
     "precos": {
       "novo": 160650,
       "comoNovo": 61424,
-      "usado": null
+      "usado": 50908
     },
     "atributos": {
       "Classe": 4,
@@ -511,7 +511,7 @@ window.ITENS = [
     "durabilidade": {
       "novo": 50,
       "comoNovo": 42,
-      "usado": null
+      "usado": 35
     }
   },
   {
@@ -520,7 +520,7 @@ window.ITENS = [
     "precos": {
       "novo": 296478,
       "comoNovo": 256816,
-      "usado": null
+      "usado": 228456
     },
     "atributos": {
       "Classe": 5,
@@ -531,7 +531,7 @@ window.ITENS = [
     "durabilidade": {
       "novo": 65,
       "comoNovo": 55,
-      "usado": null
+      "usado": 46
     }
   },
   {
@@ -540,7 +540,7 @@ window.ITENS = [
     "precos": {
       "novo": 198720,
       "comoNovo": 159027,
-      "usado": null
+      "usado": 152693
     },
     "atributos": {
       "Classe": 5,
@@ -551,7 +551,7 @@ window.ITENS = [
     "durabilidade": {
       "novo": 50,
       "comoNovo": 42,
-      "usado": null
+      "usado": 35
     }
   },
   {
@@ -560,7 +560,7 @@ window.ITENS = [
     "precos": {
       "novo": 122360,
       "comoNovo": 110732,
-      "usado": null
+      "usado": 106974
     },
     "atributos": {
       "Classe": 5,
@@ -571,7 +571,7 @@ window.ITENS = [
     "durabilidade": {
       "novo": 60,
       "comoNovo": 51,
-      "usado": null
+      "usado": 42
     }
   },
   {
@@ -580,7 +580,7 @@ window.ITENS = [
     "precos": {
       "novo": 249602,
       "comoNovo": 125173,
-      "usado": null
+      "usado": 157412
     },
     "atributos": {
       "Classe": 5,
@@ -591,7 +591,7 @@ window.ITENS = [
     "durabilidade": {
       "novo": 50,
       "comoNovo": 42,
-      "usado": null
+      "usado": 35
     }
   },
   {
@@ -600,7 +600,7 @@ window.ITENS = [
     "precos": {
       "novo": 397082,
       "comoNovo": 283020,
-      "usado": null
+      "usado": 255668
     },
     "atributos": {
       "Classe": 5,
@@ -611,7 +611,7 @@ window.ITENS = [
     "durabilidade": {
       "novo": 45,
       "comoNovo": 38,
-      "usado": null
+      "usado": 32
     }
   },
   {
@@ -620,7 +620,7 @@ window.ITENS = [
     "precos": {
       "novo": 256360,
       "comoNovo": 170600,
-      "usado": null
+      "usado": 161082
     },
     "atributos": {
       "Classe": 5,
@@ -631,7 +631,7 @@ window.ITENS = [
     "durabilidade": {
       "novo": 55,
       "comoNovo": 47,
-      "usado": null
+      "usado": 38
     }
   },
   {
@@ -640,7 +640,7 @@ window.ITENS = [
     "precos": {
       "novo": 410400,
       "comoNovo": 328440,
-      "usado": null
+      "usado": 297366
     },
     "atributos": {
       "Classe": 5,
@@ -651,7 +651,7 @@ window.ITENS = [
     "durabilidade": {
       "novo": 55,
       "comoNovo": 47,
-      "usado": null
+      "usado": 38
     }
   },
   {
@@ -660,7 +660,7 @@ window.ITENS = [
     "precos": {
       "novo": 622512,
       "comoNovo": 539856,
-      "usado": null
+      "usado": 487808
     },
     "atributos": {
       "Classe": 6,
@@ -671,7 +671,7 @@ window.ITENS = [
     "durabilidade": {
       "novo": 75,
       "comoNovo": 64,
-      "usado": null
+      "usado": 52
     }
   },
   {
@@ -680,7 +680,7 @@ window.ITENS = [
     "precos": {
       "novo": 656513,
       "comoNovo": 602475,
-      "usado": null
+      "usado": 521649
     },
     "atributos": {
       "Classe": 6,
@@ -691,7 +691,7 @@ window.ITENS = [
     "durabilidade": {
       "novo": 75,
       "comoNovo": 64,
-      "usado": null
+      "usado": 52
     }
   },
   {
@@ -700,7 +700,7 @@ window.ITENS = [
     "precos": {
       "novo": 301506,
       "comoNovo": 289055,
-      "usado": null
+      "usado": 326304
     },
     "atributos": {
       "Classe": 6,
@@ -711,7 +711,7 @@ window.ITENS = [
     "durabilidade": {
       "novo": 70,
       "comoNovo": 60,
-      "usado": null
+      "usado": 49
     }
   },
   {
@@ -720,7 +720,7 @@ window.ITENS = [
     "precos": {
       "novo": 529317,
       "comoNovo": 404114,
-      "usado": null
+      "usado": 380046
     },
     "atributos": {
       "Classe": 6,
@@ -731,7 +731,7 @@ window.ITENS = [
     "durabilidade": {
       "novo": 60,
       "comoNovo": 51,
-      "usado": null
+      "usado": 42
     }
   },
   {
@@ -740,7 +740,7 @@ window.ITENS = [
     "precos": {
       "novo": 708468,
       "comoNovo": 586460,
-      "usado": null
+      "usado": 552816
     },
     "atributos": {
       "Classe": 6,
@@ -751,7 +751,7 @@ window.ITENS = [
     "durabilidade": {
       "novo": 75,
       "comoNovo": 64,
-      "usado": null
+      "usado": 52
     }
   },
   {
@@ -760,7 +760,7 @@ window.ITENS = [
     "precos": {
       "novo": 648000,
       "comoNovo": 434400,
-      "usado": null
+      "usado": 407175
     },
     "atributos": {
       "Classe": 6,
@@ -771,7 +771,7 @@ window.ITENS = [
     "durabilidade": {
       "novo": 65,
       "comoNovo": 55,
-      "usado": null
+      "usado": 46
     }
   }
 ];
