@@ -4190,5 +4190,122 @@ window.ITENS = [
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Granada de Atordoa…",
+    "grupo": "Item Tático",
+    "categoria": "Arma Arremessável",
+    "precos": {
+      "novo": 10500,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Coquetel Molotov",
+    "grupo": "Item Tático",
+    "categoria": "Arma Arremessável",
+    "precos": {
+      "novo": 7500,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Granada de fumaça …",
+    "grupo": "Item Tático",
+    "categoria": "Arma Arremessável",
+    "precos": {
+      "novo": 11520,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Granada de Flash M84",
+    "grupo": "Item Tático",
+    "categoria": "Arma Arremessável",
+    "precos": {
+      "novo": 9280,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Gás Lacrimogêneo GL…",
+    "grupo": "Item Tático",
+    "categoria": "Arma Arremessável",
+    "precos": {
+      "novo": 10960,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Granada de Fragmen…",
+    "grupo": "Item Tático",
+    "categoria": "Arma Arremessável",
+    "precos": {
+      "novo": 30107,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Granada Ofensiva GH…",
+    "grupo": "Item Tático",
+    "categoria": "Arma Arremessável",
+    "precos": {
+      "novo": 30191,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Granada de Fragmen…",
+    "grupo": "Item Tático",
+    "categoria": "Arma Arremessável",
+    "precos": {
+      "novo": 28404,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Granada de Choque E…",
+    "grupo": "Item Tático",
+    "categoria": "Arma Arremessável",
+    "precos": {
+      "novo": 27200,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
