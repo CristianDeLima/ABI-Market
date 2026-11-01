@@ -1001,7 +1001,10 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 4,
-      "Durab.": 35
+      "Durab.": 35,
+      "Peso": "1,50 kg",
+      "Material": "Composto",
+      "Área": "Rosto"
     },
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato",
@@ -1012,7 +1015,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Máscara à Prova de B…",
+    "nome": "Máscara à Prova de Balas Militar DK8",
     "grupo": "Equipamento",
     "categoria": "Máscara",
     "precos": {
@@ -1022,7 +1025,10 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 4,
-      "Durab.": 45
+      "Durab.": 45,
+      "Peso": "1,00 kg",
+      "Material": "Vidro",
+      "Área": "Rosto"
     },
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato",
@@ -1033,7 +1039,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Protetor Facial à Pr…",
+    "nome": "Protetor Facial à Prova de Balas Avançado DK7",
     "grupo": "Equipamento",
     "categoria": "Máscara",
     "precos": {
@@ -1043,7 +1049,10 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 4,
-      "Durab.": 50
+      "Durab.": 50,
+      "Peso": "1,80 kg",
+      "Material": "Vidro",
+      "Área": "Rosto"
     },
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato",
@@ -1054,7 +1063,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Protetor Facial à Pr…",
+    "nome": "Protetor Facial à Prova de Balas Militar AN95",
     "grupo": "Equipamento",
     "categoria": "Máscara",
     "precos": {
@@ -1064,7 +1073,10 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 4,
-      "Durab.": 50
+      "Durab.": 50,
+      "Peso": "1,40 kg",
+      "Material": "Vidro",
+      "Área": "Rosto"
     },
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato",
@@ -1075,7 +1087,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Protetor Facial Matz…",
+    "nome": "Protetor Facial Matzka SH",
     "grupo": "Equipamento",
     "categoria": "Máscara",
     "precos": {
@@ -1085,7 +1097,10 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 5,
-      "Durab.": 50
+      "Durab.": 50,
+      "Peso": "2,00 kg",
+      "Material": "Aço Endurecido",
+      "Área": "Rosto"
     },
     "atualizado": "2026-10-31",
     "obs": "",
@@ -1096,7 +1111,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Protetor Facial Mili…",
+    "nome": "Protetor Facial Militar A SH65",
     "grupo": "Equipamento",
     "categoria": "Máscara",
     "precos": {
@@ -1106,7 +1121,10 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 5,
-      "Durab.": 55
+      "Durab.": 55,
+      "Peso": "0,70 kg",
+      "Material": "Vidro",
+      "Área": "Rosto"
     },
     "atualizado": "2026-10-31",
     "obs": "",
@@ -1117,7 +1135,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Protetor Facial Expl…",
+    "nome": "Protetor Facial Explosão 6BNT",
     "grupo": "Equipamento",
     "categoria": "Máscara",
     "precos": {
@@ -1127,7 +1145,10 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 6,
-      "Durab.": 70
+      "Durab.": 70,
+      "Peso": "2,30 kg",
+      "Material": "Aço Endurecido",
+      "Área": "Rosto"
     },
     "atualizado": "2026-10-31",
     "obs": "",
@@ -1138,7 +1159,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Protetor Facial Mili…",
+    "nome": "Protetor Facial Militar B SH65",
     "grupo": "Equipamento",
     "categoria": "Máscara",
     "precos": {
@@ -1148,7 +1169,10 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 6,
-      "Durab.": 65
+      "Durab.": 65,
+      "Peso": "0,80 kg",
+      "Material": "Composto",
+      "Área": "Rosto"
     },
     "atualizado": "2026-10-31",
     "obs": "",
@@ -1159,7 +1183,7 @@ window.ITENS = [
     }
   },
   {
-    "nome": "Protetor Facial das …",
+    "nome": "Protetor Facial das Forças Especiais RST",
     "grupo": "Equipamento",
     "categoria": "Máscara",
     "precos": {
@@ -1169,7 +1193,10 @@ window.ITENS = [
     },
     "atributos": {
       "Classe": 6,
-      "Durab.": 70
+      "Durab.": 70,
+      "Peso": "1,40 kg",
+      "Material": "Alumínio",
+      "Área": "Rosto"
     },
     "atualizado": "2026-10-31",
     "obs": "",
