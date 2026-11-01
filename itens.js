@@ -3488,5 +3488,165 @@ window.ITENS = [
     },
     "atualizado": "2026-10-31",
     "obs": ""
+  },
+  {
+    "nome": "Chumbo Grosso Tipo …",
+    "grupo": "Munição",
+    "categoria": "12×70 mm",
+    "precos": {
+      "novo": 61,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 0
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Chumbo Grosso Tipo …",
+    "grupo": "Munição",
+    "categoria": "12×70 mm",
+    "precos": {
+      "novo": 206,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 0
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Chumbo Grosso Tipo …",
+    "grupo": "Munição",
+    "categoria": "12×70 mm",
+    "precos": {
+      "novo": 240,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 1
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Chumbo Grosso Flech…",
+    "grupo": "Munição",
+    "categoria": "12×70 mm",
+    "precos": {
+      "novo": 315,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 3
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Cartucho RIP 12×70 …",
+    "grupo": "Munição",
+    "categoria": "12×70 mm",
+    "precos": {
+      "novo": 320,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 0
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Cartucho Grizzly 12×…",
+    "grupo": "Munição",
+    "categoria": "12×70 mm",
+    "precos": {
+      "novo": 352,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 1
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Cartucho Led 12×70 …",
+    "grupo": "Munição",
+    "categoria": "12×70 mm",
+    "precos": {
+      "novo": 420,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 1
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Cartucho Duplo 12×7…",
+    "grupo": "Munição",
+    "categoria": "12×70 mm",
+    "precos": {
+      "novo": 444,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 1
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Cartucho GT 12×70 m…",
+    "grupo": "Munição",
+    "categoria": "12×70 mm",
+    "precos": {
+      "novo": 576,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 2
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Cartucho Perfurante …",
+    "grupo": "Munição",
+    "categoria": "12×70 mm",
+    "precos": {
+      "novo": 592,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 3
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
   }
 ];
