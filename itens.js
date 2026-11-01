@@ -6344,5 +6344,101 @@ window.ITENS = [
     },
     "atualizado": "2026-10-31",
     "obs": ""
+  },
+  {
+    "nome": "Chave da Comporta …",
+    "grupo": "Chave",
+    "categoria": "Chaves do Arsenal",
+    "precos": {
+      "novo": 615264,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 3
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Chave do Salão Priva…",
+    "grupo": "Chave",
+    "categoria": "Chaves do Arsenal",
+    "precos": {
+      "novo": 1442176,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 45
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cartão de Acesso do …",
+    "grupo": "Chave",
+    "categoria": "Chaves do Arsenal",
+    "precos": {
+      "novo": 409760,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 30
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Chave para o Salão d…",
+    "grupo": "Chave",
+    "categoria": "Chaves do Arsenal",
+    "precos": {
+      "novo": 1602793,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 45
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cartão de Acesso da …",
+    "grupo": "Chave",
+    "categoria": "Chaves do Arsenal",
+    "precos": {
+      "novo": 1786250,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 30
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cartão de Acesso da …",
+    "grupo": "Chave",
+    "categoria": "Chaves do Arsenal",
+    "precos": {
+      "novo": 1843410,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 30
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
