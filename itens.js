@@ -3776,5 +3776,101 @@ window.ITENS = [
     },
     "atualizado": "2026-10-31",
     "obs": ""
+  },
+  {
+    "nome": "Bebida Energética",
+    "grupo": "Item Médico",
+    "categoria": "Medicamentos",
+    "precos": {
+      "novo": 2088,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 1
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "NSAID",
+    "grupo": "Item Médico",
+    "categoria": "Medicamentos",
+    "precos": {
+      "novo": 1000,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 3
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Analgésico Cond.",
+    "grupo": "Item Médico",
+    "categoria": "Medicamentos",
+    "precos": {
+      "novo": 2880,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 1
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Analgésico Rápido",
+    "grupo": "Item Médico",
+    "categoria": "Medicamentos",
+    "precos": {
+      "novo": 13500,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 3
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Analgésico AP",
+    "grupo": "Item Médico",
+    "categoria": "Medicamentos",
+    "precos": {
+      "novo": 29400,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 6
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Analgésico Forte",
+    "grupo": "Item Médico",
+    "categoria": "Medicamentos",
+    "precos": {
+      "novo": 70488,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 8
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
   }
 ];
