@@ -3648,5 +3648,53 @@ window.ITENS = [
     },
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Munição LFNP Calibre…",
+    "grupo": "Munição",
+    "categoria": "Calibre .44",
+    "precos": {
+      "novo": 120,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 2
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Munição SJHP Calibr…",
+    "grupo": "Munição",
+    "categoria": "Calibre .44",
+    "precos": {
+      "novo": 280,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 3
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Munição JSP Calibre …",
+    "grupo": "Munição",
+    "categoria": "Calibre .44",
+    "precos": {
+      "novo": 740,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 4
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
   }
 ];
