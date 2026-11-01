@@ -6440,5 +6440,117 @@ window.ITENS = [
     },
     "atualizado": "2026-10-31",
     "obs": ""
+  },
+  {
+    "nome": "Chave do Escritório …",
+    "grupo": "Chave",
+    "categoria": "Chaves Estação de TV",
+    "precos": {
+      "novo": 1722570,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 30
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Chave da Sala Escura",
+    "grupo": "Chave",
+    "categoria": "Chaves Estação de TV",
+    "precos": {
+      "novo": 2297120,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 45
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Chave da Enfermaria",
+    "grupo": "Chave",
+    "categoria": "Chaves Estação de TV",
+    "precos": {
+      "novo": 2353384,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 45
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cartão do Escritório…",
+    "grupo": "Chave",
+    "categoria": "Chaves Estação de TV",
+    "precos": {
+      "novo": 2330028,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 30
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Chave da Sala de Pós…",
+    "grupo": "Chave",
+    "categoria": "Chaves Estação de TV",
+    "precos": {
+      "novo": 2840700,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 30
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Chave da Sala de Edi…",
+    "grupo": "Chave",
+    "categoria": "Chaves Estação de TV",
+    "precos": {
+      "novo": 2813799,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 30
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Chave da Sala de Pla…",
+    "grupo": "Chave",
+    "categoria": "Chaves Estação de TV",
+    "precos": {
+      "novo": 3172727,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 30
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
