@@ -3232,5 +3232,69 @@ window.ITENS = [
     },
     "atualizado": "2026-10-31",
     "obs": ""
+  },
+  {
+    "nome": "Munição UN 7,62×51 …",
+    "grupo": "Munição",
+    "categoria": "7,62×51 mm",
+    "precos": {
+      "novo": 132,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 1
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Munição BPZ FMJ 7,6…",
+    "grupo": "Munição",
+    "categoria": "7,62×51 mm",
+    "precos": {
+      "novo": 629,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 3
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Munição M80 7,62×5…",
+    "grupo": "Munição",
+    "categoria": "7,62×51 mm",
+    "precos": {
+      "novo": 1406,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 4
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Munição M62 7,62×5…",
+    "grupo": "Munição",
+    "categoria": "7,62×51 mm",
+    "precos": {
+      "novo": 18620,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 5
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
