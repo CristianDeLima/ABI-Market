@@ -8997,5 +8997,356 @@ window.ITENS = [
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
     "obs": ""
+  },
+  {
+    "nome": "Espora",
+    "grupo": "Variedade",
+    "categoria": "Item Colecionável",
+    "precos": {
+      "novo": 10464,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Emblema de Prata",
+    "grupo": "Variedade",
+    "categoria": "Item Colecionável",
+    "precos": {
+      "novo": 10508,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Selo",
+    "grupo": "Variedade",
+    "categoria": "Item Colecionável",
+    "precos": {
+      "novo": 16992,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Moeda Comemorativa",
+    "grupo": "Variedade",
+    "categoria": "Item Colecionável",
+    "precos": {
+      "novo": 14500,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Corrente de Prata",
+    "grupo": "Variedade",
+    "categoria": "Item Colecionável",
+    "precos": {
+      "novo": 14600,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Relógio de Bolso",
+    "grupo": "Variedade",
+    "categoria": "Item Colecionável",
+    "precos": {
+      "novo": 28224,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Relógio de Mesa",
+    "grupo": "Variedade",
+    "categoria": "Item Colecionável",
+    "precos": {
+      "novo": 54591,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Óculos com Armação …",
+    "grupo": "Variedade",
+    "categoria": "Item Colecionável",
+    "precos": {
+      "novo": 29600,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Faca de Caça Artesa…",
+    "grupo": "Variedade",
+    "categoria": "Item Colecionável",
+    "precos": {
+      "novo": 32150,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Escultura de Gesso",
+    "grupo": "Variedade",
+    "categoria": "Item Colecionável",
+    "precos": {
+      "novo": 57507,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Relógio de Ouro",
+    "grupo": "Variedade",
+    "categoria": "Item Colecionável",
+    "precos": {
+      "novo": 80950,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Pulseira de Ouro",
+    "grupo": "Variedade",
+    "categoria": "Item Colecionável",
+    "precos": {
+      "novo": 81950,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Anel de Diamante",
+    "grupo": "Variedade",
+    "categoria": "Item Colecionável",
+    "precos": {
+      "novo": 82950,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Broche",
+    "grupo": "Variedade",
+    "categoria": "Item Colecionável",
+    "precos": {
+      "novo": 83950,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Estátua de Leopardo…",
+    "grupo": "Variedade",
+    "categoria": "Item Colecionável",
+    "precos": {
+      "novo": 87950,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Bengala decorativa",
+    "grupo": "Variedade",
+    "categoria": "Item Colecionável",
+    "precos": {
+      "novo": 90950,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Álbum de Selo",
+    "grupo": "Variedade",
+    "categoria": "Item Colecionável",
+    "precos": {
+      "novo": 92950,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cubo de Rubik Doura…",
+    "grupo": "Variedade",
+    "categoria": "Item Colecionável",
+    "precos": {
+      "novo": 293040,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Bloco de Ouro",
+    "grupo": "Variedade",
+    "categoria": "Item Colecionável",
+    "precos": {
+      "novo": 270850,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Taça de Ouro",
+    "grupo": "Variedade",
+    "categoria": "Item Colecionável",
+    "precos": {
+      "novo": 275300,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Porcelana",
+    "grupo": "Variedade",
+    "categoria": "Item Colecionável",
+    "precos": {
+      "novo": 293050,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Toca Discos",
+    "grupo": "Variedade",
+    "categoria": "Item Colecionável",
+    "precos": {
+      "novo": 297500,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Máquina de escrever …",
+    "grupo": "Variedade",
+    "categoria": "Item Colecionável",
+    "precos": {
+      "novo": 301950,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Bracelete de Jade",
+    "grupo": "Variedade",
+    "categoria": "Item Colecionável",
+    "precos": {
+      "novo": 456650,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Caneta de Ouro",
+    "grupo": "Variedade",
+    "categoria": "Item Colecionável",
+    "precos": {
+      "novo": 458400,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Modelo de Satélite S…",
+    "grupo": "Variedade",
+    "categoria": "Item Colecionável",
+    "precos": {
+      "novo": 516175,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Minério de Diamante …",
+    "grupo": "Variedade",
+    "categoria": "Item Colecionável",
+    "precos": {
+      "novo": 538272,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
