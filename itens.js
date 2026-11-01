@@ -779,7 +779,7 @@ window.ITENS = [
     "categoria": "Máscara",
     "precos": {
       "novo": 11556,
-      "comoNovo": null,
+      "comoNovo": 9393,
       "usado": null
     },
     "atributos": {
@@ -790,7 +790,7 @@ window.ITENS = [
     "obs": "Pode ser trocado com Contato",
     "durabilidade": {
       "novo": 40,
-      "comoNovo": null,
+      "comoNovo": 34,
       "usado": null
     }
   },
@@ -799,7 +799,7 @@ window.ITENS = [
     "categoria": "Máscara",
     "precos": {
       "novo": 20736,
-      "comoNovo": null,
+      "comoNovo": 16137,
       "usado": null
     },
     "atributos": {
@@ -810,7 +810,7 @@ window.ITENS = [
     "obs": "Pode ser trocado com Contato",
     "durabilidade": {
       "novo": 30,
-      "comoNovo": null,
+      "comoNovo": 26,
       "usado": null
     }
   },
@@ -819,7 +819,7 @@ window.ITENS = [
     "categoria": "Máscara",
     "precos": {
       "novo": 27675,
-      "comoNovo": null,
+      "comoNovo": 23247,
       "usado": null
     },
     "atributos": {
@@ -830,7 +830,7 @@ window.ITENS = [
     "obs": "Pode ser trocado com Contato",
     "durabilidade": {
       "novo": 45,
-      "comoNovo": null,
+      "comoNovo": 38,
       "usado": null
     }
   },
@@ -839,7 +839,7 @@ window.ITENS = [
     "categoria": "Máscara",
     "precos": {
       "novo": 21754,
-      "comoNovo": null,
+      "comoNovo": 9918,
       "usado": null
     },
     "atributos": {
@@ -850,7 +850,7 @@ window.ITENS = [
     "obs": "Pode ser trocado com Contato",
     "durabilidade": {
       "novo": 35,
-      "comoNovo": null,
+      "comoNovo": 30,
       "usado": null
     }
   },
@@ -859,7 +859,7 @@ window.ITENS = [
     "categoria": "Máscara",
     "precos": {
       "novo": 42673,
-      "comoNovo": null,
+      "comoNovo": 37391,
       "usado": null
     },
     "atributos": {
@@ -870,7 +870,7 @@ window.ITENS = [
     "obs": "Pode ser trocado com Contato",
     "durabilidade": {
       "novo": 45,
-      "comoNovo": null,
+      "comoNovo": 38,
       "usado": null
     }
   },
@@ -879,7 +879,7 @@ window.ITENS = [
     "categoria": "Máscara",
     "precos": {
       "novo": 21012,
-      "comoNovo": null,
+      "comoNovo": 19728,
       "usado": null
     },
     "atributos": {
@@ -890,7 +890,7 @@ window.ITENS = [
     "obs": "Pode ser trocado com Contato",
     "durabilidade": {
       "novo": 50,
-      "comoNovo": null,
+      "comoNovo": 42,
       "usado": null
     }
   },
@@ -899,7 +899,7 @@ window.ITENS = [
     "categoria": "Máscara",
     "precos": {
       "novo": 28350,
-      "comoNovo": null,
+      "comoNovo": 28840,
       "usado": null
     },
     "atributos": {
@@ -910,7 +910,7 @@ window.ITENS = [
     "obs": "Pode ser trocado com Contato",
     "durabilidade": {
       "novo": 50,
-      "comoNovo": null,
+      "comoNovo": 42,
       "usado": null
     }
   },
@@ -919,7 +919,7 @@ window.ITENS = [
     "categoria": "Máscara",
     "precos": {
       "novo": 89913,
-      "comoNovo": null,
+      "comoNovo": 26502,
       "usado": null
     },
     "atributos": {
@@ -930,7 +930,7 @@ window.ITENS = [
     "obs": "",
     "durabilidade": {
       "novo": 50,
-      "comoNovo": null,
+      "comoNovo": 42,
       "usado": null
     }
   },
@@ -939,7 +939,7 @@ window.ITENS = [
     "categoria": "Máscara",
     "precos": {
       "novo": 27360,
-      "comoNovo": null,
+      "comoNovo": 31296,
       "usado": null
     },
     "atributos": {
@@ -950,7 +950,7 @@ window.ITENS = [
     "obs": "",
     "durabilidade": {
       "novo": 55,
-      "comoNovo": null,
+      "comoNovo": 47,
       "usado": null
     }
   },
@@ -959,7 +959,7 @@ window.ITENS = [
     "categoria": "Máscara",
     "precos": {
       "novo": 101520,
-      "comoNovo": null,
+      "comoNovo": 37544,
       "usado": null
     },
     "atributos": {
@@ -970,7 +970,7 @@ window.ITENS = [
     "obs": "",
     "durabilidade": {
       "novo": 70,
-      "comoNovo": null,
+      "comoNovo": 60,
       "usado": null
     }
   },
@@ -979,7 +979,7 @@ window.ITENS = [
     "categoria": "Máscara",
     "precos": {
       "novo": 126000,
-      "comoNovo": null,
+      "comoNovo": 51604,
       "usado": null
     },
     "atributos": {
@@ -990,7 +990,7 @@ window.ITENS = [
     "obs": "",
     "durabilidade": {
       "novo": 65,
-      "comoNovo": null,
+      "comoNovo": 55,
       "usado": null
     }
   },
@@ -999,7 +999,7 @@ window.ITENS = [
     "categoria": "Máscara",
     "precos": {
       "novo": 286848,
-      "comoNovo": null,
+      "comoNovo": 163980,
       "usado": null
     },
     "atributos": {
@@ -1010,7 +1010,7 @@ window.ITENS = [
     "obs": "",
     "durabilidade": {
       "novo": 70,
-      "comoNovo": null,
+      "comoNovo": 60,
       "usado": null
     }
   }
