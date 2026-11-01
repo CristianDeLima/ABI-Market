@@ -19,8 +19,7 @@ window.GRUPOS = ["Equipamento", "Peça de Arma", "Ferrolhos", "Munição", "Item
 
 // Pendências: categorias ou dados que ainda faltam enviar.
 window.PENDENCIAS = [
-  { item: "Peça de Arma", nota: "Mira, Carregador, Cabo Frontal, Cabo Traseiro, Coronha, Bocal, Ponta Laser, Cano, Guarda-mão, Receptor/Capa de Poeira, Trilho, Bloco de Gás, Alavanca de Ferrolho e Lanterna já cadastrados (Cabo Frontal estava indisponível no mercado). Faltam as outras subcategorias." },
-  { item: "Máscaras de Gás", nota: "Confirmar se existem preços Como nova e Usada." }
+  { item: "Peça de Arma", nota: "Mira, Carregador, Cabo Frontal, Cabo Traseiro, Coronha, Bocal, Ponta Laser, Cano, Guarda-mão, Receptor/Capa de Poeira, Trilho, Bloco de Gás, Alavanca de Ferrolho e Lanterna já cadastrados (Cabo Frontal estava indisponível no mercado). Faltam as outras subcategorias." }
 ];
 
 window.ITENS = [
@@ -2579,11 +2578,7 @@ window.ITENS = [
     },
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato",
-    "durabilidade": {
-      "novo": 30,
-      "comoNovo": null,
-      "usado": null
-    }
+    "qualidadeUnica": true
   },
   {
     "nome": "Meia-máscara RAL20",
@@ -2599,11 +2594,7 @@ window.ITENS = [
     },
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato",
-    "durabilidade": {
-      "novo": 35,
-      "comoNovo": null,
-      "usado": null
-    }
+    "qualidadeUnica": true
   },
   {
     "nome": "Máscara de Gás Com…",
@@ -2619,11 +2610,7 @@ window.ITENS = [
     },
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato",
-    "durabilidade": {
-      "novo": 45,
-      "comoNovo": null,
-      "usado": null
-    }
+    "qualidadeUnica": true
   },
   {
     "nome": "Máscara de Gás Univ…",
@@ -2639,11 +2626,7 @@ window.ITENS = [
     },
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato",
-    "durabilidade": {
-      "novo": 35,
-      "comoNovo": null,
-      "usado": null
-    }
+    "qualidadeUnica": true
   },
   {
     "nome": "Máscara de Gás SH-4",
@@ -2659,11 +2642,7 @@ window.ITENS = [
     },
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato",
-    "durabilidade": {
-      "novo": 45,
-      "comoNovo": null,
-      "usado": null
-    }
+    "qualidadeUnica": true
   },
   {
     "nome": "Máscara de Gás Ócul…",
@@ -2679,11 +2658,7 @@ window.ITENS = [
     },
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato",
-    "durabilidade": {
-      "novo": 55,
-      "comoNovo": null,
-      "usado": null
-    }
+    "qualidadeUnica": true
   },
   {
     "nome": "Máscara de Gás Avan…",
@@ -2699,11 +2674,7 @@ window.ITENS = [
     },
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato",
-    "durabilidade": {
-      "novo": 60,
-      "comoNovo": null,
-      "usado": null
-    }
+    "qualidadeUnica": true
   },
   {
     "nome": "Munição PRS 5,45×39…",
