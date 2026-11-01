@@ -7554,5 +7554,148 @@ window.ITENS = [
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
     "obs": ""
+  },
+  {
+    "nome": "Bateria",
+    "grupo": "Variedade",
+    "categoria": "Item de Energia",
+    "precos": {
+      "novo": 2574,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Bateria tamanho-D",
+    "grupo": "Variedade",
+    "categoria": "Item de Energia",
+    "precos": {
+      "novo": 5588,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Bateria do Celular",
+    "grupo": "Variedade",
+    "categoria": "Item de Energia",
+    "precos": {
+      "novo": 9144,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Powerbank",
+    "grupo": "Variedade",
+    "categoria": "Item de Energia",
+    "precos": {
+      "novo": 8760,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Painel Solar",
+    "grupo": "Variedade",
+    "categoria": "Item de Energia",
+    "precos": {
+      "novo": 44469,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Analisador de Capaci…",
+    "grupo": "Variedade",
+    "categoria": "Item de Energia",
+    "precos": {
+      "novo": 23142,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carregador Solar",
+    "grupo": "Variedade",
+    "categoria": "Item de Energia",
+    "precos": {
+      "novo": 39040,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Pack de Bateria Ni-C…",
+    "grupo": "Variedade",
+    "categoria": "Item de Energia",
+    "precos": {
+      "novo": 40280,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Bateria de Carro",
+    "grupo": "Variedade",
+    "categoria": "Item de Energia",
+    "precos": {
+      "novo": 147003,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Módulo de Eletrodo P…",
+    "grupo": "Variedade",
+    "categoria": "Item de Energia",
+    "precos": {
+      "novo": 243352,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Pacote de Bateria",
+    "grupo": "Variedade",
+    "categoria": "Item de Energia",
+    "precos": {
+      "novo": 262880,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
