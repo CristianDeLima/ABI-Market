@@ -8,5 +8,5 @@ window.PARTIDAS = [
   { n: 6, data: "2026-11-01", entrada: 167280,  saida: 2634688, status: "extraiu" },
   { n: 7, data: "2026-11-01", entrada: 675360,  saida: 4268160, status: "extraiu" },
   { n: 9, data: "2026-11-01", entrada: 301462,  saida: 3155430, status: "extraiu" },
-  { n: 10, data: "2026-11-01", entrada: 850076, saida: null,    status: "em andamento" }
+  { n: 10, data: "2026-11-01", entrada: 850076, saida: 8001634, status: "extraiu" }
 ];
