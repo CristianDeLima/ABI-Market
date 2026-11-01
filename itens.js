@@ -19,7 +19,7 @@ window.GRUPOS = ["Equipamento", "Peça de Arma", "Ferrolhos", "Munição", "Item
 
 // Pendências: categorias ou dados que ainda faltam enviar.
 window.PENDENCIAS = [
-  { item: "Peça de Arma", nota: "Mira, Carregador, Cabo Frontal, Cabo Traseiro, Coronha, Bocal, Ponta Laser, Cano, Guarda-mão e Receptor/Capa de Poeira já cadastrados (Cabo Frontal estava indisponível no mercado). Faltam as outras subcategorias." },
+  { item: "Peça de Arma", nota: "Mira, Carregador, Cabo Frontal, Cabo Traseiro, Coronha, Bocal, Ponta Laser, Cano, Guarda-mão, Receptor/Capa de Poeira e Trilho já cadastrados (Cabo Frontal estava indisponível no mercado). Faltam as outras subcategorias." },
   { item: "Máscaras de Gás", nota: "Confirmar se existem preços Como nova e Usada." }
 ];
 
@@ -22686,6 +22686,1098 @@ window.ITENS = [
     "categoria": "Receptor/Capa de Poeira",
     "precos": {
       "novo": 29304,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Base de Mira Univers…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 1360,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho Superior UZI",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 1504,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho Longo Carabin…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 1344,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho Tático M1911",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 1312,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho Especial M191…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 1488,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho Especial M3A1",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 1360,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho Superior de L…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 1344,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho Superior Espe…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 1653,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho Superior T79",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 1740,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Almofada de elevaçã…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 1701,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Minitrilho de Mira R…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 1886,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Suporte de Mira de R…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 1863,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Suporte de Mira de E…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 2280,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho Superior Espe…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 2088,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho T85",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 2232,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho de Encaixe do…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 2002,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho Estendido MP5",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 2314,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Base de Mira Tática …",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 2314,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Base de Mira de Pist…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 2366,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho Superior Mini…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 1196,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Trilho Cabo Frontal …",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 2262,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho Superior de M…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 1363,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Trilho Inferior de M…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 1363,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Trilho de Mira de Al…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 1682,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Suporte de Luneta d…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 1504,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Trilho de Mira de Fe…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 3150,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Almofada de elevaçã…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 3096,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho de Trava Modu…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 3852,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Suporte de Mira Híbr…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 2652,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Anel de Luneta 34mm",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 2925,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho Inferior FAMA…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 5109,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho Superior FAMA…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 5148,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho Superior T03",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 3783,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho de Trava Modu…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 7240,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho superior de M…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 3864,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Trilho AKS 74U",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 2112,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Trilho Tático ACE31",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 2112,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Trilho Inferior SCAR…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 1848,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho de Rifle Acio…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 6688,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Trilho RMR Especial …",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 4500,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "F57 Mul.T",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 4545,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho Lateral Vecto…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 4464,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Trilho de Mira Exclu…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 4032,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho de Trava Modu…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 10400,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho Inferior Vect…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 4450,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Trilho Superior Vaza…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 4590,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Suporte de Mira de T…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 5151,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Base de Mira Especia…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 4674,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Base de Mira SVTU Es…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 5358,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Trilho Especial UMP4…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 5040,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Base Anel Visor 3.5x",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 2580,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Trilho de Trava Modu…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 6784,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho Superior T951",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 2432,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho Lateral T951",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 3648,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho de Mira Trase…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 2470,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho Superior do R…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 6955,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho de Guarda-mã…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 6370,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Capa de Trilho Longo…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 2470,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho Lateral MAC10",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 6370,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho Triplo T951",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 2925,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Capa do Receptor Su…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 6435,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho Tático RPK16",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 3102,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Trilho Lateral do Re…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 7840,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho de Mira de Am…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 3384,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Trilho Lateral Incli…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 6720,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho de Extensão d…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 9040,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Painel do Trilho Sér…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 6800,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Anel Guarda-mão SV…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 10962,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho VSS B 3",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 9483,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho Superior SJ16",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 18270,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho Superior Espe…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 5238,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Trilho Superior Espe…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 17363,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho Triplo de Mir…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 11856,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Trilho Lateral SCAR-…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 13456,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho Triplo VSS",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 17292,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho Inferior SVD",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 22752,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho Combo VSS B 3",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 8164,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho Receptor Supe…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 17400,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Trilho de Capa Contr…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 19359,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho Especial MK14",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 31070,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho Inferior SVDS",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 27550,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho Superior do T…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 23571,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho de Luneta Pic…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 33060,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Trilho Picatinny Cob…",
+    "grupo": "Peça de Arma",
+    "categoria": "Trilho",
+    "precos": {
+      "novo": 22040,
       "comoNovo": null,
       "usado": null
     },
