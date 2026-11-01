@@ -5512,5 +5512,21 @@ window.ITENS = [
     },
     "atualizado": "2026-10-31",
     "obs": ""
+  },
+  {
+    "nome": "Metralhadora Leve RPK6",
+    "grupo": "Ferrolhos",
+    "categoria": "Metralhadora Leve",
+    "precos": {
+      "novo": 84626,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "5,45×39"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
