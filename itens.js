@@ -3696,5 +3696,53 @@ window.ITENS = [
     },
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Munição FMJ Calibre …",
+    "grupo": "Munição",
+    "categoria": "Calibre .45",
+    "precos": {
+      "novo": 40,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 1
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Munição HS Calibre .…",
+    "grupo": "Munição",
+    "categoria": "Calibre .45",
+    "precos": {
+      "novo": 114,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 1
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Munição AP Calibre .…",
+    "grupo": "Munição",
+    "categoria": "Calibre .45",
+    "precos": {
+      "novo": 518,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 3
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
