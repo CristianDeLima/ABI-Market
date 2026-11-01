@@ -164,7 +164,8 @@ window.ITENS = [
       "Bloqueio sonoro": "Nenhum",
       "Área": "Cabeça",
       "Vel. movimento": "-1%",
-      "Acessórios": "Máscara, Equipamento"
+      "Acessórios": "Máscara, Equipamento",
+      "Máscara compatível": "DK8"
     },
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato",
