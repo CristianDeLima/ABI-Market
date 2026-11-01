@@ -6552,5 +6552,149 @@ window.ITENS = [
     },
     "atualizado": "2026-10-31",
     "obs": ""
+  },
+  {
+    "nome": "Chave da Sala dos Fu…",
+    "grupo": "Chave",
+    "categoria": "Chaves do Aeroporto",
+    "precos": {
+      "novo": 252852,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 30
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Chave do Armazém d…",
+    "grupo": "Chave",
+    "categoria": "Chaves do Aeroporto",
+    "precos": {
+      "novo": 612902,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 30
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Chave da Sala de Uti…",
+    "grupo": "Chave",
+    "categoria": "Chaves do Aeroporto",
+    "precos": {
+      "novo": 619590,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 30
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Chave da Área de Ins…",
+    "grupo": "Chave",
+    "categoria": "Chaves do Aeroporto",
+    "precos": {
+      "novo": 620958,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 30
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Chave do Salão Exec…",
+    "grupo": "Chave",
+    "categoria": "Chaves do Aeroporto",
+    "precos": {
+      "novo": 621452,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 30
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cartão de Permissão…",
+    "grupo": "Chave",
+    "categoria": "Chaves do Aeroporto",
+    "precos": {
+      "novo": 992160,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 30
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Chave da Sala de Con…",
+    "grupo": "Chave",
+    "categoria": "Chaves do Aeroporto",
+    "precos": {
+      "novo": 760702,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 30
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cartão de Acesso da …",
+    "grupo": "Chave",
+    "categoria": "Chaves do Aeroporto",
+    "precos": {
+      "novo": 637488,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 30
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cartão de Acesso Ar…",
+    "grupo": "Chave",
+    "categoria": "Chaves do Aeroporto",
+    "precos": {
+      "novo": 1487130,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 30
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
