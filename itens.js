@@ -1593,5 +1593,233 @@ window.ITENS = [
       "comoNovo": 94,
       "usado": 77
     }
+  },
+  {
+    "nome": "Colete Peitoral de I…",
+    "categoria": "Colete não blindado",
+    "precos": {
+      "novo": 2385,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Colete de Transport…",
+    "categoria": "Colete não blindado",
+    "precos": {
+      "novo": 2673,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Colete de Caça",
+    "categoria": "Colete não blindado",
+    "precos": {
+      "novo": 3072,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Colete de Couro para…",
+    "categoria": "Colete não blindado",
+    "precos": {
+      "novo": 5040,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Colete Punk para Mo…",
+    "categoria": "Colete não blindado",
+    "precos": {
+      "novo": 4896,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Colete Peitoral BH2",
+    "categoria": "Colete não blindado",
+    "precos": {
+      "novo": 15755,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Colete Leve 926",
+    "categoria": "Colete não blindado",
+    "precos": {
+      "novo": 19560,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Colete Tático de Ser…",
+    "categoria": "Colete não blindado",
+    "precos": {
+      "novo": 33264,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Colete Peitoral Simp…",
+    "categoria": "Colete não blindado",
+    "precos": {
+      "novo": 50040,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Colete Peitoral Stor…",
+    "categoria": "Colete não blindado",
+    "precos": {
+      "novo": 40986,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Colete Peitoral Univ…",
+    "categoria": "Colete não blindado",
+    "precos": {
+      "novo": 65436,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Colete Caçador 926",
+    "categoria": "Colete não blindado",
+    "precos": {
+      "novo": 66300,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Colete Peitoral Mult…",
+    "categoria": "Colete não blindado",
+    "precos": {
+      "novo": 103086,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Colete Peitoral Táti…",
+    "categoria": "Colete não blindado",
+    "precos": {
+      "novo": 64155,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Colete Peitoral Táti…",
+    "categoria": "Colete não blindado",
+    "precos": {
+      "novo": 123440,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Colete Peitoral Com…",
+    "categoria": "Colete não blindado",
+    "precos": {
+      "novo": 138773,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Colete Peitoral Táti…",
+    "categoria": "Colete não blindado",
+    "precos": {
+      "novo": 108000,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Colete Peitoral Táti…",
+    "categoria": "Colete não blindado",
+    "precos": {
+      "novo": 119250,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Colete Peitoral de C…",
+    "categoria": "Colete não blindado",
+    "precos": {
+      "novo": 166830,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
   }
 ];

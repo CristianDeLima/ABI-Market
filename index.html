@@ -90,6 +90,7 @@ tbody tr:hover { background: color-mix(in srgb, var(--chip) 55%, transparent); }
 th.num { text-align: right; }
 .preco.vazio { color: var(--muted); }
 .q { display: none; }
+.na { font-size: 11px; }
 .dur { display: block; font: 11px var(--f-mono); color: var(--muted); }
 .koen { color: var(--muted); font-size: 12px; margin-left: 4px; }
 .attrs { display: flex; flex-wrap: wrap; gap: 4px; }
@@ -195,6 +196,7 @@ footer { font: 12px var(--f-mono); color: var(--muted); }
   function precoRef(i) { var v = preco(i, "novo"); if (v == null) v = preco(i, "comoNovo"); if (v == null) v = preco(i, "usado"); return v == null ? 0 : v; }
   function celPreco(i, q, rot) {
     var v = preco(i, q);
+    if (i.qualidadeUnica && q !== "novo") return '<td class="c-preco preco vazio"><span class="q">' + rot + '</span><span class="na">sem qualidade</span></td>';
     return '<td class="c-preco preco' + (v == null ? " vazio" : "") + '"><span class="q">' + rot + "</span>" +
       (v != null ? fmt.format(v) + '<span class="koen">K</span>' : "—") +
       (v != null && i.durabilidade && i.durabilidade[q] != null && i.atributos && i.atributos["Durab."] ? '<span class="dur">' + i.durabilidade[q] + "/" + i.atributos["Durab."] + "</span>" : "") + "</td>";
