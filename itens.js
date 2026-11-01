@@ -4465,5 +4465,252 @@ window.ITENS = [
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
     "obs": ""
+  },
+  {
+    "nome": "Biscoito Duro Compri…",
+    "grupo": "Provisão",
+    "categoria": "Comida",
+    "precos": {
+      "novo": 315,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Salgadinho Sabor Pe…",
+    "grupo": "Provisão",
+    "categoria": "Comida",
+    "precos": {
+      "novo": 324,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Salgadinho Clássico",
+    "grupo": "Provisão",
+    "categoria": "Comida",
+    "precos": {
+      "novo": 345,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carne Enlatada",
+    "grupo": "Provisão",
+    "categoria": "Comida",
+    "precos": {
+      "novo": 798,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Molho de Feijão Doce…",
+    "grupo": "Provisão",
+    "categoria": "Comida",
+    "precos": {
+      "novo": 763,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Feijão Cozido Hongy…",
+    "grupo": "Provisão",
+    "categoria": "Comida",
+    "precos": {
+      "novo": 832,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Peixe Assado Com To…",
+    "grupo": "Provisão",
+    "categoria": "Comida",
+    "precos": {
+      "novo": 936,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Pescado Enlatado",
+    "grupo": "Provisão",
+    "categoria": "Comida",
+    "precos": {
+      "novo": 1044,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Leite Condensado Ca…",
+    "grupo": "Provisão",
+    "categoria": "Comida",
+    "precos": {
+      "novo": 927,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Ração de Campo de C…",
+    "grupo": "Provisão",
+    "categoria": "Comida",
+    "precos": {
+      "novo": 1080,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Açúcar Hongyang",
+    "grupo": "Provisão",
+    "categoria": "Comida",
+    "precos": {
+      "novo": 1254,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Ensopado Enlatado",
+    "grupo": "Provisão",
+    "categoria": "Comida",
+    "precos": {
+      "novo": 1298,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Floco de Milho",
+    "grupo": "Provisão",
+    "categoria": "Comida",
+    "precos": {
+      "novo": 1080,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Ração Especial de Ca…",
+    "grupo": "Provisão",
+    "categoria": "Comida",
+    "precos": {
+      "novo": 1456,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mel Nightingale",
+    "grupo": "Provisão",
+    "categoria": "Comida",
+    "precos": {
+      "novo": 1560,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Arenque Salgado Enl…",
+    "grupo": "Provisão",
+    "categoria": "Comida",
+    "precos": {
+      "novo": 1512,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Bolacha",
+    "grupo": "Provisão",
+    "categoria": "Comida",
+    "precos": {
+      "novo": 933,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Barra Energética Ori…",
+    "grupo": "Provisão",
+    "categoria": "Comida",
+    "precos": {
+      "novo": 2520,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Barra Energética Ult…",
+    "grupo": "Provisão",
+    "categoria": "Comida",
+    "precos": {
+      "novo": 2691,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
