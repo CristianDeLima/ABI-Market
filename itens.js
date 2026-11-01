@@ -2704,5 +2704,101 @@ window.ITENS = [
       "comoNovo": null,
       "usado": null
     }
+  },
+  {
+    "nome": "Munição PRS 5,45×39…",
+    "grupo": "Munição",
+    "categoria": "5,45×39 mm",
+    "precos": {
+      "novo": 86,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 1
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Munição PS 5,45×39…",
+    "grupo": "Munição",
+    "categoria": "5,45×39 mm",
+    "precos": {
+      "novo": 111,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 2
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Munição PP 5,45×39…",
+    "grupo": "Munição",
+    "categoria": "5,45×39 mm",
+    "precos": {
+      "novo": 180,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 3
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Munição HP 5,45×39…",
+    "grupo": "Munição",
+    "categoria": "5,45×39 mm",
+    "precos": {
+      "novo": 280,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 1
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Munição PB 5,45×39…",
+    "grupo": "Munição",
+    "categoria": "5,45×39 mm",
+    "precos": {
+      "novo": 2002,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 4
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Munição BS 5,45×39…",
+    "grupo": "Munição",
+    "categoria": "5,45×39 mm",
+    "precos": {
+      "novo": 6960,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 5
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
