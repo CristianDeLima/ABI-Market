@@ -4000,5 +4000,117 @@ window.ITENS = [
     },
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Caixa de Socorros Si…",
+    "grupo": "Item Médico",
+    "categoria": "Kit Médico",
+    "precos": {
+      "novo": 1372,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Pontos de cura": 80
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Kit P. Socorros Mili…",
+    "grupo": "Item Médico",
+    "categoria": "Kit Médico",
+    "precos": {
+      "novo": 2000,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Pontos de cura": 120
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Kit P. Socorros Rápi…",
+    "grupo": "Item Médico",
+    "categoria": "Kit Médico",
+    "precos": {
+      "novo": 9200,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Pontos de cura": 220
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Kit Médico Militar E…",
+    "grupo": "Item Médico",
+    "categoria": "Kit Médico",
+    "precos": {
+      "novo": 14760,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Pontos de cura": 300
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Kit Médico Campo de…",
+    "grupo": "Item Médico",
+    "categoria": "Kit Médico",
+    "precos": {
+      "novo": 40950,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Pontos de cura": 400
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Kit Médico de Campo…",
+    "grupo": "Item Médico",
+    "categoria": "Kit Médico",
+    "precos": {
+      "novo": 71262,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Pontos de cura": 960
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Conjunto P. Socorros…",
+    "grupo": "Item Médico",
+    "categoria": "Kit Médico",
+    "precos": {
+      "novo": 91575,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Pontos de cura": 1200
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
   }
 ];
