@@ -8685,5 +8685,317 @@ window.ITENS = [
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
     "obs": ""
+  },
+  {
+    "nome": "Termômetro Simples",
+    "grupo": "Variedade",
+    "categoria": "Itens Médicos Diversos",
+    "precos": {
+      "novo": 1818,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Bolas de Algodão",
+    "grupo": "Variedade",
+    "categoria": "Itens Médicos Diversos",
+    "precos": {
+      "novo": 1854,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "NaCl",
+    "grupo": "Variedade",
+    "categoria": "Itens Médicos Diversos",
+    "precos": {
+      "novo": 3277,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Esponja Médica",
+    "grupo": "Variedade",
+    "categoria": "Itens Médicos Diversos",
+    "precos": {
+      "novo": 3306,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "H2O2",
+    "grupo": "Variedade",
+    "categoria": "Itens Médicos Diversos",
+    "precos": {
+      "novo": 5831,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Tesoura Médica",
+    "grupo": "Variedade",
+    "categoria": "Itens Médicos Diversos",
+    "precos": {
+      "novo": 5600,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Desinf.",
+    "grupo": "Variedade",
+    "categoria": "Itens Médicos Diversos",
+    "precos": {
+      "novo": 4641,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Injeção de Glicose",
+    "grupo": "Variedade",
+    "categoria": "Itens Médicos Diversos",
+    "precos": {
+      "novo": 10400,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Seringa",
+    "grupo": "Variedade",
+    "categoria": "Itens Médicos Diversos",
+    "precos": {
+      "novo": 11502,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Caixa de Itens Varia…",
+    "grupo": "Variedade",
+    "categoria": "Itens Médicos Diversos",
+    "precos": {
+      "novo": 10332,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Nebulizador de Medic…",
+    "grupo": "Variedade",
+    "categoria": "Itens Médicos Diversos",
+    "precos": {
+      "novo": 10192,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Termômetro",
+    "grupo": "Variedade",
+    "categoria": "Itens Médicos Diversos",
+    "precos": {
+      "novo": 28028,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Amostra Biológica",
+    "grupo": "Variedade",
+    "categoria": "Itens Médicos Diversos",
+    "precos": {
+      "novo": 25920,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Estetoscópio Eletrôn…",
+    "grupo": "Variedade",
+    "categoria": "Itens Médicos Diversos",
+    "precos": {
+      "novo": 22724,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Examinador Portátil",
+    "grupo": "Variedade",
+    "categoria": "Itens Médicos Diversos",
+    "precos": {
+      "novo": 48111,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Injetor de Bloqueado…",
+    "grupo": "Variedade",
+    "categoria": "Itens Médicos Diversos",
+    "precos": {
+      "novo": 42160,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Massa de Tecido Mut…",
+    "grupo": "Variedade",
+    "categoria": "Itens Médicos Diversos",
+    "precos": {
+      "novo": 43400,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Bomba de insulina",
+    "grupo": "Variedade",
+    "categoria": "Itens Médicos Diversos",
+    "precos": {
+      "novo": 63960,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Conjunto Medidor de…",
+    "grupo": "Variedade",
+    "categoria": "Itens Médicos Diversos",
+    "precos": {
+      "novo": 67488,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Desfibrilador extern…",
+    "grupo": "Variedade",
+    "categoria": "Itens Médicos Diversos",
+    "precos": {
+      "novo": 236652,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Coração Metálico",
+    "grupo": "Variedade",
+    "categoria": "Itens Médicos Diversos",
+    "precos": {
+      "novo": 388710,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Lâmpada de Terapia …",
+    "grupo": "Variedade",
+    "categoria": "Itens Médicos Diversos",
+    "precos": {
+      "novo": 232864,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Amostra de Coração …",
+    "grupo": "Variedade",
+    "categoria": "Itens Médicos Diversos",
+    "precos": {
+      "novo": 257520,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Kit de Teste de Fero…",
+    "grupo": "Variedade",
+    "categoria": "Itens Médicos Diversos",
+    "precos": {
+      "novo": 259320,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
