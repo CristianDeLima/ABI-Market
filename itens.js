@@ -5688,5 +5688,133 @@ window.ITENS = [
     },
     "atualizado": "2026-10-31",
     "obs": ""
+  },
+  {
+    "nome": "Carabina SA85M",
+    "grupo": "Ferrolhos",
+    "categoria": "Carabina",
+    "precos": {
+      "novo": 6018,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "7,62×39"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carabina M96",
+    "grupo": "Ferrolhos",
+    "categoria": "Carabina",
+    "precos": {
+      "novo": 2457,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "5,56×45"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carabina SKS",
+    "grupo": "Ferrolhos",
+    "categoria": "Carabina",
+    "precos": {
+      "novo": 2432,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "7,62×39"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carabina BM59",
+    "grupo": "Ferrolhos",
+    "categoria": "Carabina",
+    "precos": {
+      "novo": 8023,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "7,62×51"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carabina Mini14",
+    "grupo": "Ferrolhos",
+    "categoria": "Carabina",
+    "precos": {
+      "novo": 7275,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "5,56×45"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carabina M16",
+    "grupo": "Ferrolhos",
+    "categoria": "Carabina",
+    "precos": {
+      "novo": 30590,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "5,56×45"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carabina M14",
+    "grupo": "Ferrolhos",
+    "categoria": "Carabina",
+    "precos": {
+      "novo": 32431,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "7,62×51"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Carabina SVTU",
+    "grupo": "Ferrolhos",
+    "categoria": "Carabina",
+    "precos": {
+      "novo": 22066,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "7,62×54"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
