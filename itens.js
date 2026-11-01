@@ -3056,5 +3056,69 @@ window.ITENS = [
     },
     "atualizado": "2026-10-31",
     "obs": ""
+  },
+  {
+    "nome": "Munição AKBS 7,62×…",
+    "grupo": "Munição",
+    "categoria": "7,62×25 mm",
+    "precos": {
+      "novo": 25,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 1
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Munição PT 7,62×25 …",
+    "grupo": "Munição",
+    "categoria": "7,62×25 mm",
+    "precos": {
+      "novo": 38,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 1
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Munição LRN 7,62×25…",
+    "grupo": "Munição",
+    "categoria": "7,62×25 mm",
+    "precos": {
+      "novo": 150,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 0
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Munição Pst 7,62×25 …",
+    "grupo": "Munição",
+    "categoria": "7,62×25 mm",
+    "precos": {
+      "novo": 100,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Nível": 2
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
   }
 ];
