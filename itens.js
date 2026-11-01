@@ -19,7 +19,7 @@ window.GRUPOS = ["Equipamento", "Peça de Arma", "Ferrolhos", "Munição", "Item
 
 // Pendências: categorias ou dados que ainda faltam enviar.
 window.PENDENCIAS = [
-  { item: "Peça de Arma", nota: "Mira, Carregador, Cabo Frontal, Cabo Traseiro, Coronha, Bocal, Ponta Laser, Cano e Guarda-mão já cadastrados (Cabo Frontal estava indisponível no mercado). Faltam as outras subcategorias." },
+  { item: "Peça de Arma", nota: "Mira, Carregador, Cabo Frontal, Cabo Traseiro, Coronha, Bocal, Ponta Laser, Cano, Guarda-mão e Receptor/Capa de Poeira já cadastrados (Cabo Frontal estava indisponível no mercado). Faltam as outras subcategorias." },
   { item: "Máscaras de Gás", nota: "Confirmar se existem preços Como nova e Usada." }
 ];
 
@@ -21769,5 +21769,928 @@ window.ITENS = [
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Receptor Superior Pa…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 616,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Capa de Poeira Padrã…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 657,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Receptor Superior Es…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 324,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Receptor Superior Es…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 832,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Corrediça Clássica d…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 1134,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Receptor Superior Pa…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 546,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Capa de Poeira de Tr…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 1743,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Receptor Superior Pa…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 3912,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Receptor de Fibra de…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 2100,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Capa de Poeira Padrã…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 1809,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Receptor de Fibra de…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 2214,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Corrediça de Pistola…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 1107,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Capa de Poeira Padrã…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 1221,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Capa do Receptor Pa…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 2904,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Capa de Poeira de Tr…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 3498,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Receptor Superior M…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 2244,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Receptor Usinado e…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 2937,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Receptor Superior de…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 3036,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Acessório de Teste: …",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 104040,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Receptor Superior PC…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 2470,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Corrediça Clássica d…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 2470,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Receptor Superior Pa…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 2584,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Receptor de Trilho S…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 5256,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Armação superior de …",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 2774,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Capa de Poeira Trilh…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 7098,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Conjunto de Recepto…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 7820,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Capa do Receptor Pa…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 3344,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Receptor Superior Es…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 9240,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Receptor Superior S…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 3344,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Receptor Superior da…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 5104,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Receptor Superior Pa…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 7920,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Receptor superior m…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 5340,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Receptor Superior S…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 5520,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Receptor Superior A…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 9016,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Alavanca-padrão T951",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 3610,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Receptor Superior do…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 11128,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Receptor Padrão M1…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 10388,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Alavanca de Trilho L…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 12096,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Receptor de Liga da …",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 8450,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Receptor Superior Pa…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 20410,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Receptor Superior do…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 13624,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Receptor Superior Es…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 4978,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Receptor Superior do…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 10611,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Receptor Superior M…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 15065,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Capa de Poeira AK12",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 24890,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Receptor Superior de…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 13886,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Alavanca Tática T951",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 12672,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Receptor Superior FA…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 14256,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Receptor Superior M…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 10184,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Acessório de Teste: …",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 130854,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Capa do Receptor Pa…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 5434,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Receptor Superior M…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 13932,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Capa do Receptor Su…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 17424,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Cabo aprimorado T951",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 24024,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Capa de Poeira Padrã…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 7448,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Capa de poeira de de…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 23912,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Receptor Superior P9…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 9850,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Receptor Superior de…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 21867,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Receptor Superior de…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 29747,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Receptor Longo do Z…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 14454,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Capa de Poeira Padrã…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 7790,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Receptor Superior Es…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 30444,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Capa de Poeira Padrã…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 28616,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Receptor Superior do…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 48052,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Receptor Superior Pa…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 11134,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Receptor Superior de…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 23520,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Receptor Superior Pa…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 40866,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Receptor Superior Ex…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 27930,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Capa Contra Poeira E…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 37926,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Receptor Superior Pa…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 34220,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Receptor Superior de…",
+    "grupo": "Peça de Arma",
+    "categoria": "Receptor/Capa de Poeira",
+    "precos": {
+      "novo": 29304,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
