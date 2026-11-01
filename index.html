@@ -1,0 +1,231 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Tabela de Preços ABI</title>
+<meta name="description" content="Preços de itens de Arena Breakout Infinite, registrados a partir de capturas de tela do jogo.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: ficha de inventário — barra de comando no topo, tabela densa, cartões no celular */
+:root {
+  --bg: #e9e6dc;        /* lona cáqui clara */
+  --panel: #f5f3ec;
+  --line: #c9c4b2;
+  --fg: #23271d;        /* tinta verde-oliva escura */
+  --muted: #646a58;
+  --accent: #c2601a;    /* laranja de marcação tática */
+  --accent-ink: #fff8f0;
+  --chip: #dedac9;
+  --f-display: "Chakra Petch", "Arial Narrow", system-ui, sans-serif;
+  --f-body: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --f-mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Consolas, monospace;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #171a14; --panel: #20241c; --line: #353b2e; --fg: #e4e2d6;
+    --muted: #9a9f8c; --accent: #e8843c; --accent-ink: #1a1208; --chip: #2c3126;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #171a14; --panel: #20241c; --line: #353b2e; --fg: #e4e2d6;
+  --muted: #9a9f8c; --accent: #e8843c; --accent-ink: #1a1208; --chip: #2c3126;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+html { padding-top: env(safe-area-inset-top, 0px); padding-bottom: env(safe-area-inset-bottom, 0px); }
+body {
+  margin: 0; background: var(--bg); color: var(--fg);
+  font: 15px/1.5 var(--f-body);
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 28px 48px;
+}
+[hidden] { display: none !important; }
+.wrap { max-width: 1080px; margin: 0 auto; display: grid; gap: 20px; }
+
+header { display: flex; flex-wrap: wrap; align-items: end; justify-content: space-between; gap: 12px 24px; border-bottom: 2px solid var(--fg); padding-bottom: 14px; }
+.tag { font: 500 12px/1 var(--f-mono); letter-spacing: .12em; text-transform: uppercase; color: var(--accent); }
+h1 { font: 700 clamp(28px, 5vw, 42px)/1.05 var(--f-display); margin: 6px 0 0; text-transform: uppercase; letter-spacing: .01em; text-wrap: balance; }
+.stats { display: flex; gap: 20px; font: 400 13px/1.3 var(--f-mono); color: var(--muted); }
+.stats b { display: block; font: 700 20px/1.1 var(--f-display); color: var(--fg); font-variant-numeric: tabular-nums; }
+
+.controls { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+.search { flex: 1 1 260px; min-width: 0; position: relative; }
+.search input {
+  width: 100%; font: 15px var(--f-body); color: var(--fg); background: var(--panel);
+  border: 1px solid var(--line); border-radius: 4px; padding: 10px 12px;
+}
+select {
+  font: 14px var(--f-body); color: var(--fg); background: var(--panel);
+  border: 1px solid var(--line); border-radius: 4px; padding: 10px 10px;
+}
+input:focus-visible, select:focus-visible, button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip {
+  font: 500 12px/1 var(--f-mono); letter-spacing: .06em; text-transform: uppercase;
+  border: 1px solid var(--line); background: transparent; color: var(--muted);
+  padding: 8px 10px; border-radius: 3px; cursor: pointer;
+}
+.chip:hover { color: var(--fg); border-color: var(--fg); }
+.chip[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
+
+.table-box { overflow-x: auto; background: var(--panel); border: 1px solid var(--line); border-radius: 4px; }
+table { width: 100%; border-collapse: collapse; }
+th {
+  text-align: left; font: 500 11px/1 var(--f-mono); letter-spacing: .1em; text-transform: uppercase;
+  color: var(--muted); padding: 12px 14px; border-bottom: 1px solid var(--line); white-space: nowrap;
+}
+td { padding: 11px 14px; border-bottom: 1px solid var(--line); vertical-align: top; }
+tr:last-child td { border-bottom: 0; }
+tbody tr:hover { background: color-mix(in srgb, var(--chip) 55%, transparent); }
+.nome { font-weight: 600; }
+.obs { display: block; font-size: 13px; color: var(--muted); font-weight: 400; }
+.cat { font: 500 12px var(--f-mono); color: var(--muted); text-transform: uppercase; letter-spacing: .05em; white-space: nowrap; }
+.preco { font: 500 15px var(--f-mono); font-variant-numeric: tabular-nums; text-align: right; white-space: nowrap; }
+th.num { text-align: right; }
+.koen { color: var(--muted); font-size: 12px; margin-left: 4px; }
+.attrs { display: flex; flex-wrap: wrap; gap: 4px; }
+.attr { font: 12px var(--f-mono); background: var(--chip); padding: 3px 7px; border-radius: 3px; white-space: nowrap; }
+.attr i { font-style: normal; color: var(--muted); }
+.data { font: 12px var(--f-mono); color: var(--muted); white-space: nowrap; }
+
+.empty { padding: 40px 20px; text-align: center; display: grid; gap: 8px; justify-items: center; }
+.empty strong { font: 700 20px var(--f-display); text-transform: uppercase; }
+.empty p { margin: 0; max-width: 46ch; color: var(--muted); }
+
+footer { font: 12px var(--f-mono); color: var(--muted); }
+
+@media (max-width: 640px) {
+  thead { display: none; }
+  table, tbody, tr, td { display: block; width: 100%; }
+  tr { display: grid; grid-template-columns: 1fr auto; gap: 4px 12px; padding: 12px 14px; border-bottom: 1px solid var(--line); }
+  tr:last-child { border-bottom: 0; }
+  td { padding: 0; border: 0; }
+  td.c-nome { grid-column: 1; }
+  td.c-preco { grid-column: 2; grid-row: 1; }
+  td.c-cat, td.c-attrs, td.c-data { grid-column: 1 / -1; }
+}
+@media (prefers-reduced-motion: no-preference) { tbody tr { transition: background .12s; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div>
+      <div class="tag">Arena Breakout Infinite · Mercado</div>
+      <h1>Tabela de Preços</h1>
+    </div>
+    <div class="stats">
+      <div><b id="st-itens">0</b>itens</div>
+      <div><b id="st-cats">0</b>categorias</div>
+      <div><b id="st-data">—</b>última foto</div>
+    </div>
+  </header>
+
+  <div class="controls">
+    <div class="search"><input id="busca" type="search" placeholder="Buscar item pelo nome" aria-label="Buscar item"></div>
+    <select id="ordem" aria-label="Ordenar">
+      <option value="nome">Nome (A–Z)</option>
+      <option value="preco-desc">Maior preço</option>
+      <option value="preco-asc">Menor preço</option>
+      <option value="data">Mais recentes</option>
+    </select>
+  </div>
+  <div class="chips" id="chips" role="group" aria-label="Filtrar por categoria"></div>
+
+  <div class="table-box">
+    <table>
+      <thead><tr><th>Item</th><th>Categoria</th><th>Atributos</th><th class="num">Preço</th><th>Atualizado</th></tr></thead>
+      <tbody id="lista"></tbody>
+    </table>
+    <div class="empty" id="vazio" hidden>
+      <strong id="vazio-titulo">Nenhum item registrado</strong>
+      <p id="vazio-texto">Os preços entram aqui a partir das capturas de tela do jogo. Assim que as fotos forem enviadas, a tabela é preenchida.</p>
+    </div>
+  </div>
+
+  <footer>Valores em Koen, registrados manualmente a partir de capturas de tela. Os preços do mercado mudam com frequência: confira a data de cada item.</footer>
+</div>
+
+<script src="itens.js"></script>
+<script>
+(function () {
+  var ITENS = Array.isArray(window.ITENS) ? window.ITENS : [];
+  var estado = { busca: "", cat: "Todas", ordem: "nome" };
+  var $ = function (id) { return document.getElementById(id); };
+  var fmt = new Intl.NumberFormat("pt-BR");
+
+  function esc(s) { return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) { return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]; }); }
+  function fmtData(d) { if (!d) return "—"; var p = String(d).split("-"); return p.length === 3 ? p[2] + "/" + p[1] + "/" + p[0] : d; }
+  function norm(s) { return String(s || "").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, ""); }
+
+  var cats = Array.from(new Set(ITENS.map(function (i) { return i.categoria || "Outros"; }))).sort(function (a, b) { return a.localeCompare(b, "pt-BR"); });
+
+  // Resumo
+  $("st-itens").textContent = fmt.format(ITENS.length);
+  $("st-cats").textContent = cats.length;
+  var ultima = ITENS.map(function (i) { return i.atualizado || ""; }).sort().pop();
+  $("st-data").textContent = ultima ? fmtData(ultima).slice(0, 5) : "—";
+
+  // Chips de categoria
+  function chips() {
+    var box = $("chips");
+    box.innerHTML = "";
+    if (!cats.length) { box.hidden = true; return; }
+    ["Todas"].concat(cats).forEach(function (c) {
+      var b = document.createElement("button");
+      b.type = "button"; b.className = "chip"; b.textContent = c;
+      b.setAttribute("aria-pressed", c === estado.cat ? "true" : "false");
+      b.addEventListener("click", function () { estado.cat = c; chips(); render(); });
+      box.appendChild(b);
+    });
+  }
+
+  function render() {
+    var q = norm(estado.busca);
+    var lista = ITENS.filter(function (i) {
+      return (estado.cat === "Todas" || (i.categoria || "Outros") === estado.cat) && (!q || norm(i.nome).indexOf(q) !== -1);
+    });
+    lista.sort(function (a, b) {
+      if (estado.ordem === "preco-desc") return (b.preco || 0) - (a.preco || 0);
+      if (estado.ordem === "preco-asc") return (a.preco || 0) - (b.preco || 0);
+      if (estado.ordem === "data") return String(b.atualizado || "").localeCompare(String(a.atualizado || ""));
+      return String(a.nome).localeCompare(String(b.nome), "pt-BR");
+    });
+
+    $("lista").innerHTML = lista.map(function (i) {
+      var attrs = i.atributos ? Object.keys(i.atributos).map(function (k) {
+        return '<span class="attr"><i>' + esc(k) + "</i> " + esc(i.atributos[k]) + "</span>";
+      }).join("") : "";
+      return "<tr>" +
+        '<td class="c-nome"><span class="nome">' + esc(i.nome) + "</span>" + (i.obs ? '<span class="obs">' + esc(i.obs) + "</span>" : "") + "</td>" +
+        '<td class="c-cat"><span class="cat">' + esc(i.categoria || "Outros") + "</span></td>" +
+        '<td class="c-attrs"><div class="attrs">' + attrs + "</div></td>" +
+        '<td class="c-preco preco">' + (i.preco != null ? fmt.format(i.preco) + '<span class="koen">K</span>' : "—") + "</td>" +
+        '<td class="c-data"><span class="data">' + fmtData(i.atualizado) + "</span></td>" +
+        "</tr>";
+    }).join("");
+
+    var vazio = lista.length === 0;
+    $("vazio").hidden = !vazio;
+    document.querySelector("thead").hidden = vazio;
+    if (vazio && ITENS.length) {
+      $("vazio-titulo").textContent = "Nada encontrado";
+      $("vazio-texto").textContent = "Nenhum item corresponde à busca ou à categoria escolhida.";
+    }
+  }
+
+  $("busca").addEventListener("input", function (e) { estado.busca = e.target.value; render(); });
+  $("ordem").addEventListener("change", function (e) { estado.ordem = e.target.value; render(); });
+
+  chips();
+  render();
+})();
+</script>
+</body>
+</html>
