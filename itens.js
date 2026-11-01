@@ -19,7 +19,7 @@ window.GRUPOS = ["Equipamento", "Peça de Arma", "Ferrolhos", "Munição", "Item
 
 // Pendências: categorias ou dados que ainda faltam enviar.
 window.PENDENCIAS = [
-  { item: "Peça de Arma", nota: "Mira, Carregador, Cabo Frontal, Cabo Traseiro, Coronha, Bocal, Ponta Laser, Cano, Guarda-mão, Receptor/Capa de Poeira e Trilho já cadastrados (Cabo Frontal estava indisponível no mercado). Faltam as outras subcategorias." },
+  { item: "Peça de Arma", nota: "Mira, Carregador, Cabo Frontal, Cabo Traseiro, Coronha, Bocal, Ponta Laser, Cano, Guarda-mão, Receptor/Capa de Poeira, Trilho e Bloco de Gás já cadastrados (Cabo Frontal estava indisponível no mercado). Faltam as outras subcategorias." },
   { item: "Máscaras de Gás", nota: "Confirmar se existem preços Como nova e Usada." }
 ];
 
@@ -23778,6 +23778,175 @@ window.ITENS = [
     "categoria": "Trilho",
     "precos": {
       "novo": 22040,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Bloco de Gás do AK-1…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bloco de Gás",
+    "precos": {
+      "novo": 1207,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Tubo de Gás Universa…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bloco de Gás",
+    "precos": {
+      "novo": 1073,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Bloco de Gás Persona…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bloco de Gás",
+    "precos": {
+      "novo": 6890,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Mira Frontal Padrão …",
+    "grupo": "Peça de Arma",
+    "categoria": "Bloco de Gás",
+    "precos": {
+      "novo": 2546,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Alça de Carregament…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bloco de Gás",
+    "precos": {
+      "novo": 5751,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Tubo de Gás da PP19",
+    "grupo": "Peça de Arma",
+    "categoria": "Bloco de Gás",
+    "precos": {
+      "novo": 7830,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Tubo de Gás Padrão …",
+    "grupo": "Peça de Arma",
+    "categoria": "Bloco de Gás",
+    "precos": {
+      "novo": 4200,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Bloco de Gás Trilho …",
+    "grupo": "Peça de Arma",
+    "categoria": "Bloco de Gás",
+    "precos": {
+      "novo": 9516,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Tubo de Gás do ACE",
+    "grupo": "Peça de Arma",
+    "categoria": "Bloco de Gás",
+    "precos": {
+      "novo": 12740,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Bloco de Gás Univers…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bloco de Gás",
+    "precos": {
+      "novo": 5548,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Combo de bloco de g…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bloco de Gás",
+    "precos": {
+      "novo": 16740,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Bloco de Gás Padrão …",
+    "grupo": "Peça de Arma",
+    "categoria": "Bloco de Gás",
+    "precos": {
+      "novo": 31122,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Bloco de Gás Especia…",
+    "grupo": "Peça de Arma",
+    "categoria": "Bloco de Gás",
+    "precos": {
+      "novo": 19270,
       "comoNovo": null,
       "usado": null
     },
