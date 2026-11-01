@@ -12858,7 +12858,7 @@ window.ITENS = [
     "obs": "Pode ser trocado com Contato"
   },
   {
-    "nome": "Cabo Frontal Tático …",
+    "nome": "Cabo Frontal Tático Leve",
     "grupo": "Peça de Arma",
     "categoria": "Cabo Frontal",
     "precos": {
@@ -12868,7 +12868,14 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
-    "obs": "Venda por Contato"
+    "obs": "Venda por Contato",
+    "atributos": {
+      "Recuo V.": "+2",
+      "Recuo H.": "+4",
+      "Vel. verif. carregador": "+10%",
+      "Peso": "0,12 kg"
+    },
+    "img": "img/cabo-frontal-tatico-leve.webp"
   },
   {
     "nome": "Cabo Curto Leve",
@@ -12881,7 +12888,13 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "atributos": {
+      "Ergonomia": "+6",
+      "Estabilidade": "+5",
+      "Peso": "0,07 kg"
+    },
+    "img": "img/cabo-curto-leve.webp"
   },
   {
     "nome": "Cabo Longo Leve",
@@ -12894,7 +12907,13 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "atributos": {
+      "Precisão": "+7",
+      "Estabilidade": "+10",
+      "Peso": "0,07 kg"
+    },
+    "img": "img/cabo-longo-leve.webp"
   },
   {
     "nome": "Mini Apoio",
@@ -12907,7 +12926,12 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "atributos": {
+      "Ergonomia": "+6",
+      "Peso": "0,07 kg"
+    },
+    "img": "img/mini-apoio.webp"
   },
   {
     "nome": "Mini Apoio T",
@@ -12920,10 +12944,15 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "atributos": {
+      "Ergonomia": "+9",
+      "Peso": "0,07 kg"
+    },
+    "img": "img/mini-apoio-t.webp"
   },
   {
-    "nome": "Cabo Frontal Vertica…",
+    "nome": "Cabo Frontal Vertical Curto",
     "grupo": "Peça de Arma",
     "categoria": "Cabo Frontal",
     "precos": {
@@ -12933,7 +12962,14 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "atributos": {
+      "Recuo V.": "+3",
+      "Recuo H.": "+6",
+      "Vel. verif. carregador": "+10%",
+      "Peso": "0,13 kg"
+    },
+    "img": "img/cabo-frontal-vertical-curto.webp"
   },
   {
     "nome": "Apoio de Alumínio",
@@ -12946,10 +12982,15 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "atributos": {
+      "Ergonomia": "+12",
+      "Peso": "0,07 kg"
+    },
+    "img": "img/apoio-de-aluminio.webp"
   },
   {
-    "nome": "Cabo Frontal Tático …",
+    "nome": "Cabo Frontal Tático de Liga",
     "grupo": "Peça de Arma",
     "categoria": "Cabo Frontal",
     "precos": {
@@ -12959,7 +13000,14 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "atributos": {
+      "Recuo V.": "+4",
+      "Recuo H.": "+8",
+      "Vel. verif. carregador": "+15%",
+      "Peso": "0,10 kg"
+    },
+    "img": "img/cabo-frontal-tatico-de-liga.webp"
   },
   {
     "nome": "Cabo Frontal RK-6",
@@ -12972,7 +13020,14 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "atributos": {
+      "Recuo V.": "+5",
+      "Recuo H.": "+8",
+      "Estabilidade": "+6",
+      "Peso": "0,13 kg"
+    },
+    "img": "img/cabo-frontal-rk-6.webp"
   },
   {
     "nome": "CF Confortável",
@@ -12985,10 +13040,16 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "atributos": {
+      "Ergonomia": "+8",
+      "Estabilidade": "+10",
+      "Peso": "0,14 kg"
+    },
+    "img": "img/cf-confortavel.webp"
   },
   {
-    "nome": "Cabo Frontal de Incl…",
+    "nome": "Cabo Frontal de Inclinação Leve",
     "grupo": "Peça de Arma",
     "categoria": "Cabo Frontal",
     "precos": {
@@ -12998,10 +13059,17 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "atributos": {
+      "Recuo V.": "+4",
+      "Recuo H.": "+8",
+      "Ergonomia": "+1",
+      "Peso": "0,14 kg"
+    },
+    "img": "img/cabo-frontal-de-inclinacao-leve.webp"
   },
   {
-    "nome": "Cabo Frontal de Cont…",
+    "nome": "Cabo Frontal de Controle RK 0",
     "grupo": "Peça de Arma",
     "categoria": "Cabo Frontal",
     "precos": {
@@ -13011,10 +13079,17 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "atributos": {
+      "Recuo V.": "+6",
+      "Recuo H.": "+9",
+      "Vel. verif. carregador": "+25%",
+      "Peso": "0,13 kg"
+    },
+    "img": "img/cabo-frontal-de-controle-rk-0.webp"
   },
   {
-    "nome": "Cabo Frontal Compac…",
+    "nome": "Cabo Frontal Compacto Tático AR",
     "grupo": "Peça de Arma",
     "categoria": "Cabo Frontal",
     "precos": {
@@ -13024,10 +13099,17 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "atributos": {
+      "Recuo V.": "+8",
+      "Recuo H.": "+9",
+      "Ergonomia": "+5",
+      "Peso": "0,14 kg"
+    },
+    "img": "img/cabo-frontal-compacto-tatico-ar.webp"
   },
   {
-    "nome": "Cabo Frontal Inclina…",
+    "nome": "Cabo Frontal Inclinado KIR",
     "grupo": "Peça de Arma",
     "categoria": "Cabo Frontal",
     "precos": {
@@ -13037,10 +13119,18 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "atributos": {
+      "Recuo V.": "+4",
+      "Recuo H.": "+6",
+      "Estab. sem mirar": "+5",
+      "Ergonomia": "-4",
+      "Peso": "0,14 kg"
+    },
+    "img": "img/cabo-frontal-inclinado-kir.webp"
   },
   {
-    "nome": "Cabo Frontal Vertica…",
+    "nome": "Cabo Frontal Vertical de Alumínio",
     "grupo": "Peça de Arma",
     "categoria": "Cabo Frontal",
     "precos": {
@@ -13050,10 +13140,18 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "atributos": {
+      "Recuo V.": "+5",
+      "Recuo H.": "+7",
+      "Estabilidade": "+3",
+      "Vel. verif. carregador": "+30%",
+      "Peso": "0,12 kg"
+    },
+    "img": "img/cabo-frontal-vertical-de-aluminio.webp"
   },
   {
-    "nome": "Cabo Frontal Angula…",
+    "nome": "Cabo Frontal Angulado",
     "grupo": "Peça de Arma",
     "categoria": "Cabo Frontal",
     "precos": {
@@ -13063,7 +13161,14 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "",
+    "atributos": {
+      "Recuo V.": "+6",
+      "Recuo H.": "+9",
+      "Ergonomia": "+3",
+      "Peso": "0,15 kg"
+    },
+    "img": "img/cabo-frontal-angulado.webp"
   },
   {
     "nome": "Cabo frontal",
@@ -13076,10 +13181,17 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "",
+    "atributos": {
+      "Recuo V.": "+5",
+      "Recuo H.": "+9",
+      "Vel. verif. carregador": "+20%",
+      "Peso": "0,15 kg"
+    },
+    "img": "img/cabo-frontal.webp"
   },
   {
-    "nome": "Cabo Frontal Inclina…",
+    "nome": "Cabo Frontal Inclinado B25",
     "grupo": "Peça de Arma",
     "categoria": "Cabo Frontal",
     "precos": {
@@ -13089,10 +13201,17 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
-    "obs": ""
+    "obs": "",
+    "atributos": {
+      "Recuo V.": "+5",
+      "Recuo H.": "+11",
+      "Ergonomia": "+4",
+      "Peso": "0,14 kg"
+    },
+    "img": "img/cabo-frontal-inclinado-b25.webp"
   },
   {
-    "nome": "Cabo Frontal Tático …",
+    "nome": "Cabo Frontal Tático Vertical Leve",
     "grupo": "Peça de Arma",
     "categoria": "Cabo Frontal",
     "precos": {
@@ -13102,7 +13221,14 @@ window.ITENS = [
     },
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
-    "obs": "Pode ser trocado com Contato"
+    "obs": "Pode ser trocado com Contato",
+    "atributos": {
+      "Recuo V.": "+7",
+      "Recuo H.": "+11",
+      "Ergonomia": "+4",
+      "Peso": "0,14 kg"
+    },
+    "img": "img/cabo-frontal-tatico-vertical-leve.webp"
   },
   {
     "nome": "Cabo Padrão M1911",
