@@ -10076,5 +10076,265 @@ window.ITENS = [
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
     "obs": ""
+  },
+  {
+    "nome": "Fusível",
+    "grupo": "Variedade",
+    "categoria": "Eletrônicos",
+    "precos": {
+      "novo": 5980,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Pager",
+    "grupo": "Variedade",
+    "categoria": "Eletrônicos",
+    "precos": {
+      "novo": 8075,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Fita de Walkman",
+    "grupo": "Variedade",
+    "categoria": "Eletrônicos",
+    "precos": {
+      "novo": 9890,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Celular Quebrado",
+    "grupo": "Variedade",
+    "categoria": "Eletrônicos",
+    "precos": {
+      "novo": 10353,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Rádio Clássico",
+    "grupo": "Variedade",
+    "categoria": "Eletrônicos",
+    "precos": {
+      "novo": 8910,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Câmera",
+    "grupo": "Variedade",
+    "categoria": "Eletrônicos",
+    "precos": {
+      "novo": 12464,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Câmera de segurança"
+  },
+  {
+    "nome": "Leitor de Cartão",
+    "grupo": "Variedade",
+    "categoria": "Eletrônicos",
+    "precos": {
+      "novo": 18942,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Celular",
+    "grupo": "Variedade",
+    "categoria": "Eletrônicos",
+    "precos": {
+      "novo": 17628,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo disparador",
+    "grupo": "Variedade",
+    "categoria": "Eletrônicos",
+    "precos": {
+      "novo": 10112,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "DVD",
+    "grupo": "Variedade",
+    "categoria": "Eletrônicos",
+    "precos": {
+      "novo": 19594,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Lente",
+    "grupo": "Variedade",
+    "categoria": "Eletrônicos",
+    "precos": {
+      "novo": 26433,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Gravador Portátil GU…",
+    "grupo": "Variedade",
+    "categoria": "Eletrônicos",
+    "precos": {
+      "novo": 12046,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Cabo de dados",
+    "grupo": "Variedade",
+    "categoria": "Eletrônicos",
+    "precos": {
+      "novo": 13038,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Câmera",
+    "grupo": "Variedade",
+    "categoria": "Eletrônicos",
+    "precos": {
+      "novo": 21470,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": "Câmera fotográfica"
+  },
+  {
+    "nome": "Petso",
+    "grupo": "Variedade",
+    "categoria": "Eletrônicos",
+    "precos": {
+      "novo": 37554,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Assistente Pessoal …",
+    "grupo": "Variedade",
+    "categoria": "Eletrônicos",
+    "precos": {
+      "novo": 22990,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Telefone Dourado",
+    "grupo": "Variedade",
+    "categoria": "Eletrônicos",
+    "precos": {
+      "novo": 67960,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Console de Jogos",
+    "grupo": "Variedade",
+    "categoria": "Eletrônicos",
+    "precos": {
+      "novo": 71960,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Câmera de vídeo",
+    "grupo": "Variedade",
+    "categoria": "Eletrônicos",
+    "precos": {
+      "novo": 254856,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Laptop",
+    "grupo": "Variedade",
+    "categoria": "Eletrônicos",
+    "precos": {
+      "novo": 283725,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
