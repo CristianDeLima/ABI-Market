@@ -5432,5 +5432,85 @@ window.ITENS = [
     },
     "atualizado": "2026-10-31",
     "obs": ""
+  },
+  {
+    "nome": "Escopeta MP-133",
+    "grupo": "Ferrolhos",
+    "categoria": "Escopeta",
+    "precos": {
+      "novo": 4588,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "12×70"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Escopeta M870",
+    "grupo": "Ferrolhos",
+    "categoria": "Escopeta",
+    "precos": {
+      "novo": 7821,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "12×70"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Escopeta de Cano Du…",
+    "grupo": "Ferrolhos",
+    "categoria": "Escopeta",
+    "precos": {
+      "novo": 11730,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "12×70"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Escopeta S12K",
+    "grupo": "Ferrolhos",
+    "categoria": "Escopeta",
+    "precos": {
+      "novo": 15035,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "12×70"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Escopeta USAS 12",
+    "grupo": "Ferrolhos",
+    "categoria": "Escopeta",
+    "precos": {
+      "novo": 52065,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Calibre": "12×70"
+    },
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
