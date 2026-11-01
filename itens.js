@@ -3872,5 +3872,133 @@ window.ITENS = [
     },
     "atualizado": "2026-10-31",
     "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Curativo Rápido",
+    "grupo": "Item Médico",
+    "categoria": "Tratamento de Lesões",
+    "precos": {
+      "novo": 246,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 1
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Curativo de Campo",
+    "grupo": "Item Médico",
+    "categoria": "Tratamento de Lesões",
+    "precos": {
+      "novo": 736,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 2
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Curativo OPM",
+    "grupo": "Item Médico",
+    "categoria": "Tratamento de Lesões",
+    "precos": {
+      "novo": 2000,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 4
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Pacote Cirúrgico Sim…",
+    "grupo": "Item Médico",
+    "categoria": "Tratamento de Lesões",
+    "precos": {
+      "novo": 2500,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 1
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Venda por Contato"
+  },
+  {
+    "nome": "Kit Cirúrgico Milita…",
+    "grupo": "Item Médico",
+    "categoria": "Tratamento de Lesões",
+    "precos": {
+      "novo": 30960,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 4
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Nebulizador G-96",
+    "grupo": "Item Médico",
+    "categoria": "Tratamento de Lesões",
+    "precos": {
+      "novo": 27501,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 4
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Kit Cirúrgico Milita…",
+    "grupo": "Item Médico",
+    "categoria": "Tratamento de Lesões",
+    "precos": {
+      "novo": 50112,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 8
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
+  },
+  {
+    "nome": "Conjunto Cirúrgico d…",
+    "grupo": "Item Médico",
+    "categoria": "Tratamento de Lesões",
+    "precos": {
+      "novo": 91584,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atributos": {
+      "Usos": 12
+    },
+    "atualizado": "2026-10-31",
+    "obs": "Pode ser trocado com Contato"
   }
 ];
