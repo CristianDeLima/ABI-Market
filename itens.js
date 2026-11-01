@@ -9530,5 +9530,187 @@ window.ITENS = [
     "qualidadeUnica": true,
     "atualizado": "2026-10-31",
     "obs": ""
+  },
+  {
+    "nome": "Retificador",
+    "grupo": "Variedade",
+    "categoria": "Instrumento",
+    "precos": {
+      "novo": 5824,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Medidor de Pressão",
+    "grupo": "Variedade",
+    "categoria": "Instrumento",
+    "precos": {
+      "novo": 11662,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Filtro de Ondas",
+    "grupo": "Variedade",
+    "categoria": "Instrumento",
+    "precos": {
+      "novo": 7884,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Multímetro",
+    "grupo": "Variedade",
+    "categoria": "Instrumento",
+    "precos": {
+      "novo": 22134,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Fotômetro",
+    "grupo": "Variedade",
+    "categoria": "Instrumento",
+    "precos": {
+      "novo": 16520,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Analisador de Gás",
+    "grupo": "Variedade",
+    "categoria": "Instrumento",
+    "precos": {
+      "novo": 39808,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Testador de Estanqu…",
+    "grupo": "Variedade",
+    "categoria": "Instrumento",
+    "precos": {
+      "novo": 23162,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Estabilizador",
+    "grupo": "Variedade",
+    "categoria": "Instrumento",
+    "precos": {
+      "novo": 51520,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Osciloscópio",
+    "grupo": "Variedade",
+    "categoria": "Instrumento",
+    "precos": {
+      "novo": 37611,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Receptor Portátil",
+    "grupo": "Variedade",
+    "categoria": "Instrumento",
+    "precos": {
+      "novo": 22876,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Calculadora Portátil",
+    "grupo": "Variedade",
+    "categoria": "Instrumento",
+    "precos": {
+      "novo": 23028,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Medidor de Salinidad…",
+    "grupo": "Variedade",
+    "categoria": "Instrumento",
+    "precos": {
+      "novo": 39680,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Antena",
+    "grupo": "Variedade",
+    "categoria": "Instrumento",
+    "precos": {
+      "novo": 103950,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
+  },
+  {
+    "nome": "Máquina de Cifras K7…",
+    "grupo": "Variedade",
+    "categoria": "Instrumento",
+    "precos": {
+      "novo": 234688,
+      "comoNovo": null,
+      "usado": null
+    },
+    "qualidadeUnica": true,
+    "atualizado": "2026-10-31",
+    "obs": ""
   }
 ];
