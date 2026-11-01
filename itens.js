@@ -5,6 +5,7 @@
 // Formato de cada item:
 // {
 //   nome: "Nome exato do item",
+//   grupo: "Equipamento",            // seção do mercado no jogo
 //   categoria: "Munição",            // Arma, Munição, Colete, Capacete, Rig, Mochila, Medicamento...
 //   precos: { novo: 12345, comoNovo: null, usado: null },  // Koen; null = sem foto ainda
 //   atributos: { "Classe": 4, "Durab.": 60 },  // opcional; Durab. = máxima
@@ -22,6 +23,7 @@ window.PENDENCIAS = [
 window.ITENS = [
   {
     "nome": "Capacete de Incêndi…",
+    "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
       "novo": 4368,
@@ -42,6 +44,7 @@ window.ITENS = [
   },
   {
     "nome": "Capacete de Segura…",
+    "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
       "novo": 4940,
@@ -62,6 +65,7 @@ window.ITENS = [
   },
   {
     "nome": "Capacete de Motocic…",
+    "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
       "novo": 4428,
@@ -82,6 +86,7 @@ window.ITENS = [
   },
   {
     "nome": "Capacete Protetor p…",
+    "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
       "novo": 5220,
@@ -102,6 +107,7 @@ window.ITENS = [
   },
   {
     "nome": "Capacete Militar Clá…",
+    "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
       "novo": 11615,
@@ -122,6 +128,7 @@ window.ITENS = [
   },
   {
     "nome": "Capacete de Aço Clá…",
+    "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
       "novo": 6000,
@@ -142,6 +149,7 @@ window.ITENS = [
   },
   {
     "nome": "Capacete de Segura…",
+    "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
       "novo": 11830,
@@ -162,6 +170,7 @@ window.ITENS = [
   },
   {
     "nome": "Capacete de Aviador",
+    "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
       "novo": 12236,
@@ -182,6 +191,7 @@ window.ITENS = [
   },
   {
     "nome": "Capacete de Choque …",
+    "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
       "novo": 13015,
@@ -202,6 +212,7 @@ window.ITENS = [
   },
   {
     "nome": "Capacete Padrão PAS",
+    "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
       "novo": 6624,
@@ -222,6 +233,7 @@ window.ITENS = [
   },
   {
     "nome": "Capacete PAS2",
+    "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
       "novo": 27648,
@@ -242,6 +254,7 @@ window.ITENS = [
   },
   {
     "nome": "Capacete Tático F70",
+    "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
       "novo": 45326,
@@ -262,6 +275,7 @@ window.ITENS = [
   },
   {
     "nome": "Capacete Militar SH1…",
+    "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
       "novo": 38500,
@@ -282,6 +296,7 @@ window.ITENS = [
   },
   {
     "nome": "Capacete 6B4",
+    "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
       "novo": 42622,
@@ -302,6 +317,7 @@ window.ITENS = [
   },
   {
     "nome": "Capacete Equipe Ca…",
+    "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
       "novo": 39246,
@@ -322,6 +338,7 @@ window.ITENS = [
   },
   {
     "nome": "Capacete 6B5",
+    "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
       "novo": 43200,
@@ -342,6 +359,7 @@ window.ITENS = [
   },
   {
     "nome": "Capacete Militar SH4…",
+    "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
       "novo": 45632,
@@ -362,6 +380,7 @@ window.ITENS = [
   },
   {
     "nome": "Capacete Tático IND",
+    "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
       "novo": 54390,
@@ -382,6 +401,7 @@ window.ITENS = [
   },
   {
     "nome": "Capacete Tático par…",
+    "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
       "novo": 49984,
@@ -402,6 +422,7 @@ window.ITENS = [
   },
   {
     "nome": "Capacete IND200",
+    "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
       "novo": 64464,
@@ -422,6 +443,7 @@ window.ITENS = [
   },
   {
     "nome": "Capacete Tático F80",
+    "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
       "novo": 45414,
@@ -442,6 +464,7 @@ window.ITENS = [
   },
   {
     "nome": "Capacete Militar SH1…",
+    "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
       "novo": 66600,
@@ -462,6 +485,7 @@ window.ITENS = [
   },
   {
     "nome": "Capacete Tático KSS",
+    "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
       "novo": 104720,
@@ -482,6 +506,7 @@ window.ITENS = [
   },
   {
     "nome": "Capacete Tático KSS2",
+    "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
       "novo": 106400,
@@ -502,6 +527,7 @@ window.ITENS = [
   },
   {
     "nome": "Capacete de Helicóp…",
+    "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
       "novo": 160650,
@@ -522,6 +548,7 @@ window.ITENS = [
   },
   {
     "nome": "Capacete SH Matzka 2",
+    "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
       "novo": 296478,
@@ -542,6 +569,7 @@ window.ITENS = [
   },
   {
     "nome": "Capacete Militar SH6…",
+    "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
       "novo": 198720,
@@ -562,6 +590,7 @@ window.ITENS = [
   },
   {
     "nome": "Capacete Militar SH5…",
+    "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
       "novo": 122360,
@@ -582,6 +611,7 @@ window.ITENS = [
   },
   {
     "nome": "Capacete Tático de A…",
+    "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
       "novo": 249602,
@@ -602,6 +632,7 @@ window.ITENS = [
   },
   {
     "nome": "Capacete Tático Pes…",
+    "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
       "novo": 397082,
@@ -622,6 +653,7 @@ window.ITENS = [
   },
   {
     "nome": "Capacete Tático Pes…",
+    "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
       "novo": 256360,
@@ -642,6 +674,7 @@ window.ITENS = [
   },
   {
     "nome": "Capacete Explosão P…",
+    "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
       "novo": 410400,
@@ -662,6 +695,7 @@ window.ITENS = [
   },
   {
     "nome": "Capacete 6BNT",
+    "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
       "novo": 622512,
@@ -682,6 +716,7 @@ window.ITENS = [
   },
   {
     "nome": "Capacete das Forças …",
+    "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
       "novo": 656513,
@@ -702,6 +737,7 @@ window.ITENS = [
   },
   {
     "nome": "Capacete Ofensivo H…",
+    "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
       "novo": 301506,
@@ -722,6 +758,7 @@ window.ITENS = [
   },
   {
     "nome": "Capacete Tático Pes…",
+    "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
       "novo": 529317,
@@ -742,6 +779,7 @@ window.ITENS = [
   },
   {
     "nome": "Capacete Explosão D…",
+    "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
       "novo": 708468,
@@ -762,6 +800,7 @@ window.ITENS = [
   },
   {
     "nome": "Capacete Tático Pes…",
+    "grupo": "Equipamento",
     "categoria": "Capacete",
     "precos": {
       "novo": 648000,
@@ -782,6 +821,7 @@ window.ITENS = [
   },
   {
     "nome": "Protetor Facial à Pr…",
+    "grupo": "Equipamento",
     "categoria": "Máscara",
     "precos": {
       "novo": 11556,
@@ -802,6 +842,7 @@ window.ITENS = [
   },
   {
     "nome": "Protetor Facial à Pr…",
+    "grupo": "Equipamento",
     "categoria": "Máscara",
     "precos": {
       "novo": 20736,
@@ -822,6 +863,7 @@ window.ITENS = [
   },
   {
     "nome": "Protetor Facial Prot…",
+    "grupo": "Equipamento",
     "categoria": "Máscara",
     "precos": {
       "novo": 27675,
@@ -842,6 +884,7 @@ window.ITENS = [
   },
   {
     "nome": "Protetor Facial SH60",
+    "grupo": "Equipamento",
     "categoria": "Máscara",
     "precos": {
       "novo": 21754,
@@ -862,6 +905,7 @@ window.ITENS = [
   },
   {
     "nome": "Máscara à Prova de B…",
+    "grupo": "Equipamento",
     "categoria": "Máscara",
     "precos": {
       "novo": 42673,
@@ -882,6 +926,7 @@ window.ITENS = [
   },
   {
     "nome": "Protetor Facial à Pr…",
+    "grupo": "Equipamento",
     "categoria": "Máscara",
     "precos": {
       "novo": 21012,
@@ -902,6 +947,7 @@ window.ITENS = [
   },
   {
     "nome": "Protetor Facial à Pr…",
+    "grupo": "Equipamento",
     "categoria": "Máscara",
     "precos": {
       "novo": 28350,
@@ -922,6 +968,7 @@ window.ITENS = [
   },
   {
     "nome": "Protetor Facial Matz…",
+    "grupo": "Equipamento",
     "categoria": "Máscara",
     "precos": {
       "novo": 89913,
@@ -942,6 +989,7 @@ window.ITENS = [
   },
   {
     "nome": "Protetor Facial Mili…",
+    "grupo": "Equipamento",
     "categoria": "Máscara",
     "precos": {
       "novo": 27360,
@@ -962,6 +1010,7 @@ window.ITENS = [
   },
   {
     "nome": "Protetor Facial Expl…",
+    "grupo": "Equipamento",
     "categoria": "Máscara",
     "precos": {
       "novo": 101520,
@@ -982,6 +1031,7 @@ window.ITENS = [
   },
   {
     "nome": "Protetor Facial Mili…",
+    "grupo": "Equipamento",
     "categoria": "Máscara",
     "precos": {
       "novo": 126000,
@@ -1002,6 +1052,7 @@ window.ITENS = [
   },
   {
     "nome": "Protetor Facial das …",
+    "grupo": "Equipamento",
     "categoria": "Máscara",
     "precos": {
       "novo": 286848,
@@ -1022,6 +1073,7 @@ window.ITENS = [
   },
   {
     "nome": "Peitoral à Prova de …",
+    "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
       "novo": 8075,
@@ -1042,6 +1094,7 @@ window.ITENS = [
   },
   {
     "nome": "Antigo Colete Balíst…",
+    "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
       "novo": 9405,
@@ -1062,6 +1115,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Blindado Clás…",
+    "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
       "novo": 9024,
@@ -1082,6 +1136,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Balístico de …",
+    "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
       "novo": 10437,
@@ -1102,6 +1157,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete à Prova de Ba…",
+    "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
       "novo": 23004,
@@ -1122,6 +1178,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Balístico 220",
+    "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
       "novo": 11760,
@@ -1142,6 +1199,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Balístico Lev…",
+    "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
       "novo": 52272,
@@ -1162,6 +1220,7 @@ window.ITENS = [
   },
   {
     "nome": "SWAT H-Tac",
+    "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
       "novo": 44712,
@@ -1182,6 +1241,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Balístico de …",
+    "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
       "novo": 27378,
@@ -1202,6 +1262,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Balístico PCA…",
+    "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
       "novo": 27456,
@@ -1222,6 +1283,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Balístico de …",
+    "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
       "novo": 71628,
@@ -1242,6 +1304,7 @@ window.ITENS = [
   },
   {
     "nome": "Blindagem SWAT Pa…",
+    "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
       "novo": 45144,
@@ -1262,6 +1325,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Balístico For…",
+    "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
       "novo": 99484,
@@ -1282,6 +1346,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Balístico 6B2…",
+    "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
       "novo": 177016,
@@ -1302,6 +1367,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Balístico 6B1…",
+    "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
       "novo": 93960,
@@ -1322,6 +1388,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Balístico IND…",
+    "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
       "novo": 74250,
@@ -1342,6 +1409,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Balístico Spa…",
+    "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
       "novo": 133980,
@@ -1362,6 +1430,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Balístico Com…",
+    "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
       "novo": 318246,
@@ -1382,6 +1451,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Balístico Tát…",
+    "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
       "novo": 333024,
@@ -1402,6 +1472,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Balístico Pes…",
+    "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
       "novo": 321376,
@@ -1422,6 +1493,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Balístico Pes…",
+    "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
       "novo": 304859,
@@ -1442,6 +1514,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Balístico Ofe…",
+    "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
       "novo": 393274,
@@ -1462,6 +1535,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Balístico Pad…",
+    "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
       "novo": 380880,
@@ -1482,6 +1556,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Balístico Pro…",
+    "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
       "novo": 332304,
@@ -1502,6 +1577,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Balístico Pes…",
+    "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
       "novo": 609120,
@@ -1522,6 +1598,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Balístico Tát…",
+    "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
       "novo": 1279938,
@@ -1542,6 +1619,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Balístico Pes…",
+    "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
       "novo": 1124011,
@@ -1562,6 +1640,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Balístico Pes…",
+    "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
       "novo": 1144500,
@@ -1582,6 +1661,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Balístico Com…",
+    "grupo": "Equipamento",
     "categoria": "Colete",
     "precos": {
       "novo": 1746816,
@@ -1602,6 +1682,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Peitoral de I…",
+    "grupo": "Equipamento",
     "categoria": "Colete não blindado",
     "precos": {
       "novo": 2385,
@@ -1614,6 +1695,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete de Transport…",
+    "grupo": "Equipamento",
     "categoria": "Colete não blindado",
     "precos": {
       "novo": 2673,
@@ -1626,6 +1708,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete de Caça",
+    "grupo": "Equipamento",
     "categoria": "Colete não blindado",
     "precos": {
       "novo": 3072,
@@ -1638,6 +1721,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete de Couro para…",
+    "grupo": "Equipamento",
     "categoria": "Colete não blindado",
     "precos": {
       "novo": 5040,
@@ -1650,6 +1734,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Punk para Mo…",
+    "grupo": "Equipamento",
     "categoria": "Colete não blindado",
     "precos": {
       "novo": 4896,
@@ -1662,6 +1747,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Peitoral BH2",
+    "grupo": "Equipamento",
     "categoria": "Colete não blindado",
     "precos": {
       "novo": 15755,
@@ -1674,6 +1760,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Leve 926",
+    "grupo": "Equipamento",
     "categoria": "Colete não blindado",
     "precos": {
       "novo": 19560,
@@ -1686,6 +1773,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Tático de Ser…",
+    "grupo": "Equipamento",
     "categoria": "Colete não blindado",
     "precos": {
       "novo": 33264,
@@ -1698,6 +1786,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Peitoral Simp…",
+    "grupo": "Equipamento",
     "categoria": "Colete não blindado",
     "precos": {
       "novo": 50040,
@@ -1710,6 +1799,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Peitoral Stor…",
+    "grupo": "Equipamento",
     "categoria": "Colete não blindado",
     "precos": {
       "novo": 40986,
@@ -1722,6 +1812,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Peitoral Univ…",
+    "grupo": "Equipamento",
     "categoria": "Colete não blindado",
     "precos": {
       "novo": 65436,
@@ -1734,6 +1825,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Caçador 926",
+    "grupo": "Equipamento",
     "categoria": "Colete não blindado",
     "precos": {
       "novo": 66300,
@@ -1746,6 +1838,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Peitoral Mult…",
+    "grupo": "Equipamento",
     "categoria": "Colete não blindado",
     "precos": {
       "novo": 103086,
@@ -1758,6 +1851,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Peitoral Táti…",
+    "grupo": "Equipamento",
     "categoria": "Colete não blindado",
     "precos": {
       "novo": 64155,
@@ -1770,6 +1864,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Peitoral Táti…",
+    "grupo": "Equipamento",
     "categoria": "Colete não blindado",
     "precos": {
       "novo": 123440,
@@ -1782,6 +1877,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Peitoral Com…",
+    "grupo": "Equipamento",
     "categoria": "Colete não blindado",
     "precos": {
       "novo": 138773,
@@ -1794,6 +1890,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Peitoral Táti…",
+    "grupo": "Equipamento",
     "categoria": "Colete não blindado",
     "precos": {
       "novo": 108000,
@@ -1806,6 +1903,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Peitoral Táti…",
+    "grupo": "Equipamento",
     "categoria": "Colete não blindado",
     "precos": {
       "novo": 119250,
@@ -1818,6 +1916,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Peitoral de C…",
+    "grupo": "Equipamento",
     "categoria": "Colete não blindado",
     "precos": {
       "novo": 166830,
@@ -1830,6 +1929,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete de Combate …",
+    "grupo": "Equipamento",
     "categoria": "Colete Blindado",
     "precos": {
       "novo": 25200,
@@ -1850,6 +1950,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Blindado 6B5",
+    "grupo": "Equipamento",
     "categoria": "Colete Blindado",
     "precos": {
       "novo": 89012,
@@ -1870,6 +1971,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Peitoral Blin…",
+    "grupo": "Equipamento",
     "categoria": "Colete Blindado",
     "precos": {
       "novo": 89490,
@@ -1890,6 +1992,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Peitoral Blin…",
+    "grupo": "Equipamento",
     "categoria": "Colete Blindado",
     "precos": {
       "novo": 95680,
@@ -1910,6 +2013,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Peitoral Blin…",
+    "grupo": "Equipamento",
     "categoria": "Colete Blindado",
     "precos": {
       "novo": 134640,
@@ -1930,6 +2034,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Blindado TM1",
+    "grupo": "Equipamento",
     "categoria": "Colete Blindado",
     "precos": {
       "novo": 123984,
@@ -1950,6 +2055,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Blindado TM2",
+    "grupo": "Equipamento",
     "categoria": "Colete Blindado",
     "precos": {
       "novo": 188897,
@@ -1970,6 +2076,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Blindado H-Ta…",
+    "grupo": "Equipamento",
     "categoria": "Colete Blindado",
     "precos": {
       "novo": 316192,
@@ -1990,6 +2097,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Tático Blinda…",
+    "grupo": "Equipamento",
     "categoria": "Colete Blindado",
     "precos": {
       "novo": 347336,
@@ -2010,6 +2118,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Blindado H-Ta…",
+    "grupo": "Equipamento",
     "categoria": "Colete Blindado",
     "precos": {
       "novo": 326025,
@@ -2030,6 +2139,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Blindado Pesa…",
+    "grupo": "Equipamento",
     "categoria": "Colete Blindado",
     "precos": {
       "novo": 394632,
@@ -2050,6 +2160,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Blindado Pesa…",
+    "grupo": "Equipamento",
     "categoria": "Colete Blindado",
     "precos": {
       "novo": 994665,
@@ -2070,6 +2181,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete blindado táti…",
+    "grupo": "Equipamento",
     "categoria": "Colete Blindado",
     "precos": {
       "novo": 1005888,
@@ -2090,6 +2202,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete Blindado Pesa…",
+    "grupo": "Equipamento",
     "categoria": "Colete Blindado",
     "precos": {
       "novo": 1146600,
@@ -2110,6 +2223,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete blindado de c…",
+    "grupo": "Equipamento",
     "categoria": "Colete Blindado",
     "precos": {
       "novo": 1203417,
@@ -2130,6 +2244,7 @@ window.ITENS = [
   },
   {
     "nome": "Colete blindado de a…",
+    "grupo": "Equipamento",
     "categoria": "Colete Blindado",
     "precos": {
       "novo": 1200644,
@@ -2150,6 +2265,7 @@ window.ITENS = [
   },
   {
     "nome": "Bolsa Lateral",
+    "grupo": "Equipamento",
     "categoria": "Mochila",
     "precos": {
       "novo": 3300,
@@ -2162,6 +2278,7 @@ window.ITENS = [
   },
   {
     "nome": "Mochila de Acampam…",
+    "grupo": "Equipamento",
     "categoria": "Mochila",
     "precos": {
       "novo": 2800,
@@ -2174,6 +2291,7 @@ window.ITENS = [
   },
   {
     "nome": "Mochila de Acampam…",
+    "grupo": "Equipamento",
     "categoria": "Mochila",
     "precos": {
       "novo": 2400,
@@ -2186,6 +2304,7 @@ window.ITENS = [
   },
   {
     "nome": "Mochila Simples",
+    "grupo": "Equipamento",
     "categoria": "Mochila",
     "precos": {
       "novo": 8064,
@@ -2198,6 +2317,7 @@ window.ITENS = [
   },
   {
     "nome": "Mochila de Lona",
+    "grupo": "Equipamento",
     "categoria": "Mochila",
     "precos": {
       "novo": 9120,
@@ -2210,6 +2330,7 @@ window.ITENS = [
   },
   {
     "nome": "Mochila de Acampam…",
+    "grupo": "Equipamento",
     "categoria": "Mochila",
     "precos": {
       "novo": 28431,
@@ -2222,6 +2343,7 @@ window.ITENS = [
   },
   {
     "nome": "Mochila Esportiva",
+    "grupo": "Equipamento",
     "categoria": "Mochila",
     "precos": {
       "novo": 34200,
@@ -2234,6 +2356,7 @@ window.ITENS = [
   },
   {
     "nome": "Mochila de Viagem p…",
+    "grupo": "Equipamento",
     "categoria": "Mochila",
     "precos": {
       "novo": 37480,
@@ -2246,6 +2369,7 @@ window.ITENS = [
   },
   {
     "nome": "Mochila Tática RUSH",
+    "grupo": "Equipamento",
     "categoria": "Mochila",
     "precos": {
       "novo": 67464,
@@ -2258,6 +2382,7 @@ window.ITENS = [
   },
   {
     "nome": "Mochila de Couro",
+    "grupo": "Equipamento",
     "categoria": "Mochila",
     "precos": {
       "novo": 43875,
@@ -2270,6 +2395,7 @@ window.ITENS = [
   },
   {
     "nome": "Mochila Tática XA4",
+    "grupo": "Equipamento",
     "categoria": "Mochila",
     "precos": {
       "novo": 45296,
@@ -2282,6 +2408,7 @@ window.ITENS = [
   },
   {
     "nome": "Mochila de Campo M…",
+    "grupo": "Equipamento",
     "categoria": "Mochila",
     "precos": {
       "novo": 46892,
@@ -2294,6 +2421,7 @@ window.ITENS = [
   },
   {
     "nome": "Mochila de Acampam…",
+    "grupo": "Equipamento",
     "categoria": "Mochila",
     "precos": {
       "novo": 47614,
@@ -2306,6 +2434,7 @@ window.ITENS = [
   },
   {
     "nome": "Mochila Militar Chap…",
+    "grupo": "Equipamento",
     "categoria": "Mochila",
     "precos": {
       "novo": 50426,
@@ -2318,6 +2447,7 @@ window.ITENS = [
   },
   {
     "nome": "Mochila de Assalto A…",
+    "grupo": "Equipamento",
     "categoria": "Mochila",
     "precos": {
       "novo": 55965,
@@ -2330,6 +2460,7 @@ window.ITENS = [
   },
   {
     "nome": "Mochila de Marcha R…",
+    "grupo": "Equipamento",
     "categoria": "Mochila",
     "precos": {
       "novo": 68400,
@@ -2342,6 +2473,7 @@ window.ITENS = [
   },
   {
     "nome": "Mochila Tática Expan…",
+    "grupo": "Equipamento",
     "categoria": "Mochila",
     "precos": {
       "novo": 153900,
@@ -2354,6 +2486,7 @@ window.ITENS = [
   },
   {
     "nome": "Mochila de Campo 926",
+    "grupo": "Equipamento",
     "categoria": "Mochila",
     "precos": {
       "novo": 185760,
@@ -2366,6 +2499,7 @@ window.ITENS = [
   },
   {
     "nome": "Fone de Ouvido Tátic…",
+    "grupo": "Equipamento",
     "categoria": "Fone de ouvido",
     "precos": {
       "novo": 4600,
@@ -2378,6 +2512,7 @@ window.ITENS = [
   },
   {
     "nome": "Fone de Ouvido Tátic…",
+    "grupo": "Equipamento",
     "categoria": "Fone de ouvido",
     "precos": {
       "novo": 21842,
@@ -2390,6 +2525,7 @@ window.ITENS = [
   },
   {
     "nome": "Fone de Ouvido Tátic…",
+    "grupo": "Equipamento",
     "categoria": "Fone de ouvido",
     "precos": {
       "novo": 44589,
@@ -2402,6 +2538,7 @@ window.ITENS = [
   },
   {
     "nome": "Fone de Ouvido Tátic…",
+    "grupo": "Equipamento",
     "categoria": "Fone de ouvido",
     "precos": {
       "novo": 53600,
@@ -2414,6 +2551,7 @@ window.ITENS = [
   },
   {
     "nome": "Auricular Tático GS2",
+    "grupo": "Equipamento",
     "categoria": "Fone de ouvido",
     "precos": {
       "novo": 85760,
@@ -2426,6 +2564,7 @@ window.ITENS = [
   },
   {
     "nome": "Máscara de Gás SH-3",
+    "grupo": "Equipamento",
     "categoria": "Máscara de Gás",
     "precos": {
       "novo": 21420,
@@ -2445,6 +2584,7 @@ window.ITENS = [
   },
   {
     "nome": "Meia-máscara RAL20",
+    "grupo": "Equipamento",
     "categoria": "Máscara de Gás",
     "precos": {
       "novo": 22784,
@@ -2464,6 +2604,7 @@ window.ITENS = [
   },
   {
     "nome": "Máscara de Gás Com…",
+    "grupo": "Equipamento",
     "categoria": "Máscara de Gás",
     "precos": {
       "novo": 37168,
@@ -2483,6 +2624,7 @@ window.ITENS = [
   },
   {
     "nome": "Máscara de Gás Univ…",
+    "grupo": "Equipamento",
     "categoria": "Máscara de Gás",
     "precos": {
       "novo": 38250,
@@ -2502,6 +2644,7 @@ window.ITENS = [
   },
   {
     "nome": "Máscara de Gás SH-4",
+    "grupo": "Equipamento",
     "categoria": "Máscara de Gás",
     "precos": {
       "novo": 36281,
@@ -2521,6 +2664,7 @@ window.ITENS = [
   },
   {
     "nome": "Máscara de Gás Ócul…",
+    "grupo": "Equipamento",
     "categoria": "Máscara de Gás",
     "precos": {
       "novo": 42525,
@@ -2540,6 +2684,7 @@ window.ITENS = [
   },
   {
     "nome": "Máscara de Gás Avan…",
+    "grupo": "Equipamento",
     "categoria": "Máscara de Gás",
     "precos": {
       "novo": 56700,
