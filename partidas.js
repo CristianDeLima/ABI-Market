@@ -12,5 +12,5 @@ window.PARTIDAS = [
   { n: 11, data: "2026-11-01", entrada: 1298622, saida: 0,       status: "morreu" },
   { n: 12, data: "2026-11-01", entrada: 1871986, saida: 0,       status: "morreu" },
   { n: 13, data: "2026-11-01", entrada: 1640000, saida: 0,       status: "morreu" },
-  { n: 14, data: "2026-11-01", entrada: 1621559, saida: null,    status: "em andamento" }
+  { n: 14, data: "2026-11-01", entrada: 1621559, saida: 0,       status: "morreu" }
 ];
