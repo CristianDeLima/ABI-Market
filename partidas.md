@@ -16,6 +16,6 @@
 | 13 | 01/11/2026 | — | 1.640.000 | 0 (morreu) | **−1.640.000** | Seguro e Caixa de Titânio não contados |
 | 14 | 01/11/2026 | — | 1.621.559 | 0 (morreu) | **−1.621.559** | Seguro e Caixa de Titânio não contados |
 | 15 | 01/11/2026 | — | 2.267.280 | 0 (morreu) | **−2.267.280** | Seguro e Caixa de Titânio não contados |
-| 16 | 02/11/2026 | — | 2.162.577 | em andamento | — | |
+| 16 | 02/11/2026 | — | 2.162.577 | 0 (morreu) | **−2.162.577** | Seguro e Caixa de Titânio não contados |
 
-**Saldo acumulado: +3.076.666**
+**Saldo acumulado: +914.089**
