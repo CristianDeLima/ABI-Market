@@ -13,5 +13,6 @@
 | 10 | 01/11/2026 | — | 850.076 | 8.001.634 (extraiu) | **+7.151.558** | |
 | 11 | 01/11/2026 | — | 1.298.622 | 0 (morreu) | **−1.298.622** | Seguro e Caixa de Titânio não contados |
 | 12 | 01/11/2026 | — | 1.871.986 | 0 (morreu) | **−1.871.986** | Seguro e Caixa de Titânio não contados |
+| 13 | 01/11/2026 | — | 1.640.000 | em andamento | — | |
 
 **Saldo acumulado: +8.605.505**
