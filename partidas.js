@@ -1,4 +1,7 @@
 // Histórico de partidas. resultado = saida - entrada (morreu: saida 0). null = ainda sem dado.
+// Koen em conta (do print do jogo)
+window.CARTEIRA = { valor: 440496000, data: "2026-11-03" };
+
 window.PARTIDAS = [
   { n: 1, data: "2026-11-01", entrada: 489038,  saida: 0,       status: "morreu" },
   { n: 2, data: "2026-11-01", entrada: 820205,  saida: 0,       status: "morreu" },

@@ -230,6 +230,7 @@ footer { font: 12px/1.6 var(--f-mono); color: var(--dim); border-top: 1px solid 
     </div>
     <div class="stats">
       <div class="saldo" id="saldo" hidden title="Lucro ou perda das partidas"><b id="saldo-v">0</b></div>
+      <div class="stat" id="st-cart-w" hidden><b id="st-cart">0</b>koen em conta</div>
       <div class="stat"><b id="st-itens">0</b>itens</div>
       <div class="stat"><b id="st-troca" class="am">0</b>troca c/ contato</div>
       <div class="stat"><b id="st-data">—</b>última foto</div>
@@ -316,6 +317,14 @@ footer { font: 12px/1.6 var(--f-mono); color: var(--dim); border-top: 1px solid 
   var grupos = (Array.isArray(window.GRUPOS) ? window.GRUPOS.slice() : []);
   ITENS.forEach(function (i) { if (grupos.indexOf(grupoDe(i)) === -1) grupos.push(grupoDe(i)); });
   function conta(g) { return ITENS.filter(function (i) { return grupoDe(i) === g; }).length; }
+
+  // koen em conta
+  (function () {
+    var c = window.CARTEIRA; if (!c || c.valor == null) return;
+    $("st-cart").textContent = fmt.format(c.valor);
+    $("st-cart-w").title = "Atualizado em " + fmtData(c.data);
+    $("st-cart-w").hidden = false;
+  })();
 
   // saldo das partidas
   (function () {
